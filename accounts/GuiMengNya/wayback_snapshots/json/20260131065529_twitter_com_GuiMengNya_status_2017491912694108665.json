@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2017325435114426497",
+    "created_at": "2026-01-31T06:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T07:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017491912694108665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1763921497138352128",
+          "start": 0,
+          "username": "damiaoedux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017491912694108665",
+    "in_reply_to_user_id": "1763921497138352128",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017491530601402434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damiaoedux 😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017491528109985794",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_-R2w5bEAIzn82.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2017325435114426497",
+        "created_at": "2026-01-31T06:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T07:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017491912694108665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1763921497138352128",
+              "start": 0,
+              "username": "damiaoedux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017491912694108665",
+        "in_reply_to_user_id": "1763921497138352128",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017491530601402434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damiaoedux 😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017491528109985794"
+          ]
+        },
+        "author_id": "1763921497138352128",
+        "conversation_id": "2017325435114426497",
+        "created_at": "2026-01-31T06:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T07:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017491530601402434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NdIocnPErm",
+              "end": 35,
+              "expanded_url": "https://x.com/damiaoedux/status/2017491530601402434/photo/1",
+              "media_key": "3_2017491528109985794",
+              "start": 12,
+              "url": "https://t.co/NdIocnPErm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017491530601402434",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017325435114426497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya https://t.co/NdIocnPErm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6119,
+          "following_count": 723,
+          "like_count": 9711,
+          "listed_count": 17,
+          "media_count": 1015,
+          "tweet_count": 3100
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-02T13:38:04.000Z",
+        "description": "大喵前端致力于用认真、靠谱、踏实的教学方式，培养真正的程序员。\n8年来培养500+名零基础同学成功转行。\n曾将多名零基础、非科班的同学通过半年培养成为大厂正式员工。\n开设有 计算机预科班 和 前端就业班\n不要私信，直接加QQ/微信：285696737",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "damiaoedu.com",
+                "end": 23,
+                "expanded_url": "http://damiaoedu.com",
+                "start": 0,
+                "url": "https://t.co/38N849prrk"
+              }
+            ]
+          }
+        },
+        "id": "1763921497138352128",
+        "location": "杭州",
+        "name": "大喵CS、转码、预科班(9年讲师，能够教你学会编程)",
+        "pinned_tweet_id": "1971934528542556511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764187691653234688/JIvW3b3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8354,
+          "following_count": 52,
+          "like_count": 2968,
+          "listed_count": 39,
+          "media_count": 303,
+          "tweet_count": 3077
+        },
+        "url": "https://t.co/38N849prrk",
+        "username": "damiaoedux",
+        "verified": true
+      }
+    ]
+  }
+}

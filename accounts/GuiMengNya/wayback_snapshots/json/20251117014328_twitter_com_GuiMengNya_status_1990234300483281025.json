@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1989735805125103659",
+    "created_at": "2025-11-17T01:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T02:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990234300483281025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1821089011727003649",
+          "start": 0,
+          "username": "arrco_justin2"
+        },
+        {
+          "end": 22,
+          "id": "1286241253621817344",
+          "start": 15,
+          "username": "ACldJP"
+        },
+        {
+          "end": 36,
+          "id": "2840236608",
+          "start": 23,
+          "username": "MilkStarNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990234300483281025",
+    "in_reply_to_user_id": "1821089011727003649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989922536579346500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arrco_justin2 @ACldJP @MilkStarNeko 没这么贫穷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1989735805125103659",
+        "created_at": "2025-11-17T01:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T02:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990234300483281025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1821089011727003649",
+              "start": 0,
+              "username": "arrco_justin2"
+            },
+            {
+              "end": 22,
+              "id": "1286241253621817344",
+              "start": 15,
+              "username": "ACldJP"
+            },
+            {
+              "end": 36,
+              "id": "2840236608",
+              "start": 23,
+              "username": "MilkStarNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990234300483281025",
+        "in_reply_to_user_id": "1821089011727003649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989922536579346500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arrco_justin2 @ACldJP @MilkStarNeko 没这么贫穷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821089011727003649",
+        "conversation_id": "1989735805125103659",
+        "created_at": "2025-11-16T05:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T06:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989922536579346500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1286241253621817344",
+              "start": 0,
+              "username": "ACldJP"
+            },
+            {
+              "end": 21,
+              "id": "2840236608",
+              "start": 8,
+              "username": "MilkStarNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989922536579346500",
+        "in_reply_to_user_id": "1286241253621817344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989743555150250000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ACldJP @MilkStarNeko 鸠光steam账户的钱都够了吧（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1982061018953232844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 328,
+          "like_count": 6491,
+          "listed_count": 8,
+          "media_count": 226,
+          "tweet_count": 1912
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-07T07:40:40.000Z",
+        "description": "亻尔女子！我是JUSTIN！\n一个13岁的小屁孩！(25.10.20)\n不会翻车！！！！！！！！！！！！\n喜欢搞银行卡，C++和Python之类奇奇怪怪的爱好，前端一窍不通喵\n欢迎互FO喵!\n 添加一些好东西:@ARRCO_JUSTIN @sanyunhuan\nemail:argcxkoff13hn@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 105,
+                "username": "ARRCO_JUSTIN"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "sanyunhuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arrco.wuaze.com",
+                "end": 23,
+                "expanded_url": "https://arrco.wuaze.com",
+                "start": 0,
+                "url": "https://t.co/HdWVMTf3oj"
+              }
+            ]
+          }
+        },
+        "id": "1821089011727003649",
+        "location": "请先授权「X」定位权限",
+        "name": "ARRCO_JUSTIN",
+        "pinned_tweet_id": "1973214125116490192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984409058250784768/m45mrnPU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 924,
+          "like_count": 12887,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2092
+        },
+        "url": "https://t.co/HdWVMTf3oj",
+        "username": "arrco_justin2",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "音游人\n本命号@Cldeop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 7,
+                "username": "Cldeop"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "鹊巢（鸠占）",
+        "name": "九鸟",
+        "pinned_tweet_id": "1950458623915937827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 256,
+          "like_count": 1942,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 755
+        },
+        "username": "ACldJP",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "牛奶貓🐈系統&水母🪼系統。坏猫@StarNekOvO。杭州・シンガポール・東京・深圳・重慶あたりに出没するかも。 INFJ｜双極性II型・重度うつ・不安・BPD・ADHD・地雷注意｜已失去夢想",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "StarNekOvO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarNekOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarNekOvO",
+                "start": 0,
+                "url": "https://t.co/nVL53sBbua"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島",
+        "name": "牛奶猫",
+        "pinned_tweet_id": "1983982521051418829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979924394630619136/ScimS47h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4363,
+          "following_count": 2044,
+          "like_count": 31754,
+          "listed_count": 17,
+          "media_count": 1289,
+          "tweet_count": 10796
+        },
+        "url": "https://t.co/nVL53sBbua",
+        "username": "MilkStarNeko",
+        "verified": true
+      }
+    ]
+  }
+}

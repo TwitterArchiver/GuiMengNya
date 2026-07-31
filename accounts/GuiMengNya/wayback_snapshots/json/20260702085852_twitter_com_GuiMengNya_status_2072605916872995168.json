@@ -1,0 +1,522 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072605906010005504",
+        "3_2072605906018463744",
+        "3_2072605906018459648"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1582737213220999170",
+          "name": "Revolut"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      }
+    ],
+    "conversation_id": "2072605916872995168",
+    "created_at": "2026-07-02T08:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T09:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072605916872995168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F9vHDztakk",
+          "end": 197,
+          "expanded_url": "https://x.com/GuiMengNya/status/2072605916872995168/photo/1",
+          "media_key": "3_2072605906010005504",
+          "start": 174,
+          "url": "https://t.co/F9vHDztakk"
+        },
+        {
+          "display_url": "pic.x.com/F9vHDztakk",
+          "end": 197,
+          "expanded_url": "https://x.com/GuiMengNya/status/2072605916872995168/photo/1",
+          "media_key": "3_2072605906018463744",
+          "start": 174,
+          "url": "https://t.co/F9vHDztakk"
+        },
+        {
+          "display_url": "pic.x.com/F9vHDztakk",
+          "end": 197,
+          "expanded_url": "https://x.com/GuiMengNya/status/2072605916872995168/photo/1",
+          "media_key": "3_2072605906018459648",
+          "start": 174,
+          "url": "https://t.co/F9vHDztakk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072605916872995168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "sg.starryblu.com/x/1wPHlAsV",
+            "end": 339,
+            "expanded_url": "https://sg.starryblu.com/x/1wPHlAsV",
+            "start": 316,
+            "url": "https://t.co/sDnA8FZ3jh"
+          }
+        ]
+      },
+      "text": "最近在用的一个跨境支付工具：Starryblu，分享一下。\n\n定位和 Wise、Revolut 类似——多币种账户 + 国际汇款 + 卡消费，走的是新加坡 MPI 牌照。\n\n线上开户，KYC 完成直接下卡，流程很快，卡片优点也很多：\n\n✅10+ 主流币种，余额互转\n✅Mastercard 虚拟卡 / 实体卡\n✅轻松订阅ChatGPT\n✅国际汇款\n✅支持扫微信二维码直接消费（这个意外实用）\n\n适合谁：有海外消费、旅行付款、跨境收付场景的人。不一定当主力用，但一定值得备一个。\n\n尤其是已经在用 Wise / Revolut 的，多一条新加坡节点的通道，关键时候不卡手。\n\n这类工具的逻辑就是：可以不常用，但不能没有。\n\n开卡链接：https://t.co/sDnA8FZ3jh \n邀请码：MDDK017 \n注册既送 10 新币，填写我的邀请码再送 10 新币。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近在用的一个跨境支付工具：Starryblu，分享一下。\n\n定位和 Wise、Revolut 类似——多币种账户 + 国际汇款 + 卡消费，走的是新加坡 MPI 牌照。\n\n线上开户，KYC 完成直接下卡，流程很快，卡片优点也很多：\n\n✅10+ 主流币种，余额互转\n✅Mastercard 虚拟卡 / 实体卡\n✅轻松订阅ChatGPT\n✅国际汇款 https://t.co/F9vHDztakk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1133,
+        "media_key": "3_2072605906010005504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNgFyMaYAArlFH.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1516,
+        "media_key": "3_2072605906018463744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNgFyObcAAPXiU.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1798,
+        "media_key": "3_2072605906018459648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNgFyObYAA0Yns.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072605906010005504",
+            "3_2072605906018463744",
+            "3_2072605906018459648"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213220999170",
+              "name": "Revolut"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2072605916872995168",
+        "created_at": "2026-07-02T08:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072605916872995168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F9vHDztakk",
+              "end": 197,
+              "expanded_url": "https://x.com/GuiMengNya/status/2072605916872995168/photo/1",
+              "media_key": "3_2072605906010005504",
+              "start": 174,
+              "url": "https://t.co/F9vHDztakk"
+            },
+            {
+              "display_url": "pic.x.com/F9vHDztakk",
+              "end": 197,
+              "expanded_url": "https://x.com/GuiMengNya/status/2072605916872995168/photo/1",
+              "media_key": "3_2072605906018463744",
+              "start": 174,
+              "url": "https://t.co/F9vHDztakk"
+            },
+            {
+              "display_url": "pic.x.com/F9vHDztakk",
+              "end": 197,
+              "expanded_url": "https://x.com/GuiMengNya/status/2072605916872995168/photo/1",
+              "media_key": "3_2072605906018459648",
+              "start": 174,
+              "url": "https://t.co/F9vHDztakk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072605916872995168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "sg.starryblu.com/x/1wPHlAsV",
+                "end": 339,
+                "expanded_url": "https://sg.starryblu.com/x/1wPHlAsV",
+                "start": 316,
+                "url": "https://t.co/sDnA8FZ3jh"
+              }
+            ]
+          },
+          "text": "最近在用的一个跨境支付工具：Starryblu，分享一下。\n\n定位和 Wise、Revolut 类似——多币种账户 + 国际汇款 + 卡消费，走的是新加坡 MPI 牌照。\n\n线上开户，KYC 完成直接下卡，流程很快，卡片优点也很多：\n\n✅10+ 主流币种，余额互转\n✅Mastercard 虚拟卡 / 实体卡\n✅轻松订阅ChatGPT\n✅国际汇款\n✅支持扫微信二维码直接消费（这个意外实用）\n\n适合谁：有海外消费、旅行付款、跨境收付场景的人。不一定当主力用，但一定值得备一个。\n\n尤其是已经在用 Wise / Revolut 的，多一条新加坡节点的通道，关键时候不卡手。\n\n这类工具的逻辑就是：可以不常用，但不能没有。\n\n开卡链接：https://t.co/sDnA8FZ3jh \n邀请码：MDDK017 \n注册既送 10 新币，填写我的邀请码再送 10 新币。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近在用的一个跨境支付工具：Starryblu，分享一下。\n\n定位和 Wise、Revolut 类似——多币种账户 + 国际汇款 + 卡消费，走的是新加坡 MPI 牌照。\n\n线上开户，KYC 完成直接下卡，流程很快，卡片优点也很多：\n\n✅10+ 主流币种，余额互转\n✅Mastercard 虚拟卡 / 实体卡\n✅轻松订阅ChatGPT\n✅国际汇款 https://t.co/F9vHDztakk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10511,
+          "following_count": 691,
+          "like_count": 11505,
+          "listed_count": 29,
+          "media_count": 2423,
+          "tweet_count": 4812
+        },
+        "url": "",
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

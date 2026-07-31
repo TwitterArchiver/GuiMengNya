@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2049903269695353342",
+    "created_at": "2026-04-30T17:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049903269695353342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "YunJiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049903269695353342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049890107399037246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YunJiu: Aoi M，本名石原椿/三澄葵，曾帮助过包括我在内的部分推友代接X收益。\n之前的帖子提到，他会克扣部分X收益，大部分用于个人消费。\n情况不止于此。他曾在2025年8月故意拖延好多天向我支付X收益，后续得知他当时预谋私吞。附图为聊天记录选段。\n后续，我不得…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2961,
+        "media_key": "3_2049890099270492160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKsLzuboAAhlKf.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2049903269695353342",
+        "created_at": "2026-04-30T17:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049903269695353342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049903269695353342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049890107399037246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YunJiu: Aoi M，本名石原椿/三澄葵，曾帮助过包括我在内的部分推友代接X收益。\n之前的帖子提到，他会克扣部分X收益，大部分用于个人消费。\n情况不止于此。他曾在2025年8月故意拖延好多天向我支付X收益，后续得知他当时预谋私吞。附图为聊天记录选段。\n后续，我不得…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049890099270492160"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2049890107399037246",
+        "created_at": "2026-04-30T16:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049890107399037246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Mx0gbjGVQ",
+              "end": 172,
+              "expanded_url": "https://x.com/YunJiu/status/2049890107399037246/photo/1",
+              "media_key": "3_2049890099270492160",
+              "start": 149,
+              "url": "https://t.co/4Mx0gbjGVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049890107399037246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3387,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Aoi M，本名石原椿/三澄葵，曾帮助过包括我在内的部分推友代接X收益。\n之前的帖子提到，他会克扣部分X收益，大部分用于个人消费。\n情况不止于此。他曾在2025年8月故意拖延好多天向我支付X收益，后续得知他当时预谋私吞。附图为聊天记录选段。\n后续，我不得不向他发送讨好邮件，这才获得了应得的款项。 https://t.co/4Mx0gbjGVQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边/人间归梦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10146,
+          "following_count": 699,
+          "like_count": 11440,
+          "listed_count": 31,
+          "media_count": 2164,
+          "tweet_count": 4538
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103721,
+          "following_count": 773,
+          "like_count": 36603,
+          "listed_count": 293,
+          "media_count": 18130,
+          "tweet_count": 26039
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

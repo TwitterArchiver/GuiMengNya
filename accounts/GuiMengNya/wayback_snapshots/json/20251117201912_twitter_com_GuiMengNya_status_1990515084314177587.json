@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1990367766952697938",
+    "created_at": "2025-11-17T20:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T21:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990515084314177587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1886969144031240192",
+          "start": 0,
+          "username": "SpoxCHN_MaoNing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990515084314177587",
+    "in_reply_to_user_id": "1886969144031240192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990367766952697938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SpoxCHN_MaoNing 你們這群不要臉的，竊取勝利果實還要扯這些有的沒的，自己不好好搞統治，獨裁，暴政，為了維護統治把仇恨轉到日本身上，你也就是拿著 150歲給你飯吃的畜生一條，台灣給日本給美國收復甚至獨立也不給你們傻逼共匪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990367753224810497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5807RdbcAE3Hvy.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1990367766952697938",
+        "created_at": "2025-11-17T20:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T21:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990515084314177587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886969144031240192",
+              "start": 0,
+              "username": "SpoxCHN_MaoNing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990515084314177587",
+        "in_reply_to_user_id": "1886969144031240192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990367766952697938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpoxCHN_MaoNing 你們這群不要臉的，竊取勝利果實還要扯這些有的沒的，自己不好好搞統治，獨裁，暴政，為了維護統治把仇恨轉到日本身上，你也就是拿著 150歲給你飯吃的畜生一條，台灣給日本給美國收復甚至獨立也不給你們傻逼共匪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990367753224810497"
+          ]
+        },
+        "author_id": "1886969144031240192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "1990367766952697938",
+        "created_at": "2025-11-17T10:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T11:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990367766952697938"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Sanae Takaichi",
+              "probability": 0.9758,
+              "start": 24,
+              "type": "Person"
+            },
+            {
+              "end": 66,
+              "normalized_text": "Taiwan",
+              "probability": 0.9694,
+              "start": 61,
+              "type": "Place"
+            },
+            {
+              "end": 141,
+              "normalized_text": "China",
+              "probability": 0.9594,
+              "start": 137,
+              "type": "Place"
+            },
+            {
+              "end": 151,
+              "normalized_text": "Japan",
+              "probability": 0.9714,
+              "start": 147,
+              "type": "Place"
+            },
+            {
+              "end": 210,
+              "normalized_text": "China",
+              "probability": 0.9345,
+              "start": 206,
+              "type": "Place"
+            },
+            {
+              "end": 216,
+              "normalized_text": "Japan",
+              "probability": 0.9196,
+              "start": 212,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sj0OJOkIq6",
+              "end": 303,
+              "expanded_url": "https://x.com/SpoxCHN_MaoNing/status/1990367766952697938/photo/1",
+              "media_key": "3_1990367753224810497",
+              "start": 280,
+              "url": "https://t.co/Sj0OJOkIq6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990367766952697938",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Japanese Prime Minister Sanae Takaichi’s wrongful remarks on Taiwan seriously violate the spirit of the four political documents between China and Japan, and fundamentally erode the political foundation of China-Japan relations.\n \nWhat is laid out in the four political documents between China and Japan regarding the Taiwan question is the solemn commitment made by the Japanese government, and has legal effect under international law. There is no room for ambiguity or misinterpretation.\n \nWhichever political party or person is in power in Japan, they must abide by the commitment of the Japanese government on the Taiwan question.\n \nWe urge Japan to adopt a responsible approach to history and its relations with China, stop trampling on the red line and playing with fire, retract the wrong remarks and cease the wrongdoing, and act to honor Japan’s commitments to China."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 633176,
+          "like_count": 1634,
+          "quote_count": 284,
+          "reply_count": 1216,
+          "retweet_count": 422
+        },
+        "reply_settings": "everyone",
+        "text": "Japanese Prime Minister Sanae Takaichi’s wrongful remarks on Taiwan seriously violate the spirit of the four political documents between China and Japan, and fundamentally erode the political foundation of China-Japan relations.\n \nWhat is laid out in the four political documents https://t.co/Sj0OJOkIq6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1982061018953232844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 332,
+          "like_count": 6564,
+          "listed_count": 8,
+          "media_count": 229,
+          "tweet_count": 1924
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-05T02:45:17.000Z",
+        "description": "Spokesperson of Ministry of Foreign Affairs of China\nDG of Department of Press,\nCommunication and Public Diplomacy",
+        "id": "1886969144031240192",
+        "name": "Mao Ning 毛宁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888800829660168193/uCHvf1z7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151235,
+          "following_count": 243,
+          "like_count": 1,
+          "listed_count": 538,
+          "media_count": 945,
+          "tweet_count": 997
+        },
+        "username": "SpoxCHN_MaoNing",
+        "verified": true
+      }
+    ]
+  }
+}

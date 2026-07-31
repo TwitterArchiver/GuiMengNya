@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2011760919521739040",
+    "created_at": "2026-01-15T11:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T12:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011760919521739040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pineorange1000…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/pineorange1000/status/2011680468249489519",
+          "start": 23,
+          "url": "https://t.co/0MNSLmE6JI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011760919521739040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011680468249489519",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "肯德基是这样子的\n用户喜欢什么下架什么🤣🤣🤣 https://t.co/0MNSLmE6JI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 649,
+        "media_key": "3_2011680380013985798",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rspbRbQAY7Ujz.png",
+        "width": 683
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2011760919521739040",
+        "created_at": "2026-01-15T11:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T12:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011760919521739040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pineorange1000…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/pineorange1000/status/2011680468249489519",
+              "start": 23,
+              "url": "https://t.co/0MNSLmE6JI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011760919521739040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011680468249489519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "肯德基是这样子的\n用户喜欢什么下架什么🤣🤣🤣 https://t.co/0MNSLmE6JI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011680380013985798"
+          ]
+        },
+        "author_id": "1648886687999889408",
+        "conversation_id": "2011680468249489519",
+        "created_at": "2026-01-15T06:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T07:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011680468249489519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C83k2zm8zu",
+              "end": 33,
+              "expanded_url": "https://x.com/pineorange1000/status/2011680468249489519/photo/1",
+              "media_key": "3_2011680380013985798",
+              "start": 10,
+              "url": "https://t.co/C83k2zm8zu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011680468249489519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 67640,
+          "like_count": 302,
+          "quote_count": 13,
+          "reply_count": 45,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "真的假的....? https://t.co/C83k2zm8zu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5463,
+          "following_count": 605,
+          "like_count": 8764,
+          "listed_count": 16,
+          "media_count": 822,
+          "tweet_count": 2813
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-20T03:10:26.000Z",
+        "description": "一顆快樂的柳丁，YT頻道頻道主要是遊戲心得或攻略，如果你也是卑鄙的外鄉人，歡迎一起來同樂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@pineorange630…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@pineorange6300/videos",
+                "start": 0,
+                "url": "https://t.co/dWoJ9SbV8g"
+              }
+            ]
+          }
+        },
+        "id": "1648886687999889408",
+        "location": "Lands Between",
+        "name": "派柳丁🍊pineorange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701661589475356672/LASqWjGO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2728,
+          "following_count": 140,
+          "like_count": 2490,
+          "listed_count": 7,
+          "media_count": 252,
+          "tweet_count": 1657
+        },
+        "url": "https://t.co/dWoJ9SbV8g",
+        "username": "pineorange1000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1961423706426921410",
+    "created_at": "2025-08-29T19:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T20:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961510139074400327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1832136784354144259",
+          "start": 0,
+          "username": "kashihara28612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961510139074400327",
+    "in_reply_to_user_id": "1832136784354144259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961423706426921410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kashihara28612 奖池还在累计"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1961423706426921410",
+        "created_at": "2025-08-29T19:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T20:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961510139074400327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1832136784354144259",
+              "start": 0,
+              "username": "kashihara28612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961510139074400327",
+        "in_reply_to_user_id": "1832136784354144259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961423706426921410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kashihara28612 奖池还在累计"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832136784354144259",
+        "conversation_id": "1961423706426921410",
+        "created_at": "2025-08-29T13:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T14:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961423706426921410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kashihara28612…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kashihara28612/status/1961415115775115430",
+              "start": 5,
+              "url": "https://t.co/D0qb5YAFar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961423706426921410",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1355,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961415115775115430",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6次了😭 https://t.co/D0qb5YAFar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/我的对象在哪里(伤心)/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1958099553724362948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 246,
+          "like_count": 3727,
+          "listed_count": 6,
+          "media_count": 123,
+          "tweet_count": 1267
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T19:20:49.000Z",
+        "description": "东京外资职场不分享｜东雪莲单推人｜交友文学、前女友文学｜发发做的饭和威士忌｜消費税増税支持、所得税・社会保険料を無くせ",
+        "id": "1832136784354144259",
+        "location": "东雪莲家",
+        "name": "後醍醐天豚（建武新政中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866136311071158272/pa5qc8-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 723,
+          "like_count": 58142,
+          "listed_count": 9,
+          "media_count": 304,
+          "tweet_count": 6389
+        },
+        "username": "kashihara28612",
+        "verified": false
+      }
+    ]
+  }
+}

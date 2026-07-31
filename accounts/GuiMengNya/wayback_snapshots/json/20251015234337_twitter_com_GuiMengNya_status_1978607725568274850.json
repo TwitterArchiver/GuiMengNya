@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1978445595082641784",
+    "created_at": "2025-10-15T23:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T00:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978607725568274850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1973748660975587328",
+          "start": 0,
+          "username": "WYH06xx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978607725568274850",
+    "in_reply_to_user_id": "1973748660975587328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978565986812064159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WYH06xx 我没说我自己是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1978445595082641784",
+        "created_at": "2025-10-15T23:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T00:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978607725568274850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1973748660975587328",
+              "start": 0,
+              "username": "WYH06xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978607725568274850",
+        "in_reply_to_user_id": "1973748660975587328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978565986812064159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WYH06xx 我没说我自己是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973748660975587328",
+        "conversation_id": "1978445595082641784",
+        "created_at": "2025-10-15T20:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T21:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978565986812064159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978565986812064159",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978445595082641784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 某人说过跨子成熟的标志是不带🍥🏳️‍⚧️，对吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 300,
+          "like_count": 4854,
+          "listed_count": 7,
+          "media_count": 141,
+          "tweet_count": 1621
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-02T13:55:36.000Z",
+        "description": "把这份善意传递下去 我会帮助更多的人 | 被封原号:@WYihan_0507 | 书库:https://t.co/6agESYwSsn | Lover:保密 | #Binance #Philosophy #DebitCard",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Binance"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "tag": "Philosophy"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "tag": "DebitCard"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "WYihan_0507"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Z_libry",
+                "end": 67,
+                "expanded_url": "https://t.me/Z_libry",
+                "start": 44,
+                "url": "https://t.co/6agESYwSsn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/nxpcNs5",
+                "end": 23,
+                "expanded_url": "https://b23.tv/nxpcNs5",
+                "start": 0,
+                "url": "https://t.co/4T3aEBOZuN"
+              }
+            ]
+          }
+        },
+        "id": "1973748660975587328",
+        "location": "ほどほどにね！",
+        "name": "WANG YIHAN 💳",
+        "pinned_tweet_id": "1977968658380198243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978575952486825984/rbGaLP_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 178,
+          "like_count": 684,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 226
+        },
+        "url": "https://t.co/4T3aEBOZuN",
+        "username": "WYH06xx",
+        "verified": true
+      }
+    ]
+  }
+}

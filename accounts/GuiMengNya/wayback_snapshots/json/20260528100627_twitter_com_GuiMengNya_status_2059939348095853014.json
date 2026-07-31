@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2059939348095853014",
+    "created_at": "2026-05-28T10:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059939348095853014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "87374696",
+          "start": 3,
+          "username": "ice_loki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059939348095853014",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 358
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059913206194430079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ice_loki: 今更だからこそ気軽に話せるけど、\nRayarkを辞めさせられたのは、\nとある国の事情で、政治的には許されない内容が、\n私の個人作品に入った、\nというくだらない理由でした。\n\n例の音楽作品、音ゲーとは全然関係なく、\n悲しさと絶望感に溢れたAmbient…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2059939348095853014",
+        "created_at": "2026-05-28T10:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059939348095853014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "87374696",
+              "start": 3,
+              "username": "ice_loki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059939348095853014",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 358
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059913206194430079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ice_loki: 今更だからこそ気軽に話せるけど、\nRayarkを辞めさせられたのは、\nとある国の事情で、政治的には許されない内容が、\n私の個人作品に入った、\nというくだらない理由でした。\n\n例の音楽作品、音ゲーとは全然関係なく、\n悲しさと絶望感に溢れたAmbient…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "87374696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059913206194430079",
+        "created_at": "2026-05-28T08:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059913206194430079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059913206194430079",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "今更だからこそ気軽に話せるけど、\nRayarkを辞めさせられたのは、\nとある国の事情で、政治的には許されない内容が、\n私の個人作品に入った、\nというくだらない理由でした。\n\n例の音楽作品、音ゲーとは全然関係なく、\n悲しさと絶望感に溢れたAmbientの曲でした。\nモールス信号で、生まれた町で起きた大事件に関連するメッセージを、\n更に暗号化して、曲に入れていた。\n\n「こういう歴史があった。\nただ、宇宙にある無数のモノと同じく、\nもう変えられない歴史の一ページに過ぎない。\n何も感じられなくなった人間みたいに、\n視界に物事は入るけど、\nもう何も感じられない、何も変えられない。」\nそんな思いで作った。\n作った時点では、もうあの大事件が終わったし。\n\n発表してからおよそ3ヶ月か。\nSoundcloudにその曲をアップしてまもなく、\nモールス信号が解読され、\nとある国の人間が大激怒した。\n「こんな思想を持つ人間は許してはいけない」などという暴論で、\n私個人だけではなく、会社へもプレッシャーをかけて、\n結局、私が辞めさせられた。\n\nその後、世界中のニュース記事に、この事件のことが載せられていたけど、\nもう、「あはは、これでイギリスとかのニュース記事入りかよ。皮肉だな」と、\n苦笑ぐらいしかできなく、\n現実を飲み込んだ。\n\n表現の自由なんて、苦しい話だね。\n歴史を記録することすら許されていないって。\n台湾にいるのにな。\n\nまあ、簡単で例えると、\n最近、日本のアニメ作品が国外で炎上したことと、似てる部分あるんでしょう。\n世界中のどこかでは、特定の表現が受け入れられないこと。\n\n数年間、この「Ice」名義は難しい道を歩いていたけど、\nクリエーターとして、別に世界を変えるんじゃなくて、\nただただ考えていることを、作品を通して語りたいだけ。\n音ゲーマーとして、自分が大好きなゲームジャンルを末長く遊びたいだけ。\n\nただそれだけのロキにゃんさ。\nそれは、22年の音ゲーマー人生には、\n一度も変わらず、\n今も日々続いている。\n\nなので、これからも変わらず、\nそんなice_lokiとして生きていくつもり。\nいつも通りね。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 59257,
+          "like_count": 1189,
+          "quote_count": 32,
+          "reply_count": 10,
+          "retweet_count": 358
+        },
+        "reply_settings": "everyone",
+        "text": "今更だからこそ気軽に話せるけど、\nRayarkを辞めさせられたのは、\nとある国の事情で、政治的には許されない内容が、\n私の個人作品に入った、\nというくだらない理由でした。\n\n例の音楽作品、音ゲーとは全然関係なく、\n悲しさと絶望感に溢れたAmbientの曲でした。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边/人间归梦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10266,
+          "following_count": 695,
+          "like_count": 11497,
+          "listed_count": 30,
+          "media_count": 2247,
+          "tweet_count": 4622
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-04T05:52:32.000Z",
+        "description": "Composer, DJ. ☆Spaceport Productions主宰 ★音ゲー曲提供、「終のステラ」音楽制作 ☆Art/Designs: @sandsuna_sfw ★カタログ→https://t.co/vFaf3mwmy5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "sandsuna_sfw"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "spaceport-productions.net",
+                "end": 116,
+                "expanded_url": "https://spaceport-productions.net",
+                "start": 93,
+                "url": "https://t.co/vFaf3mwmy5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ice_loki",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ice_loki",
+                "start": 0,
+                "url": "https://t.co/6k2yTAmGip"
+              }
+            ]
+          }
+        },
+        "id": "87374696",
+        "location": "Spaceport",
+        "name": "Ice@Spaceport Productions",
+        "pinned_tweet_id": "2045842882637283384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980797073847918593/GO-HgzsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27115,
+          "following_count": 3161,
+          "like_count": 7892,
+          "listed_count": 242,
+          "media_count": 5517,
+          "tweet_count": 82982
+        },
+        "url": "https://t.co/6k2yTAmGip",
+        "username": "ice_loki",
+        "verified": true
+      }
+    ]
+  }
+}

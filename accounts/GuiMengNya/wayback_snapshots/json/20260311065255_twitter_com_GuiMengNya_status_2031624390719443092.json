@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2031579365138399727",
+    "created_at": "2026-03-11T06:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T07:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031624390719443092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "228580105",
+          "start": 0,
+          "username": "Cancel_out520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031624390719443092",
+    "in_reply_to_user_id": "228580105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031622403399496128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cancel_out520 先别急"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2031579365138399727",
+        "created_at": "2026-03-11T06:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T07:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031624390719443092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "228580105",
+              "start": 0,
+              "username": "Cancel_out520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031624390719443092",
+        "in_reply_to_user_id": "228580105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031622403399496128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cancel_out520 先别急"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "228580105",
+        "conversation_id": "2031579365138399727",
+        "created_at": "2026-03-11T06:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T07:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031622403399496128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031622403399496128",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031579365138399727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 今天的天天就刷到这里吧，我得去给手机消消毒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8504,
+          "following_count": 697,
+          "like_count": 10618,
+          "listed_count": 26,
+          "media_count": 1565,
+          "tweet_count": 3803
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2010-12-20T03:49:07.000Z",
+        "description": "分清网络和现实 这里是垃圾桶哦 有什么烦心事就给垃圾桶说吧～   tg里  https://t.co/8mqpRqBJme",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Cancel_out",
+                "end": 61,
+                "expanded_url": "https://t.me/Cancel_out",
+                "start": 38,
+                "url": "https://t.co/8mqpRqBJme"
+              }
+            ]
+          }
+        },
+        "id": "228580105",
+        "location": "默默蹲在垃圾场的拐角里",
+        "name": "垃圾桶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007291331610361856/tSm59_nz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 40,
+          "like_count": 689,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 213
+        },
+        "username": "Cancel_out520",
+        "verified": false
+      }
+    ]
+  }
+}

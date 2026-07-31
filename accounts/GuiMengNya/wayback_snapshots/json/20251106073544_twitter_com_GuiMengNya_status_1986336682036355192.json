@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1986336682036355192",
+    "created_at": "2025-11-06T07:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T08:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986336682036355192"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1986336682036355192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "主人大人对不起对不起对不起...您别打我了，昨天的伤口化脓了还在发炎，感觉皮肤要裂开了，求求您今天饶了我吧...我已经把所有碟子洗好，所有地都抹干净了，求求了不要用刀子在我手臂上刻字了，上次划到骨头，每次下雨都感觉好痛好痛好疼好疼...主人，请问您可不可以这次不要往我舌头上用针筒打药了，我会自己听话乖乖把自己用锁链锁起来的，勒紧项圈的时候请给我留一口气，不要杀掉我，我以后会继续让主人开心的...虽然主人每次都锤击我的小腹直到红肿不堪青一片紫一片，这种时候我会痛到想晕过去，胃里的东西不听使唤往外涌，眼珠快要爆炸了，但想到主人是爱我的，我立马又忍住，努力让自己不要死掉...主人大人，请你不要抛弃我好吗..."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主人大人对不起对不起对不起...您别打我了，昨天的伤口化脓了还在发炎，感觉皮肤要裂开了，求求您今天饶了我吧...我已经把所有碟子洗好，所有地都抹干净了，求求了不要用刀子在我手臂上刻字了，上次划到骨头，每次下雨都感觉好痛好痛好疼好疼...主人，请问您可不可以这次不要往我舌头上用针筒打药了，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1986336682036355192",
+        "created_at": "2025-11-06T07:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T08:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986336682036355192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986336682036355192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "主人大人对不起对不起对不起...您别打我了，昨天的伤口化脓了还在发炎，感觉皮肤要裂开了，求求您今天饶了我吧...我已经把所有碟子洗好，所有地都抹干净了，求求了不要用刀子在我手臂上刻字了，上次划到骨头，每次下雨都感觉好痛好痛好疼好疼...主人，请问您可不可以这次不要往我舌头上用针筒打药了，我会自己听话乖乖把自己用锁链锁起来的，勒紧项圈的时候请给我留一口气，不要杀掉我，我以后会继续让主人开心的...虽然主人每次都锤击我的小腹直到红肿不堪青一片紫一片，这种时候我会痛到想晕过去，胃里的东西不听使唤往外涌，眼珠快要爆炸了，但想到主人是爱我的，我立马又忍住，努力让自己不要死掉...主人大人，请你不要抛弃我好吗..."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主人大人对不起对不起对不起...您别打我了，昨天的伤口化脓了还在发炎，感觉皮肤要裂开了，求求您今天饶了我吧...我已经把所有碟子洗好，所有地都抹干净了，求求了不要用刀子在我手臂上刻字了，上次划到骨头，每次下雨都感觉好痛好痛好疼好疼...主人，请问您可不可以这次不要往我舌头上用针筒打药了，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1977091161212043555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 316,
+          "like_count": 5746,
+          "listed_count": 6,
+          "media_count": 158,
+          "tweet_count": 1772
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

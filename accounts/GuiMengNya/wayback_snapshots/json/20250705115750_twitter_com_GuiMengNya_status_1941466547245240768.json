@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1940979988846797185",
+    "created_at": "2025-07-05T11:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T12:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941466547245240768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1754734756326150145",
+          "start": 0,
+          "username": "F30102174650"
+        },
+        {
+          "end": 26,
+          "id": "1719571122642161664",
+          "start": 14,
+          "username": "AGeSang2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941466547245240768",
+    "in_reply_to_user_id": "1754734756326150145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941310529152352736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@F30102174650 @AGeSang2008 二手买台式4060"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1940979988846797185",
+        "created_at": "2025-07-05T11:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T12:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941466547245240768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1754734756326150145",
+              "start": 0,
+              "username": "F30102174650"
+            },
+            {
+              "end": 26,
+              "id": "1719571122642161664",
+              "start": 14,
+              "username": "AGeSang2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941466547245240768",
+        "in_reply_to_user_id": "1754734756326150145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941310529152352736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@F30102174650 @AGeSang2008 二手买台式4060"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754734756326150145",
+        "conversation_id": "1940979988846797185",
+        "created_at": "2025-07-05T01:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T02:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941310529152352736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1719571122642161664",
+              "start": 0,
+              "username": "AGeSang2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941310529152352736",
+        "in_reply_to_user_id": "1719571122642161664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940979988846797185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGeSang2008 本人初升高，5500预算，广东没国补，影视生产力&amp;中度三角洲怎么选QAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/坐标杭州/家长不管党/坐标杭州/精神比你正常就对了/喜欢音游，机车/#INTJ/含妈量极高/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 44,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934889831643140117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 229,
+          "like_count": 3538,
+          "listed_count": 6,
+          "media_count": 119,
+          "tweet_count": 1169
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T05:12:30.000Z",
+        "description": "K437轮椅神力/神秘の三角洲玩家：S3统帅-香草猫羽雫/My Wife～：@xunxunwangxun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "xunxunwangxun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "htr0721.wordpress.com",
+                "end": 23,
+                "expanded_url": "https://htr0721.wordpress.com/",
+                "start": 0,
+                "url": "https://t.co/TbJjPVZaF5"
+              }
+            ]
+          }
+        },
+        "id": "1754734756326150145",
+        "location": "China Mainland",
+        "name": "铜锣湾玲纱厨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940727494954319872/_W-UaI-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 249,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/TbJjPVZaF5",
+        "username": "F30102174650",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T04:24:53.000Z",
+        "description": "08.8.8｜mtf｜180/100｜HRT23.9.4｜infp｜是一只可爱小猫咪｜坐标上海｜有小证｜天残｜BPD｜ADHD｜ASD｜可以叫咱猫猫/绫音｜小号 @AGeCat2008｜姐姐 @Anan628769｜笨蛋55 @N552AA｜Andy @Andy1782010｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 81,
+                "username": "AGeCat2008"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Anan628769"
+              },
+              {
+                "end": 120,
+                "start": 113,
+                "username": "N552AA"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "Andy1782010"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AGeSang_cat",
+                "end": 23,
+                "expanded_url": "https://t.me/AGeSang_cat",
+                "start": 0,
+                "url": "https://t.co/VmDoVugaXS"
+              }
+            ]
+          }
+        },
+        "id": "1719571122642161664",
+        "location": "中国上海",
+        "name": "绫音AGeSang🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1926815724040790523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866439446767579136/WkjMtxNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 861,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 4338
+        },
+        "url": "https://t.co/VmDoVugaXS",
+        "username": "AGeSang2008",
+        "verified": false
+      }
+    ]
+  }
+}

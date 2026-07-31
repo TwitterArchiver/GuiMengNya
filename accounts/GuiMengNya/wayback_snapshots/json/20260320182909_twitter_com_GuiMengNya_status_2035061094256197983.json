@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2035048222264099002",
+    "created_at": "2026-03-20T18:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T19:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035061094256197983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1416959432576184320",
+          "start": 0,
+          "username": "HoshinoStarry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035061094256197983",
+    "in_reply_to_user_id": "1416959432576184320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035060971212022022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoshinoStarry 假的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2035048222264099002",
+        "created_at": "2026-03-20T18:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T19:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035061094256197983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1416959432576184320",
+              "start": 0,
+              "username": "HoshinoStarry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035061094256197983",
+        "in_reply_to_user_id": "1416959432576184320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035060971212022022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoshinoStarry 假的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416959432576184320",
+        "conversation_id": "2035048222264099002",
+        "created_at": "2026-03-20T18:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T19:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035060971212022022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035060971212022022",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035048222264099002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 真的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8845,
+          "following_count": 687,
+          "like_count": 10784,
+          "listed_count": 29,
+          "media_count": 1726,
+          "tweet_count": 4000
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-19T03:14:39.000Z",
+        "description": "当局者迷 旁观者清 / 音游苦手 / python是什么垃圾语言 / dotnet 享受者 / Alt. @HsnStyAlt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "HsnStyAlt"
+              }
+            ]
+          }
+        },
+        "id": "1416959432576184320",
+        "name": "HoshinoStarry",
+        "pinned_tweet_id": "1894762099173363890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035057560106278916/lOE2nPjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 265,
+          "like_count": 12377,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 453
+        },
+        "username": "HoshinoStarry",
+        "verified": false
+      }
+    ]
+  }
+}

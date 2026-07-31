@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2035704624628563987",
+    "created_at": "2026-03-22T13:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T14:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035712267950620862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1286241253621817344",
+          "start": 0,
+          "username": "CldGeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035712267950620862",
+    "in_reply_to_user_id": "1286241253621817344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035704624628563987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CldGeo 还是地理好玩）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2035704624628563987",
+        "created_at": "2026-03-22T13:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T14:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035712267950620862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1286241253621817344",
+              "start": 0,
+              "username": "CldGeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035712267950620862",
+        "in_reply_to_user_id": "1286241253621817344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035704624628563987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CldGeo 还是地理好玩）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286241253621817344",
+        "conversation_id": "2035704624628563987",
+        "created_at": "2026-03-22T13:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T14:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035704624628563987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035704624628563987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "来点杂谈吧。文本很长，但我希望你能看完。\n高中的时候，历史成为了我的选修课程。\n在学这门学科时，我几乎从来不背诵书上的内容。相反，我喜欢去理解每一件历史事件，让自己成为历史的亲临者。\n久而久之，我发现自己在古代史、近代史上得分很高，而现代史（尤其是当代史）的得分就少了。\n按道理来讲，我本身就是当代史的亲临者，我应该更容易理解它们才对。\n而当我尝试去死记硬背历史书上这段历史时，我发现我几乎完全记不住。我的大脑好像对这些历史有排异反应。\n而最后我发现，书本上对于古代史、近代史，描述还算客观；而对于现在的历史，主观成分就很大了。\n我的潜意识一直认为，历史事件必然有其优点亦有其缺点。这个历史观是不是正确的我没法确定，但我确实是这样想的。\n这就是一个很重要的原因：对于现代史及当代史，书本的编者一般都会加以粉饰，只有优点没有缺点；而这也就导致了我的潜意识没法接受这样的事实：怎么可能有完全正确的事呢？\n当然，我也不是不能接受“完全正确的事”。理科中的各种已被证实的定理与基本事实，这些事是“完全正确”的；但是，除此之外的历史事件，完全正确就意味着完美，意味着不容置疑。\n……\n……\n……\n就说这些吧。感谢你看到这里。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 499,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来点杂谈吧。文本很长，但我希望你能看完。\n高中的时候，历史成为了我的选修课程。\n在学这门学科时，我几乎从来不背诵书上的内容。相反，我喜欢去理解每一件历史事件，让自己成为历史的亲临者。\n久而久之，我发现自己在古代史、近代史上得分很高，而现代史（尤其是当代史）的得分就少了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8951,
+          "following_count": 690,
+          "like_count": 10852,
+          "listed_count": 29,
+          "media_count": 1756,
+          "tweet_count": 4041
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う",
+        "id": "1286241253621817344",
+        "location": "「絶え間ない光」が降り注ぐ",
+        "name": "九鸟",
+        "pinned_tweet_id": "2018082327285702682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3049,
+          "following_count": 320,
+          "like_count": 3262,
+          "listed_count": 5,
+          "media_count": 367,
+          "tweet_count": 1379
+        },
+        "username": "CldGeo",
+        "verified": true
+      }
+    ]
+  }
+}

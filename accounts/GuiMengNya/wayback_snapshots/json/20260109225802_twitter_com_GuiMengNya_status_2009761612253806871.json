@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2009490659590418594",
+    "created_at": "2026-01-09T22:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T23:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009761612253806871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1940398793238990848",
+          "start": 0,
+          "username": "Recursion1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009761612253806871",
+    "in_reply_to_user_id": "1940398793238990848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009490659590418594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Recursion1234 惯性思维"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2009490659590418594",
+        "created_at": "2026-01-09T22:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T23:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009761612253806871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1940398793238990848",
+              "start": 0,
+              "username": "Recursion1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009761612253806871",
+        "in_reply_to_user_id": "1940398793238990848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009490659590418594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Recursion1234 惯性思维"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940398793238990848",
+        "conversation_id": "2009490659590418594",
+        "created_at": "2026-01-09T05:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009490659590418594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009490659590418594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 75708,
+          "like_count": 485,
+          "quote_count": 5,
+          "reply_count": 44,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "只要一躺在床上手就不由自主伸下去是啥情况"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3868,
+          "following_count": 421,
+          "like_count": 7991,
+          "listed_count": 15,
+          "media_count": 680,
+          "tweet_count": 2601
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-02T13:15:08.000Z",
+        "description": "‼️‼️推广自辨‼️‼️关评为广‼️‼️",
+        "id": "1940398793238990848",
+        "location": "喜欢就打钱",
+        "name": "Recursion",
+        "pinned_tweet_id": "2009676177418649823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940399371515768832/bXl3nf57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7441,
+          "following_count": 165,
+          "like_count": 6707,
+          "listed_count": 45,
+          "media_count": 113,
+          "tweet_count": 1253
+        },
+        "username": "Recursion1234",
+        "verified": false
+      }
+    ]
+  }
+}

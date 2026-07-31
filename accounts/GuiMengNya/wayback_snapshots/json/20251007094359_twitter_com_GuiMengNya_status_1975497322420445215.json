@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1975252576531804428",
+    "created_at": "2025-10-07T09:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T10:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975497322420445215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1491429513779359745",
+          "start": 0,
+          "username": "mizuchanqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975497322420445215",
+    "in_reply_to_user_id": "1491429513779359745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975406518842630268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuchanqwq 挂号信也不贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1975252576531804428",
+        "created_at": "2025-10-07T09:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T10:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975497322420445215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1491429513779359745",
+              "start": 0,
+              "username": "mizuchanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975497322420445215",
+        "in_reply_to_user_id": "1491429513779359745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975406518842630268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuchanqwq 挂号信也不贵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491429513779359745",
+        "conversation_id": "1975252576531804428",
+        "created_at": "2025-10-07T03:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T04:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975406518842630268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975406518842630268",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975252576531804428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 真的全世界包郵嗎（探頭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1311,
+          "following_count": 272,
+          "like_count": 4418,
+          "listed_count": 7,
+          "media_count": 137,
+          "tweet_count": 1495
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-09T15:11:30.000Z",
+        "description": "用天真活潑的心感動世界 | 狀態介於家貓和流浪貓之間 | 永遠是一隻可愛的小貓qwq | 🍬: @yuzuchanqwq 🥺🐱❤️ | #永住許可の取消しに反対します",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 68,
+                "tag": "永住許可の取消しに反対します"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "yuzuchanqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/vr_central",
+                "end": 23,
+                "expanded_url": "https://t.me/vr_central",
+                "start": 0,
+                "url": "https://t.co/kVmSAxSmx7"
+              }
+            ]
+          }
+        },
+        "id": "1491429513779359745",
+        "location": "born&live 🇯🇵 | 貓屬橫濱",
+        "name": "若水醬🍥",
+        "pinned_tweet_id": "1963167021090173238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970320282121621504/mJnFrW8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2499,
+          "following_count": 2202,
+          "like_count": 86596,
+          "listed_count": 8,
+          "media_count": 1988,
+          "tweet_count": 10349
+        },
+        "url": "https://t.co/kVmSAxSmx7",
+        "username": "mizuchanqwq",
+        "verified": false
+      }
+    ]
+  }
+}

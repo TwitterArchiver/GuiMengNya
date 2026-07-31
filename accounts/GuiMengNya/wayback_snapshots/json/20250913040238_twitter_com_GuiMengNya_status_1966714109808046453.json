@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1966713454154125725",
+    "created_at": "2025-09-13T04:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T05:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966714109808046453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966714109808046453",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966713454154125725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 言论是要自由的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14117,
+        "height": 1280,
+        "media_key": "13_1966632524920049664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1966632524920049664/img/OnEAs_7YLMhjJmGh.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966632524920049664/vid/avc1/320x568/2io0TVA2DlMC5sN8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966632524920049664/vid/avc1/480x852/Q86_erDbhVDXJu6J.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966632524920049664/vid/avc1/720x1280/Nar-WYXsJRAAFTWK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1966632524920049664/pl/mWTjTt0XgcEXhN5F.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 33761,
+        "height": 1280,
+        "media_key": "13_1966632539533045760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1966632539533045760/img/0tB-PUuYK_wv164k.jpg",
+        "public_metrics": {
+          "view_count": 14
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966632539533045760/vid/avc1/320x568/zAyew13M0xH-DkcL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966632539533045760/vid/avc1/480x852/9761b1BzunGYNeAO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966632539533045760/vid/avc1/720x1280/iv1ca4LxjDlfsQsy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1966632539533045760/pl/D6DFEj5qjOkln_as.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 24682,
+        "height": 1280,
+        "media_key": "13_1966632554242449408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1966632554242449408/img/IwFOC4VG0zeO2a4n.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966632554242449408/vid/avc1/320x568/cZvDP_qT137jl8tg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966632554242449408/vid/avc1/480x852/yLHIF1D97ZajXOOc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966632554242449408/vid/avc1/720x1280/AsTn_zPHQ0kQqNE7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1966632554242449408/pl/Ph1-FLK0YkuE1cDR.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1966713454154125725",
+        "created_at": "2025-09-13T04:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T05:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966714109808046453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966714109808046453",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966713454154125725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 言论是要自由的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1966632524920049664",
+            "13_1966632539533045760",
+            "13_1966632554242449408"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1966713454154125725",
+        "created_at": "2025-09-13T04:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966713454154125725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UhnlgXMBUr",
+              "end": 115,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1966713454154125725/video/1",
+              "media_key": "13_1966632524920049664",
+              "start": 92,
+              "url": "https://t.co/UhnlgXMBUr"
+            },
+            {
+              "display_url": "pic.x.com/UhnlgXMBUr",
+              "end": 115,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1966713454154125725/video/1",
+              "media_key": "13_1966632539533045760",
+              "start": 92,
+              "url": "https://t.co/UhnlgXMBUr"
+            },
+            {
+              "display_url": "pic.x.com/UhnlgXMBUr",
+              "end": 115,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1966713454154125725/video/1",
+              "media_key": "13_1966632554242449408",
+              "start": 92,
+              "url": "https://t.co/UhnlgXMBUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966713454154125725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 681,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "9月10日，北京国家信访局。\n有访民拍下画面显示，现场截访人员数量甚至多于上访群众。\n有人被两名截访人员一左一右当众拖走，另一名截访人员则连哄带骗、又拉又拽，试图劝阻信访人放弃上访。 https://t.co/UhnlgXMBUr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」/家长不管党/坐标浙江/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/要一直哦@future080712/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 36,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "future080712"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 256,
+          "like_count": 4191,
+          "listed_count": 7,
+          "media_count": 127,
+          "tweet_count": 1395
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1966463459425497352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2102294,
+          "following_count": 989,
+          "like_count": 8079,
+          "listed_count": 8342,
+          "media_count": 34792,
+          "tweet_count": 41574
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

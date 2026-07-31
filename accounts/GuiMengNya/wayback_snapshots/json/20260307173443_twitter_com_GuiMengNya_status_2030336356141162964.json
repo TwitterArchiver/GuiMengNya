@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2030282241163813184",
+    "created_at": "2026-03-07T17:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T18:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030336356141162964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1317494771510775808",
+          "start": 0,
+          "username": "Elaina43114880"
+        },
+        {
+          "end": 23,
+          "id": "4848269835",
+          "start": 16,
+          "username": "_FORAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030336356141162964",
+    "in_reply_to_user_id": "1317494771510775808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030319629143507329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elaina43114880 @_FORAB 感觉按现在这个内存和固态价格，不太能降"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2030282241163813184",
+        "created_at": "2026-03-07T17:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T18:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030336356141162964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1317494771510775808",
+              "start": 0,
+              "username": "Elaina43114880"
+            },
+            {
+              "end": 23,
+              "id": "4848269835",
+              "start": 16,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030336356141162964",
+        "in_reply_to_user_id": "1317494771510775808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030319629143507329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elaina43114880 @_FORAB 感觉按现在这个内存和固态价格，不太能降"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317494771510775808",
+        "conversation_id": "2030282241163813184",
+        "created_at": "2026-03-07T16:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030319629143507329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4848269835",
+              "start": 0,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030319629143507329",
+        "in_reply_to_user_id": "4848269835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 587,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030282241163813184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FORAB 其实加上二手手机成本也要近三千了，而且还折腾。不急的可以等购物节直接降价到三千以下😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8288,
+          "following_count": 697,
+          "like_count": 10487,
+          "listed_count": 28,
+          "media_count": 1496,
+          "tweet_count": 3707
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-17T15:56:59.000Z",
+        "description": "イレイナ 🧙‍♀️✨ | Yuri lover 🌸👩‍❤️‍💋‍👩 | AI enjoyer 🤖🧠",
+        "id": "1317494771510775808",
+        "name": "Elaina",
+        "pinned_tweet_id": "2017941287236997616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1317495150075994113/Rh9AcdGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 746,
+          "like_count": 55162,
+          "listed_count": 9,
+          "media_count": 824,
+          "tweet_count": 29420
+        },
+        "username": "Elaina43114880",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110727,
+          "following_count": 579,
+          "like_count": 9743,
+          "listed_count": 1864,
+          "media_count": 2716,
+          "tweet_count": 13269
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

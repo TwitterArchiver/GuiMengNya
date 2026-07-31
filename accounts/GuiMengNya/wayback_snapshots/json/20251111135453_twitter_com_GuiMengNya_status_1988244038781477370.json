@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1988236371497038267",
+    "created_at": "2025-11-11T13:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T14:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988244038781477370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1019571106858987520",
+          "start": 0,
+          "username": "Yuuki_Channn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988244038781477370",
+    "in_reply_to_user_id": "1019571106858987520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988236371497038267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuuki_Channn ？？这么多？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_1988236357580582912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5eibt8bcAAdLof.jpg",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1988236371497038267",
+        "created_at": "2025-11-11T13:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T14:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988244038781477370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1019571106858987520",
+              "start": 0,
+              "username": "Yuuki_Channn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988244038781477370",
+        "in_reply_to_user_id": "1019571106858987520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988236371497038267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuuki_Channn ？？这么多？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988236357580582912"
+          ]
+        },
+        "author_id": "1019571106858987520",
+        "conversation_id": "1988236371497038267",
+        "created_at": "2025-11-11T13:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T14:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988236371497038267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T4qInaokcY",
+              "end": 38,
+              "expanded_url": "https://x.com/Yuuki_Channn/status/1988236371497038267/photo/1",
+              "media_key": "3_1988236357580582912",
+              "start": 15,
+              "url": "https://t.co/T4qInaokcY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988236371497038267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有需要的私聊免费送，现刮现送 https://t.co/T4qInaokcY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/幸福快快降临我身边/ 见证人类多样性",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1977091161212043555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 319,
+          "like_count": 6233,
+          "listed_count": 8,
+          "media_count": 214,
+          "tweet_count": 1877
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-18T13:14:29.000Z",
+        "description": "全网同名唯一指定绿茶Yuuki / 较为狂热的街机音游爱好者 / 文娱从业者 / 十五年葱厨不请自来 / 一个具有七情六欲的普通人 / 不回无意义私信 / 本推成分为个人的互联网垃圾桶，不建议关注",
+        "id": "1019571106858987520",
+        "name": "绿茶Yuuki",
+        "pinned_tweet_id": "1645875869771268096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1052994620177534976/GkSKltKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 84,
+          "like_count": 275,
+          "listed_count": 5,
+          "media_count": 644,
+          "tweet_count": 1727
+        },
+        "username": "Yuuki_Channn",
+        "verified": false
+      }
+    ]
+  }
+}

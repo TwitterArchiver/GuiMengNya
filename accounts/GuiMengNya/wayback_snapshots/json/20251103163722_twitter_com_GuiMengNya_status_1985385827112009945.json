@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985359873153130496"
+      ],
+      "media_source_tweet_id": [
+        "1985359881260704166"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "conversation_id": "1985385827112009945",
+    "created_at": "2025-11-03T16:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T17:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985385827112009945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "370743613",
+          "start": 3,
+          "username": "guy_kun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jvdWv1cNWI",
+          "end": 43,
+          "expanded_url": "https://x.com/guy_kun/status/1985359881260704166/photo/1",
+          "media_key": "3_1985359873153130496",
+          "start": 20,
+          "url": "https://t.co/jvdWv1cNWI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985385827112009945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985359881260704166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guy_kun: 我从小喝到大 https://t.co/jvdWv1cNWI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985359873153130496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41qSSabYAAH0qN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985359873153130496"
+          ],
+          "media_source_tweet_id": [
+            "1985359881260704166"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "1985385827112009945",
+        "created_at": "2025-11-03T16:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985385827112009945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "370743613",
+              "start": 3,
+              "username": "guy_kun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvdWv1cNWI",
+              "end": 43,
+              "expanded_url": "https://x.com/guy_kun/status/1985359881260704166/photo/1",
+              "media_key": "3_1985359873153130496",
+              "start": 20,
+              "url": "https://t.co/jvdWv1cNWI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985385827112009945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985359881260704166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guy_kun: 我从小喝到大 https://t.co/jvdWv1cNWI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985359873153130496"
+          ]
+        },
+        "author_id": "370743613",
+        "conversation_id": "1985359881260704166",
+        "created_at": "2025-11-03T14:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985359881260704166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvdWv1cNWI",
+              "end": 30,
+              "expanded_url": "https://x.com/guy_kun/status/1985359881260704166/photo/1",
+              "media_key": "3_1985359873153130496",
+              "start": 7,
+              "url": "https://t.co/jvdWv1cNWI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985359881260704166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3360,
+          "like_count": 177,
+          "quote_count": 12,
+          "reply_count": 28,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "我从小喝到大 https://t.co/jvdWv1cNWI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1982061018953232844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 316,
+          "like_count": 5625,
+          "listed_count": 7,
+          "media_count": 155,
+          "tweet_count": 1749
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-09T15:14:21.000Z",
+        "description": "Director ・ Producer ・ Art Director・等 ＠ lowiro.",
+        "id": "370743613",
+        "location": "日本 東京",
+        "name": "Guy",
+        "pinned_tweet_id": "1917994909279363206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802341836100415488/8murnzH__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22680,
+          "following_count": 1104,
+          "like_count": 53538,
+          "listed_count": 50,
+          "media_count": 6204,
+          "tweet_count": 43330
+        },
+        "username": "guy_kun",
+        "verified": true
+      }
+    ]
+  }
+}

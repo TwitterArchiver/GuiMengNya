@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2035651134397063366",
+    "created_at": "2026-03-23T02:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T03:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035909495696867487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1556577100693651456",
+          "start": 0,
+          "username": "tychozzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035909495696867487",
+    "in_reply_to_user_id": "1556577100693651456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035651134397063366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tychozzz 《中华人民共和国邮政法》规定建设城镇居民楼应当设置接收邮件的信报箱，并按照国家规定的标准验收，所以大概率是有信箱的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1499,
+        "media_key": "3_2035650918419742720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAVuZcbQAAqwUq.jpg",
+        "width": 2991
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2035651134397063366",
+        "created_at": "2026-03-23T02:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T03:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035909495696867487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1556577100693651456",
+              "start": 0,
+              "username": "tychozzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035909495696867487",
+        "in_reply_to_user_id": "1556577100693651456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035651134397063366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tychozzz 《中华人民共和国邮政法》规定建设城镇居民楼应当设置接收邮件的信报箱，并按照国家规定的标准验收，所以大概率是有信箱的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035650918419742720"
+          ]
+        },
+        "author_id": "1556577100693651456",
+        "conversation_id": "2035651134397063366",
+        "created_at": "2026-03-22T09:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T10:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035651134397063366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kp61kVCoJZ",
+              "end": 143,
+              "expanded_url": "https://x.com/tychozzz/status/2035651134397063366/photo/1",
+              "media_key": "3_2035650918419742720",
+              "start": 120,
+              "url": "https://t.co/kp61kVCoJZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035651134397063366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "都 2026 年了，你很难相信一张港卡的邮寄时间，竟然长达 4 个月...\n\n去年年底的时候，我到香港开户了建设银行亚洲，但对应的实体卡一直没有收到。\n\n结果昨天出门的时候，在家门口发现了一个从香港寄来的信封，打开一看还真是建行的实体卡。\n\n办过港卡的朋友都知道，香港大多数银行邮寄实体卡，都是用平邮的方式，本来效率就已经够低了，等平邮信到了内地邮政之后，又是各种问题。\n\n平邮本身没有运单号，你没办法查看具体的进度，而且平邮也不支持投诉。\n\n等邮件到你家门口的时候，快递员一般会直接塞到小区信箱。但据我的观察，目前国内大多数新建小区公寓，根本没有信箱这种东西。\n\n你的港卡邮件，大概率会在邮局堆放很久，最后被退回。\n\n很多朋友说自己的港卡几个月时间都收不到，大概率是这个问题，只能选择联系香港银行的客服，掏钱补发挂号信。\n\n解决这种问题最好的办法就是，开户时在地址那一栏，后面加上你的手机号，不管是平邮还是挂号信，快递员都能联系到你，最后一定能收到邮件。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 35284,
+          "like_count": 90,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "都 2026 年了，你很难相信一张港卡的邮寄时间，竟然长达 4 个月...\n\n去年年底的时候，我到香港开户了建设银行亚洲，但对应的实体卡一直没有收到。\n\n结果昨天出门的时候，在家门口发现了一个从香港寄来的信封，打开一看还真是建行的实体卡。 https://t.co/kp61kVCoJZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8972,
+          "following_count": 694,
+          "like_count": 10865,
+          "listed_count": 29,
+          "media_count": 1766,
+          "tweet_count": 4054
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-08T09:44:48.000Z",
+        "description": "爱投资的一枚程序员。投资导航作者，必备一站式导航网站：https://t.co/xhaBzx5OyW 美股/比特币长期投资者，持续分享有价值内容。Youtube频道：https://t.co/Mqj49gMmmb okx20%返佣：https://t.co/OPyhN9O8ps 同名微信公众号：Nico Money",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "invest-nav.com",
+                "end": 50,
+                "expanded_url": "http://invest-nav.com",
+                "start": 27,
+                "url": "https://t.co/xhaBzx5OyW"
+              },
+              {
+                "display_url": "youtube.com/@nicogrowthz",
+                "end": 106,
+                "expanded_url": "http://youtube.com/@nicogrowthz",
+                "start": 83,
+                "url": "https://t.co/Mqj49gMmmb"
+              },
+              {
+                "display_url": "okx.com/join/71309601",
+                "end": 139,
+                "expanded_url": "http://okx.com/join/71309601",
+                "start": 116,
+                "url": "https://t.co/OPyhN9O8ps"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nicoinvestment",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nicoinvestment",
+                "start": 0,
+                "url": "https://t.co/KKYvBKh8Cm"
+              }
+            ]
+          }
+        },
+        "id": "1556577100693651456",
+        "location": "Singapore",
+        "name": "Nico投资有道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724683452761657344/XthDIwUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65554,
+          "following_count": 336,
+          "like_count": 9699,
+          "listed_count": 702,
+          "media_count": 1016,
+          "tweet_count": 6622
+        },
+        "url": "https://t.co/KKYvBKh8Cm",
+        "username": "tychozzz",
+        "verified": true
+      }
+    ]
+  }
+}

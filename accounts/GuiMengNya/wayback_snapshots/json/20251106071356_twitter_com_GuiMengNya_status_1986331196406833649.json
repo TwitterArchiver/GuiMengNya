@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1986331196406833649",
+    "created_at": "2025-11-06T07:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T08:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986331196406833649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dr_duckter/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/dr_duckter/status/1985995013013344367",
+          "start": 5,
+          "url": "https://t.co/cY4Xkzrac3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986331196406833649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985995013013344367",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑不活了 https://t.co/cY4Xkzrac3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2216,
+        "media_key": "3_1985995010811305984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-r8KkbIAAIfcR.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1986331196406833649",
+        "created_at": "2025-11-06T07:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T08:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986331196406833649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dr_duckter/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/dr_duckter/status/1985995013013344367",
+              "start": 5,
+              "url": "https://t.co/cY4Xkzrac3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986331196406833649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985995013013344367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑不活了 https://t.co/cY4Xkzrac3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985995010811305984"
+          ]
+        },
+        "author_id": "1792158516096180224",
+        "conversation_id": "1985995013013344367",
+        "created_at": "2025-11-05T08:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T09:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985995013013344367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXhlNNsPKv",
+              "end": 23,
+              "expanded_url": "https://x.com/Dr_Duckter/status/1985995013013344367/photo/1",
+              "media_key": "3_1985995010811305984",
+              "start": 0,
+              "url": "https://t.co/ZXhlNNsPKv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985995013013344367",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 156076,
+          "like_count": 863,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZXhlNNsPKv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1977091161212043555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 316,
+          "like_count": 5746,
+          "listed_count": 6,
+          "media_count": 158,
+          "tweet_count": 1771
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-19T11:41:14.000Z",
+        "description": "欢迎互FO \n片姐白号就算了\n不定时更新陈睿砍头小图片",
+        "id": "1792158516096180224",
+        "location": "中南海",
+        "name": "Dr.Duckter",
+        "pinned_tweet_id": "1985720248071565447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983921426215419904/V6xrjtQ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 142,
+          "like_count": 1617,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 221
+        },
+        "username": "Dr_Duckter",
+        "verified": false
+      }
+    ]
+  }
+}

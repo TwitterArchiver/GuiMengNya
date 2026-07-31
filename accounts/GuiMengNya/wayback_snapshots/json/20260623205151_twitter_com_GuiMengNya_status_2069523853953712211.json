@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2068846427598426577",
+    "created_at": "2026-06-23T20:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T21:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069523853953712211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046107191409602561",
+          "start": 0,
+          "username": "tradeoff665"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069523853953712211",
+    "in_reply_to_user_id": "2046107191409602561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068846427598426577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tradeoff665 向日葵不好用，被控端动一下鼠标控制端就死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2068846427598426577",
+        "created_at": "2026-06-23T20:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T21:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069523853953712211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046107191409602561",
+              "start": 0,
+              "username": "tradeoff665"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069523853953712211",
+        "in_reply_to_user_id": "2046107191409602561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068846427598426577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tradeoff665 向日葵不好用，被控端动一下鼠标控制端就死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046107191409602561",
+        "conversation_id": "2068846427598426577",
+        "created_at": "2026-06-22T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068846427598426577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068846427598426577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "锐评一下几个远程软件：\n\nToDesk：一坨。免费版时不时就让你开 VIP 才能远控，理由还是“为了保证远程控制安全”。不登录也远程不了，吃相难看。\n\n向日葵：还行，基础功能都是免费的，日常够用，不登录也能远程。\n\nUU远程：真神，功能全免费，画质随便调，别的远程软件的付费功能随便用。\n\n你们都是用的啥远程软件？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 452,
+          "impression_count": 160001,
+          "like_count": 417,
+          "quote_count": 5,
+          "reply_count": 142,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "锐评一下几个远程软件：\n\nToDesk：一坨。免费版时不时就让你开 VIP 才能远控，理由还是“为了保证远程控制安全”。不登录也远程不了，吃相难看。\n\n向日葵：还行，基础功能都是免费的，日常够用，不登录也能远程。\n\nUU远程：真神，功能全免费，画质随便调，别的远程软件的付费功能随便用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10418,
+          "following_count": 690,
+          "like_count": 11501,
+          "listed_count": 30,
+          "media_count": 2348,
+          "tweet_count": 4731
+        },
+        "url": "",
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-20T06:02:39.000Z",
+        "description": "对新东西比较感兴趣，记录一些想法和日常观察",
+        "id": "2046107191409602561",
+        "name": "Trade off",
+        "pinned_tweet_id": "2068846427598426577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057420052933042176/N7r2tTNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 1210,
+          "like_count": 2072,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "tradeoff665",
+        "verified": true
+      }
+    ]
+  }
+}

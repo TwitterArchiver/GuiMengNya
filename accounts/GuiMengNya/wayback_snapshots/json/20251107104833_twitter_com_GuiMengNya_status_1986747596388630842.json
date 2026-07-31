@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986747580936835072"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1986747596388630842",
+    "created_at": "2025-11-07T10:48:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T11:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986747596388630842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MVtAqETijy",
+          "end": 47,
+          "expanded_url": "https://x.com/GuiMengNya/status/1986747596388630842/photo/1",
+          "media_key": "3_1986747580936835072",
+          "start": 24,
+          "url": "https://t.co/MVtAqETijy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986747596388630842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "pvz打到 w6 之后是不是自动分配地雷僵尸女 https://t.co/MVtAqETijy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1671,
+        "media_key": "3_1986747580936835072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5JYZgwbUAAtpI4.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986747580936835072"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986747596388630842",
+        "created_at": "2025-11-07T10:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T11:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986747596388630842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MVtAqETijy",
+              "end": 47,
+              "expanded_url": "https://x.com/GuiMengNya/status/1986747596388630842/photo/1",
+              "media_key": "3_1986747580936835072",
+              "start": 24,
+              "url": "https://t.co/MVtAqETijy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986747596388630842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pvz打到 w6 之后是不是自动分配地雷僵尸女 https://t.co/MVtAqETijy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1977091161212043555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 316,
+          "like_count": 5837,
+          "listed_count": 7,
+          "media_count": 171,
+          "tweet_count": 1799
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2033765499071565859",
+    "created_at": "2026-03-17T06:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T07:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033791985971253440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1649072643272851456",
+          "start": 0,
+          "username": "Csisoqzid_23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033791985971253440",
+    "in_reply_to_user_id": "1649072643272851456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033765499071565859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Csisoqzid_23 二类去开基本不都是给1w满额了吗🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033765488191541250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDli76gbEAIwWR4.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2033765499071565859",
+        "created_at": "2026-03-17T06:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T07:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033791985971253440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1649072643272851456",
+              "start": 0,
+              "username": "Csisoqzid_23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033791985971253440",
+        "in_reply_to_user_id": "1649072643272851456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033765499071565859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Csisoqzid_23 二类去开基本不都是给1w满额了吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033765488191541250"
+          ]
+        },
+        "author_id": "1649072643272851456",
+        "conversation_id": "2033765499071565859",
+        "created_at": "2026-03-17T04:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T05:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033765499071565859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VINns74TzF",
+              "end": 64,
+              "expanded_url": "https://x.com/Csisoqzid_23/status/2033765499071565859/photo/1",
+              "media_key": "3_2033765488191541250",
+              "start": 41,
+              "url": "https://t.co/VINns74TzF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033765499071565859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 466,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛大了二类卡\n想花钱都拿不出来 小县城还没网点\n后面还是打算全部转到香港那边吧… https://t.co/VINns74TzF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8812,
+          "following_count": 687,
+          "like_count": 10730,
+          "listed_count": 27,
+          "media_count": 1665,
+          "tweet_count": 3920
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-20T15:29:15.000Z",
+        "description": "太阳与地球@Cheese607",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "Cheese607"
+              }
+            ]
+          }
+        },
+        "id": "1649072643272851456",
+        "location": "七夕坂",
+        "name": "不熟芝士🧀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033582604474359808/lv9F3Add_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 592,
+          "like_count": 4734,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 408
+        },
+        "username": "Csisoqzid_23",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1975048997132972112",
+    "created_at": "2025-10-06T16:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T17:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975234318202204308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1908668668919398400",
+          "start": 0,
+          "username": "Kazumasski"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975234318202204308",
+    "in_reply_to_user_id": "1908668668919398400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975048997132972112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kazumasski 努力工作赚的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1975048997132972112",
+        "created_at": "2025-10-06T16:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T17:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975234318202204308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908668668919398400",
+              "start": 0,
+              "username": "Kazumasski"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975234318202204308",
+        "in_reply_to_user_id": "1908668668919398400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975048997132972112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazumasski 努力工作赚的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908668668919398400",
+        "conversation_id": "1975048997132972112",
+        "created_at": "2025-10-06T04:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T05:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975048997132972112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975048997132972112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1061,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "泥们mtf都这么有钱吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 266,
+          "like_count": 4397,
+          "listed_count": 7,
+          "media_count": 135,
+          "tweet_count": 1487
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "中推圈低龄鉴证神人｜Xの住人｜🏳️‍🌈｜ネズミ族｜🤍@aoim33 @Wanzi0209 @Shadow01175｜オタク｜音ゲーマ｜🚹13歳中2生✏️｜音ゲー垢@BBLLOOCCKK_｜アイコン #白买蓝｜〒SASHISUSESOOWO@HOTMAIL.COMせびご連絡下さい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 99,
+                "tag": "白买蓝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 33,
+                "start": 26,
+                "username": "aoim33"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "Wanzi0209"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "username": "Shadow01175"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "BBLLOOCCKK_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/HHAAIIBOT",
+                "end": 23,
+                "expanded_url": "http://x.com/HHAAIIBOT",
+                "start": 0,
+                "url": "https://t.co/m6COT27Ew1"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "location": "サブ垢→",
+        "name": "佐々木 かずま 🏳️‍🌈🇹🇼🇯🇵",
+        "pinned_tweet_id": "1964625217613185057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886453513588736/R0ovKQu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2386,
+          "following_count": 4758,
+          "like_count": 7706,
+          "listed_count": 10,
+          "media_count": 1291,
+          "tweet_count": 7606
+        },
+        "url": "https://t.co/m6COT27Ew1",
+        "username": "Kazumasski",
+        "verified": true
+      }
+    ]
+  }
+}

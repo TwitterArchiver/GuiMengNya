@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1986372296928571572",
+    "created_at": "2025-11-12T05:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T06:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988475791769055576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "149891783",
+          "start": 0,
+          "username": "Kobaryo_2b1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988475791769055576",
+    "in_reply_to_user_id": "149891783",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986372296928571572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kobaryo_2b1c 🧊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986372292994351104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5EDE4ObQAAzxA-.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1986372296928571572",
+        "created_at": "2025-11-12T05:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988475791769055576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "149891783",
+              "start": 0,
+              "username": "Kobaryo_2b1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988475791769055576",
+        "in_reply_to_user_id": "149891783",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986372296928571572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kobaryo_2b1c 🧊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986372292994351104"
+          ]
+        },
+        "author_id": "149891783",
+        "conversation_id": "1986372296928571572",
+        "created_at": "2025-11-06T09:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T10:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986372296928571572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IyYDniETcS",
+              "end": 25,
+              "expanded_url": "https://x.com/Kobaryo_2b1c/status/1986372296928571572/photo/1",
+              "media_key": "3_1986372292994351104",
+              "start": 2,
+              "url": "https://t.co/IyYDniETcS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986372296928571572",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 38847,
+          "like_count": 2195,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/IyYDniETcS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/幸福降临我身边/ 见证人类多样性",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1982061018953232844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 319,
+          "like_count": 6264,
+          "listed_count": 8,
+          "media_count": 216,
+          "tweet_count": 1881
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-30T14:17:24.000Z",
+        "description": "❏ 作曲 / 編曲 / イラスト / デザイン等\n❏ 楽曲提供: D4DJ、SEGA、TAITO、WACCA、アリス・ギア・アイギス、東方ダンマクカグラ、Arcaea、神椿市協奏中。等\n\n❖ https://t.co/Fj3rbQDFim\n❖ https://t.co/uxuPmECOCE\n❖ @hitnex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 148,
+                "username": "hitnex"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/c/Kobaryo",
+                "end": 119,
+                "expanded_url": "http://youtube.com/c/Kobaryo",
+                "start": 96,
+                "url": "https://t.co/Fj3rbQDFim"
+              },
+              {
+                "display_url": "pixiv.me/mdkb",
+                "end": 145,
+                "expanded_url": "http://pixiv.me/mdkb",
+                "start": 122,
+                "url": "https://t.co/uxuPmECOCE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Kobaryo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Kobaryo",
+                "start": 0,
+                "url": "https://t.co/bcOfK2ajJo"
+              }
+            ]
+          }
+        },
+        "id": "149891783",
+        "location": "ご依頼等→ cutemachine268@gmail.com",
+        "name": "Kobaryo",
+        "pinned_tweet_id": "1782001718286483706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510608573667373056/roCBB1VY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69555,
+          "following_count": 1442,
+          "like_count": 168295,
+          "listed_count": 368,
+          "media_count": 4345,
+          "tweet_count": 26754
+        },
+        "url": "https://t.co/bcOfK2ajJo",
+        "username": "Kobaryo_2b1c",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1962343213181870169",
+    "created_at": "2025-09-01T07:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T08:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962417701172937062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880140645454725120",
+          "start": 0,
+          "username": "DianJ71828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962417701172937062",
+    "in_reply_to_user_id": "1880140645454725120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962343213181870169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianJ71828 计划通"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962343205351153664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzukv5JbYAAgtBL.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1962343213181870169",
+        "created_at": "2025-09-01T07:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T08:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962417701172937062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962417701172937062",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962343213181870169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 计划通"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962343205351153664"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1962343213181870169",
+        "created_at": "2025-09-01T02:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T03:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962343213181870169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p3ZnRsya0y",
+              "end": 27,
+              "expanded_url": "https://x.com/DianJ71828/status/1962343213181870169/photo/1",
+              "media_key": "3_1962343205351153664",
+              "start": 4,
+              "url": "https://t.co/p3ZnRsya0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962343213181870169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "计划通 https://t.co/p3ZnRsya0y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/我的对象在哪里(伤心)/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 254,
+          "like_count": 3898,
+          "listed_count": 6,
+          "media_count": 125,
+          "tweet_count": 1318
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 260,
+          "like_count": 2114,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 497
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

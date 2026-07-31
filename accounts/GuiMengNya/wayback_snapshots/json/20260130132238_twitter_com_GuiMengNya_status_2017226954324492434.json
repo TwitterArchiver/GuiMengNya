@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2017092987839545626",
+    "created_at": "2026-01-30T13:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T14:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017226954324492434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "977044418007101440",
+          "start": 0,
+          "username": "du_kidd"
+        },
+        {
+          "end": 25,
+          "id": "1582343653485256704",
+          "start": 9,
+          "username": "xiaoheshang2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017226954324492434",
+    "in_reply_to_user_id": "977044418007101440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017209906789757342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@du_kidd @xiaoheshang2025 确实可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2017092987839545626",
+        "created_at": "2026-01-30T13:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T14:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017226954324492434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "977044418007101440",
+              "start": 0,
+              "username": "du_kidd"
+            },
+            {
+              "end": 25,
+              "id": "1582343653485256704",
+              "start": 9,
+              "username": "xiaoheshang2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017226954324492434",
+        "in_reply_to_user_id": "977044418007101440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017209906789757342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@du_kidd @xiaoheshang2025 确实可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "977044418007101440",
+        "conversation_id": "2017092987839545626",
+        "created_at": "2026-01-30T12:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T13:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017209906789757342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1582343653485256704",
+              "start": 0,
+              "username": "xiaoheshang2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017209906789757342",
+        "in_reply_to_user_id": "1582343653485256704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017092987839545626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoheshang2025 2500 follower 真的可以白嫖蓝V嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5855,
+          "following_count": 703,
+          "like_count": 9534,
+          "listed_count": 17,
+          "media_count": 1006,
+          "tweet_count": 3088
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-23T04:48:36.000Z",
+        "description": "Shanghainese | Traveling & living in Thailand | Web3 beginner\nAll greatness begins with a brave start. Chasing an easy life",
+        "id": "977044418007101440",
+        "location": "Chiang mai",
+        "name": "Kidd_du",
+        "pinned_tweet_id": "1918896411447308608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002737781815296000/ZRZe7l0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 2177,
+          "like_count": 4812,
+          "listed_count": 6,
+          "media_count": 140,
+          "tweet_count": 5259
+        },
+        "username": "du_kidd",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-18T12:11:48.000Z",
+        "description": "ok钱包返佣邀请码55190716，需要更高比例请私聊；币安钱包返60%邀请码MR355368，现货合约邀请码BTC11998，注册链接https://t.co/ESNPkIqJRD，bitget返佣链接https://t.co/IODQxClDPL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "binance.com/join?ref=BTC11…",
+                "end": 91,
+                "expanded_url": "https://www.binance.com/join?ref=BTC11998",
+                "start": 68,
+                "url": "https://t.co/ESNPkIqJRD"
+              },
+              {
+                "display_url": "partner.niftah.cn/bg/SH1777",
+                "end": 125,
+                "expanded_url": "https://partner.niftah.cn/bg/SH1777",
+                "start": 102,
+                "url": "https://t.co/IODQxClDPL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+XaA0GjLDkkw1Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+XaA0GjLDkkw1YjZh",
+                "start": 0,
+                "url": "https://t.co/gwKmnip3xx"
+              }
+            ]
+          }
+        },
+        "id": "1582343653485256704",
+        "location": "和尚策略分享电报群",
+        "name": "无产阶级和尚",
+        "pinned_tweet_id": "1986595602449506633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582344327077842944/BRVlWaww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25864,
+          "following_count": 880,
+          "like_count": 1135,
+          "listed_count": 248,
+          "media_count": 693,
+          "tweet_count": 4033
+        },
+        "url": "https://t.co/gwKmnip3xx",
+        "username": "xiaoheshang2025",
+        "verified": true
+      }
+    ]
+  }
+}

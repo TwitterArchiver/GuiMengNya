@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1962878510743331007",
+    "created_at": "2025-09-03T08:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T09:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963156746031243711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1603232668744761345",
+          "start": 0,
+          "username": "orugannokasa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963156746031243711",
+    "in_reply_to_user_id": "1603232668744761345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962878510743331007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orugannokasa 喹➕劳拉➕色吗，晕过去应该是行的，别的没啥效果"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962878507404693504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2LmksbEAAUm-D.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1962878510743331007",
+        "created_at": "2025-09-03T08:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T09:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963156746031243711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1603232668744761345",
+              "start": 0,
+              "username": "orugannokasa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963156746031243711",
+        "in_reply_to_user_id": "1603232668744761345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962878510743331007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orugannokasa 喹➕劳拉➕色吗，晕过去应该是行的，别的没啥效果"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962878507404693504"
+          ]
+        },
+        "author_id": "1603232668744761345",
+        "conversation_id": "1962878510743331007",
+        "created_at": "2025-09-02T14:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T15:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962878510743331007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1gSe85Hk1",
+              "end": 63,
+              "expanded_url": "https://x.com/orugannokasa/status/1962878510743331007/photo/1",
+              "media_key": "3_1962878507404693504",
+              "start": 40,
+              "url": "https://t.co/C1gSe85Hk1"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "1962878510743331007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1745,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "晚安...可能在我临死之前，也听不见你对我说那三个字叭...这是我的悲哀... https://t.co/C1gSe85Hk1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/要一直哦@future080712/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "future080712"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 255,
+          "like_count": 4019,
+          "listed_count": 6,
+          "media_count": 126,
+          "tweet_count": 1350
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T03:38:20.000Z",
+        "description": "一只mtf，INFP，缺爱，中度抑郁的xyn，偶尔会割手手，但是不od（）\n暂时无证含糖，身高体重保密喵～\n同类无门槛w ，互fo踢我\n永远的好妹妹 @MiaoJiang080923\n❤️永远的大笨蛋❤️@LeQing123\n永远的好闺蜜@bdxiaoxiong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "MiaoJiang080923"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "LeQing123"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "bdxiaoxiong"
+              }
+            ]
+          }
+        },
+        "id": "1603232668744761345",
+        "location": "苏南",
+        "name": "🍥オルガンの傘🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962398253481365504/3QH1bDNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 112,
+          "like_count": 1014,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 153
+        },
+        "username": "orugannokasa",
+        "verified": false
+      }
+    ]
+  }
+}

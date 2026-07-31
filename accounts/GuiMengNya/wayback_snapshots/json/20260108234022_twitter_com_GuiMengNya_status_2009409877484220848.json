@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2009092694824636752",
+    "created_at": "2026-01-08T23:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T00:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009409877484220848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1762137249557417984",
+          "start": 0,
+          "username": "jiaowodage0"
+        },
+        {
+          "end": 24,
+          "id": "1575258041267925002",
+          "start": 13,
+          "username": "bluwhaleai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009409877484220848",
+    "in_reply_to_user_id": "1762137249557417984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009092694824636752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaowodage0 @bluwhaleai 隐私的价值越来越大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2008913517336997889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-EYM0laMAELdcQ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2009092694824636752",
+        "created_at": "2026-01-08T23:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T00:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009409877484220848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1762137249557417984",
+              "start": 0,
+              "username": "jiaowodage0"
+            },
+            {
+              "end": 24,
+              "id": "1575258041267925002",
+              "start": 13,
+              "username": "bluwhaleai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009409877484220848",
+        "in_reply_to_user_id": "1762137249557417984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009092694824636752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaowodage0 @bluwhaleai 隐私的价值越来越大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008913517336997889"
+          ]
+        },
+        "author_id": "1762137249557417984",
+        "conversation_id": "2009092694824636752",
+        "created_at": "2026-01-08T02:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T03:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009092694824636752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 152,
+              "id": "1575258041267925002",
+              "start": 141,
+              "username": "bluwhaleai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N5xxDfnK3f",
+              "end": 176,
+              "expanded_url": "https://x.com/jiaowodage0/status/2009092694824636752/photo/1",
+              "media_key": "3_2008913517336997889",
+              "start": 153,
+              "url": "https://t.co/N5xxDfnK3f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009092694824636752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 152,
+                "id": "1575258041267925002",
+                "start": 141,
+                "username": "bluwhaleai"
+              },
+              {
+                "end": 322,
+                "id": "1575258041267925002",
+                "start": 311,
+                "username": "bluwhaleai"
+              }
+            ]
+          },
+          "text": "这段时间我一直在重新思考一个问题：\nAI 的下一阶段，真的还是比谁的模型更大、更聪明吗？\n\n越往下看越发现，答案却可能是恰恰相反的。\n模型仅仅只是工具，真正决定 AI 价值的，一直都是数据。\n而更关键的一点是：这些数据产生的价值，最终到底归谁？\n\n也正是在这样的背景下，我开始关注 @bluwhaleai  。\n相比较于继续卷模型能力，它把重心放在更底层的事情上：让用户真正拥有自己的数据，让数字身份可以跨平台自由流动，让智能不再被单一的应用锁住，而是能在不同的去中心化应用之间协同运转。\n\n很多平台都在谈隐私，但在 Web3 的世界里，隐私的前提其实是拥有所有权。如果用户不拥有数据，再严格的隐私承诺也只是表层规则。\n @bluwhaleai  想做的，是把用户从“被收集的一方”，变成“价值的拥有者”，让技术红利不再只集中在平台手里。\n\n在我看来，这不单单是一个 AI 项目，更像是在搭建一种新的价值逻辑：我的数据，我来决定；我创造的价值，也应该回到我手中。\n也许，AI 真正的分水岭，就从这里才算是真正的开始。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这段时间我一直在重新思考一个问题：\nAI 的下一阶段，真的还是比谁的模型更大、更聪明吗？\n\n越往下看越发现，答案却可能是恰恰相反的。\n模型仅仅只是工具，真正决定 AI 价值的，一直都是数据。\n而更关键的一点是：这些数据产生的价值，最终到底归谁？\n\n也正是在这样的背景下，我开始关注 @bluwhaleai https://t.co/N5xxDfnK3f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3656,
+          "following_count": 343,
+          "like_count": 7675,
+          "listed_count": 15,
+          "media_count": 652,
+          "tweet_count": 2532
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-26T15:27:20.000Z",
+        "description": "蓝V互关       \n每天正常在线，互关互动必回！！！\n希望多多支持",
+        "id": "1762137249557417984",
+        "name": "章鱼Ge（积极向上版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996243829889105920/jsKLczHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 2771,
+          "like_count": 44007,
+          "listed_count": 12,
+          "media_count": 151,
+          "tweet_count": 43705
+        },
+        "username": "jiaowodage0",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-28T22:56:13.000Z",
+        "description": "World's #1 Intelligence Layer (L3) 🇺🇸 - The Fastest Growing AI Network Powered By You, Unlocking The Future of AI Agents & Services With $BLUAI & $BLUP",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 143,
+                "start": 137,
+                "tag": "BLUAI"
+              },
+              {
+                "end": 151,
+                "start": 146,
+                "tag": "BLUP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluwhale.com",
+                "end": 23,
+                "expanded_url": "https://www.bluwhale.com/",
+                "start": 0,
+                "url": "https://t.co/4u2s9DZf7u"
+              }
+            ]
+          }
+        },
+        "id": "1575258041267925002",
+        "location": "San Francisco",
+        "name": "Bluwhale",
+        "pinned_tweet_id": "1980280749879427348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855824417856819201/iQwj1M9m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255405,
+          "following_count": 119,
+          "like_count": 958,
+          "listed_count": 226,
+          "media_count": 604,
+          "tweet_count": 1470
+        },
+        "url": "https://t.co/4u2s9DZf7u",
+        "username": "bluwhaleai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1963023214004892083",
+    "created_at": "2025-09-02T23:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T00:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963023214004892083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806650625100312576",
+          "start": 3,
+          "username": "SSSY2024"
+        },
+        {
+          "end": 29,
+          "id": "1260553941714186241",
+          "start": 14,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963023214004892083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963020556204167170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SSSY2024: @whyyoutouzhele 🤣这场所谓“阅兵”，根子就不正。抗战胜利是别人打下的血路，它却厚颜无耻窃来当遗产；江山是篡位得来的，却要假装“正统主人”。舞台上高举的不是胜利，而是篡国的遮羞布；走过广场的不是军威，而是替窃国政权背书的奴舞。\n\n一句话…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1963023214004892083",
+        "created_at": "2025-09-02T23:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T00:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963023214004892083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806650625100312576",
+              "start": 3,
+              "username": "SSSY2024"
+            },
+            {
+              "end": 29,
+              "id": "1260553941714186241",
+              "start": 14,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963023214004892083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963020556204167170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SSSY2024: @whyyoutouzhele 🤣这场所谓“阅兵”，根子就不正。抗战胜利是别人打下的血路，它却厚颜无耻窃来当遗产；江山是篡位得来的，却要假装“正统主人”。舞台上高举的不是胜利，而是篡国的遮羞布；走过广场的不是军威，而是替窃国政权背书的奴舞。\n\n一句话…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806650625100312576",
+        "conversation_id": "1963019302472450074",
+        "created_at": "2025-09-02T23:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T00:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963020556204167170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963020556204167170",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 147,
+                "start": 142,
+                "tag": "王朝末年"
+              }
+            ]
+          },
+          "text": "🤣这场所谓“阅兵”，根子就不正。抗战胜利是别人打下的血路，它却厚颜无耻窃来当遗产；江山是篡位得来的，却要假装“正统主人”。舞台上高举的不是胜利，而是篡国的遮羞布；走过广场的不是军威，而是替窃国政权背书的奴舞。\n\n一句话：得国不正，却妄图当家作主；这不是阅兵，而是篡位者的自我催眠。\n\n#王朝末年 赤马红羊劫已至，中共窃国大盗再怎么阅兵粉饰，也逃不掉篡位者必亡的宿命。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 456,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963019302472450074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 🤣这场所谓“阅兵”，根子就不正。抗战胜利是别人打下的血路，它却厚颜无耻窃来当遗产；江山是篡位得来的，却要假装“正统主人”。舞台上高举的不是胜利，而是篡国的遮羞布；走过广场的不是军威，而是替窃国政权背书的奴舞。\n\n一句话：得国不正，却妄图当家作主；这不是阅兵，而是篡位者的自我催眠。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/要一直哦@future080712/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "future080712"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 255,
+          "like_count": 4012,
+          "listed_count": 6,
+          "media_count": 126,
+          "tweet_count": 1346
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T11:27:40.000Z",
+        "description": "Shanghai Independenc /上海獨立/China Secession/中國分裂/秉孤胆直言之志，倡沪上独立，兼推江浙沪联合王国，与九域离心之势。凡南蒙、西藏、东突、台湾、巴蜀、闽越、大粤之志士，皆为并肩之友。誓破一统之局，复列邦之风，使四海各安其国，百姓各享其安！",
+        "id": "1806650625100312576",
+        "location": "Queens, NY",
+        "name": "YinSun孙寅",
+        "pinned_tweet_id": "1927391753805463918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917013177260285953/Wx4j5RGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4022,
+          "following_count": 755,
+          "like_count": 6360,
+          "listed_count": 24,
+          "media_count": 2072,
+          "tweet_count": 9546
+        },
+        "username": "SSSY2024",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1961459295813312811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092749,
+          "following_count": 985,
+          "like_count": 8037,
+          "listed_count": 8317,
+          "media_count": 34302,
+          "tweet_count": 41077
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

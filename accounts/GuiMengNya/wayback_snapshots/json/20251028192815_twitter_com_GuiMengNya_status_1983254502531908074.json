@@ -1,0 +1,532 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983155819157094400",
+        "3_1983155819119333377",
+        "3_1983155819173801985",
+        "3_1983155820058845184"
+      ],
+      "media_source_tweet_id": [
+        "1983155851155443980",
+        "1983155851155443980",
+        "1983155851155443980",
+        "1983155851155443980"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1983254502531908074",
+    "created_at": "2025-10-28T19:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T20:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983254502531908074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gvu8dYLOW9",
+          "end": 81,
+          "expanded_url": "https://x.com/Cldeop/status/1983155851155443980/photo/1",
+          "media_key": "3_1983155819157094400",
+          "start": 58,
+          "url": "https://t.co/gvu8dYLOW9"
+        },
+        {
+          "display_url": "pic.x.com/gvu8dYLOW9",
+          "end": 81,
+          "expanded_url": "https://x.com/Cldeop/status/1983155851155443980/photo/1",
+          "media_key": "3_1983155819119333377",
+          "start": 58,
+          "url": "https://t.co/gvu8dYLOW9"
+        },
+        {
+          "display_url": "pic.x.com/gvu8dYLOW9",
+          "end": 81,
+          "expanded_url": "https://x.com/Cldeop/status/1983155851155443980/photo/1",
+          "media_key": "3_1983155819173801985",
+          "start": 58,
+          "url": "https://t.co/gvu8dYLOW9"
+        },
+        {
+          "display_url": "pic.x.com/gvu8dYLOW9",
+          "end": 81,
+          "expanded_url": "https://x.com/Cldeop/status/1983155851155443980/photo/1",
+          "media_key": "3_1983155820058845184",
+          "start": 58,
+          "url": "https://t.co/gvu8dYLOW9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983254502531908074",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983155851155443980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: 由于周末有事没看成（\n今天补看了，初音ミク我永远喜欢你啊啊啊啊\n不要哭好吗米库酱😭😭😭摸摸 https://t.co/gvu8dYLOW9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1983155819157094400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WVtdcbgAASxCk.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1983155819119333377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WVtdTbUAEloOz.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1983155819173801985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WVtdgacAE8wDy.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1983155820058845184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WVtgzbIAAosG7.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983155819157094400",
+            "3_1983155819119333377",
+            "3_1983155819173801985",
+            "3_1983155820058845184"
+          ],
+          "media_source_tweet_id": [
+            "1983155851155443980",
+            "1983155851155443980",
+            "1983155851155443980",
+            "1983155851155443980"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1983254502531908074",
+        "created_at": "2025-10-28T19:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T20:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983254502531908074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gvu8dYLOW9",
+              "end": 81,
+              "expanded_url": "https://x.com/Cldeop/status/1983155851155443980/photo/1",
+              "media_key": "3_1983155819157094400",
+              "start": 58,
+              "url": "https://t.co/gvu8dYLOW9"
+            },
+            {
+              "display_url": "pic.x.com/gvu8dYLOW9",
+              "end": 81,
+              "expanded_url": "https://x.com/Cldeop/status/1983155851155443980/photo/1",
+              "media_key": "3_1983155819119333377",
+              "start": 58,
+              "url": "https://t.co/gvu8dYLOW9"
+            },
+            {
+              "display_url": "pic.x.com/gvu8dYLOW9",
+              "end": 81,
+              "expanded_url": "https://x.com/Cldeop/status/1983155851155443980/photo/1",
+              "media_key": "3_1983155819173801985",
+              "start": 58,
+              "url": "https://t.co/gvu8dYLOW9"
+            },
+            {
+              "display_url": "pic.x.com/gvu8dYLOW9",
+              "end": 81,
+              "expanded_url": "https://x.com/Cldeop/status/1983155851155443980/photo/1",
+              "media_key": "3_1983155820058845184",
+              "start": 58,
+              "url": "https://t.co/gvu8dYLOW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983254502531908074",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983155851155443980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: 由于周末有事没看成（\n今天补看了，初音ミク我永远喜欢你啊啊啊啊\n不要哭好吗米库酱😭😭😭摸摸 https://t.co/gvu8dYLOW9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983155819157094400",
+            "3_1983155819119333377",
+            "3_1983155819173801985",
+            "3_1983155820058845184"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1983155851155443980",
+        "created_at": "2025-10-28T12:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T13:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983155851155443980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gvu8dYLOW9",
+              "end": 69,
+              "expanded_url": "https://x.com/Cldeop/status/1983155851155443980/photo/1",
+              "media_key": "3_1983155819157094400",
+              "start": 46,
+              "url": "https://t.co/gvu8dYLOW9"
+            },
+            {
+              "display_url": "pic.x.com/gvu8dYLOW9",
+              "end": 69,
+              "expanded_url": "https://x.com/Cldeop/status/1983155851155443980/photo/1",
+              "media_key": "3_1983155819119333377",
+              "start": 46,
+              "url": "https://t.co/gvu8dYLOW9"
+            },
+            {
+              "display_url": "pic.x.com/gvu8dYLOW9",
+              "end": 69,
+              "expanded_url": "https://x.com/Cldeop/status/1983155851155443980/photo/1",
+              "media_key": "3_1983155819173801985",
+              "start": 46,
+              "url": "https://t.co/gvu8dYLOW9"
+            },
+            {
+              "display_url": "pic.x.com/gvu8dYLOW9",
+              "end": 69,
+              "expanded_url": "https://x.com/Cldeop/status/1983155851155443980/photo/1",
+              "media_key": "3_1983155820058845184",
+              "start": 46,
+              "url": "https://t.co/gvu8dYLOW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983155851155443980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2757,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "由于周末有事没看成（\n今天补看了，初音ミク我永远喜欢你啊啊啊啊\n不要哭好吗米库酱😭😭😭摸摸 https://t.co/gvu8dYLOW9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 305,
+          "like_count": 5259,
+          "listed_count": 7,
+          "media_count": 148,
+          "tweet_count": 1698
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85439,
+          "following_count": 651,
+          "like_count": 31192,
+          "listed_count": 258,
+          "media_count": 13027,
+          "tweet_count": 18475
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

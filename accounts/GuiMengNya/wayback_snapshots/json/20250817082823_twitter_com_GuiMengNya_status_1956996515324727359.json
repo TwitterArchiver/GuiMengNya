@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1956176769079496919",
+    "created_at": "2025-08-17T08:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T09:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956996515324727359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754931116711215104",
+          "start": 0,
+          "username": "ikun101012"
+        },
+        {
+          "end": 28,
+          "id": "1821164391699771395",
+          "start": 12,
+          "username": "chngbtngln87583"
+        },
+        {
+          "end": 43,
+          "id": "2459061450",
+          "start": 29,
+          "username": "ChnEmbassy_jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956996515324727359",
+    "in_reply_to_user_id": "1754931116711215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956807449974858166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ikun101012 @chngbtngln87583 @ChnEmbassy_jp 招笑小粉红，被训狗训得真的好乖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1956176769079496919",
+        "created_at": "2025-08-17T08:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T09:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956996515324727359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754931116711215104",
+              "start": 0,
+              "username": "ikun101012"
+            },
+            {
+              "end": 28,
+              "id": "1821164391699771395",
+              "start": 12,
+              "username": "chngbtngln87583"
+            },
+            {
+              "end": 43,
+              "id": "2459061450",
+              "start": 29,
+              "username": "ChnEmbassy_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956996515324727359",
+        "in_reply_to_user_id": "1754931116711215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956807449974858166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikun101012 @chngbtngln87583 @ChnEmbassy_jp 招笑小粉红，被训狗训得真的好乖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754931116711215104",
+        "conversation_id": "1956176769079496919",
+        "created_at": "2025-08-16T19:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T20:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956807449974858166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            },
+            {
+              "end": 28,
+              "id": "1821164391699771395",
+              "start": 12,
+              "username": "chngbtngln87583"
+            },
+            {
+              "end": 43,
+              "id": "2459061450",
+              "start": 29,
+              "username": "ChnEmbassy_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956807449974858166",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956377502328443076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya @chngbtngln87583 @ChnEmbassy_jp 死飞柱😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州/精神比你正常就对了/喜欢音游，机车/#INTJ/含妈量极高/好妹妹@shadow110705，❤️@cyansoul2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "shadow110705"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "cyansoul2"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1956267849724649494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 233,
+          "like_count": 3584,
+          "listed_count": 6,
+          "media_count": 121,
+          "tweet_count": 1189
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T18:13:07.000Z",
+        "description": "",
+        "id": "1754931116711215104",
+        "location": "银河系",
+        "name": "ikun666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755641965092200448/Ge_Q7Ai9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 22,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 93
+        },
+        "username": "ikun101012",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T12:40:18.000Z",
+        "description": "",
+        "id": "1821164391699771395",
+        "name": "成步堂龙之介",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821164907091652609/NIgwhmGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "chngbtngln87583",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-23T02:45:07.000Z",
+        "description": "中華人民共和国駐日本国大使館の公式Twitterです。 中日関係、国民交流、また中国経済・文化・社会及び大使館行事などを皆様にご紹介させていただきます。大使館HPはこちらへhttps://t.co/z6AjpxEDjk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "china-embassy.or.jp/jpn/",
+                "end": 109,
+                "expanded_url": "http://china-embassy.or.jp/jpn/",
+                "start": 86,
+                "url": "https://t.co/z6AjpxEDjk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china-embassy.or.jp/jpn/",
+                "end": 23,
+                "expanded_url": "http://www.china-embassy.or.jp/jpn/",
+                "start": 0,
+                "url": "https://t.co/jGw04z9RfY"
+              }
+            ]
+          }
+        },
+        "id": "2459061450",
+        "location": "Japan",
+        "name": "中華人民共和国駐日本国大使館",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1246448063079563270/qEePxpv0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115671,
+          "following_count": 810,
+          "like_count": 100,
+          "listed_count": 1399,
+          "media_count": 3366,
+          "tweet_count": 10170
+        },
+        "url": "https://t.co/jGw04z9RfY",
+        "username": "ChnEmbassy_jp",
+        "verified": true
+      }
+    ]
+  }
+}

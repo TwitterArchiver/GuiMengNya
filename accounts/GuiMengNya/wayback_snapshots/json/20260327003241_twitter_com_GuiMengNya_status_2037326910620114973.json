@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2037296577581318336",
+    "created_at": "2026-03-27T00:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T01:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037326910620114973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2017801470536724480",
+          "start": 0,
+          "username": "rukenyang1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037326910620114973",
+    "in_reply_to_user_id": "2017801470536724480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037325889814569057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rukenyang1024 一天八小时"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2037296577581318336",
+        "created_at": "2026-03-27T00:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T01:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037326910620114973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2017801470536724480",
+              "start": 0,
+              "username": "rukenyang1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037326910620114973",
+        "in_reply_to_user_id": "2017801470536724480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037325889814569057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rukenyang1024 一天八小时"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017801470536724480",
+        "conversation_id": "2037296577581318336",
+        "created_at": "2026-03-27T00:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T01:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037325889814569057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037325889814569057",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037296577581318336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 试用员一天需要打多少次飞机？那能顶得住吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9256,
+          "following_count": 696,
+          "like_count": 11030,
+          "listed_count": 29,
+          "media_count": 1831,
+          "tweet_count": 4155
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-01T03:25:48.000Z",
+        "description": "闲来无事说段子，没事前排吃个瓜\n\n多多关注转发！",
+        "id": "2017801470536724480",
+        "name": "Ruken",
+        "pinned_tweet_id": "2035565492136804700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017801711793115136/3G0tFmOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 250,
+          "like_count": 327,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 348
+        },
+        "username": "rukenyang1024",
+        "verified": true
+      }
+    ]
+  }
+}

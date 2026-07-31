@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2061305950880088573",
+    "created_at": "2026-06-01T14:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T15:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061458435846369455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892256210608697344",
+          "start": 0,
+          "username": "feng638061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061458435846369455",
+    "in_reply_to_user_id": "1892256210608697344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061305950880088573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@feng638061 为什么不用英文的人工坐席，24h在线"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 703,
+        "media_key": "3_2061305817283039232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJs6uDSaEAArti1.jpg",
+        "width": 1226
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2061305950880088573",
+        "created_at": "2026-06-01T14:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061458435846369455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892256210608697344",
+              "start": 0,
+              "username": "feng638061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061458435846369455",
+        "in_reply_to_user_id": "1892256210608697344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061305950880088573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@feng638061 为什么不用英文的人工坐席，24h在线"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061305817283039232"
+          ]
+        },
+        "author_id": "1892256210608697344",
+        "conversation_id": "2061305950880088573",
+        "created_at": "2026-06-01T04:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061305950880088573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L64SDBA0BC",
+              "end": 54,
+              "expanded_url": "https://x.com/feng638061/status/2061305950880088573/photo/1",
+              "media_key": "3_2061305817283039232",
+              "start": 31,
+              "url": "https://t.co/L64SDBA0BC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061305950880088573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 636,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好尴尬，打wise的电话全是英语\n\n我一句话没听懂\n\ntmd https://t.co/L64SDBA0BC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边/人间归梦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10259,
+          "following_count": 691,
+          "like_count": 11501,
+          "listed_count": 30,
+          "media_count": 2272,
+          "tweet_count": 4650
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-19T16:53:47.000Z",
+        "description": "web2是生活，web3是梦想 JUST DO IT ！ HTXDAO志愿者 | #蓝鸟会",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 41,
+                "tag": "蓝鸟会"
+              }
+            ]
+          }
+        },
+        "id": "1892256210608697344",
+        "name": "7w 🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988090512793042944/uBAwecUk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12881,
+          "following_count": 7228,
+          "like_count": 913,
+          "listed_count": 43,
+          "media_count": 1490,
+          "tweet_count": 9909
+        },
+        "username": "feng638061",
+        "verified": true
+      }
+    ]
+  }
+}

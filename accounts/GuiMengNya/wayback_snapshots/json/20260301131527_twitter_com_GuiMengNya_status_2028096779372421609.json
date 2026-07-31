@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2027823617669476826",
+    "created_at": "2026-03-01T13:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T14:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028096779372421609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1674333652711362560",
+          "start": 0,
+          "username": "LaiOwencom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028096779372421609",
+    "in_reply_to_user_id": "1674333652711362560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028096677777993746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaiOwencom 还是留给我2块的吧）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2027823617669476826",
+        "created_at": "2026-03-01T13:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028096779372421609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674333652711362560",
+              "start": 0,
+              "username": "LaiOwencom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028096779372421609",
+        "in_reply_to_user_id": "1674333652711362560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028096677777993746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaiOwencom 还是留给我2块的吧）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674333652711362560",
+        "conversation_id": "2027823617669476826",
+        "created_at": "2026-03-01T13:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028096677777993746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028096677777993746",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027823617669476826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 我想1.5元收一个自己来玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7842,
+          "following_count": 701,
+          "like_count": 10384,
+          "listed_count": 29,
+          "media_count": 1412,
+          "tweet_count": 3599
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-29T08:27:13.000Z",
+        "description": "互联网运营牛马\n努力学习提升AI项目",
+        "id": "1674333652711362560",
+        "location": "广州",
+        "name": "来一下",
+        "pinned_tweet_id": "2020689122680349085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003838805204148224/lWUorNMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 904,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 3287
+        },
+        "username": "LaiOwencom",
+        "verified": true
+      }
+    ]
+  }
+}

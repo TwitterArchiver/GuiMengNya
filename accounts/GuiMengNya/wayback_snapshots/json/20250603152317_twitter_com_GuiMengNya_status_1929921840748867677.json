@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1929800384681501102",
+    "created_at": "2025-06-03T15:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T16:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929921840748867677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596652915959078913",
+          "start": 0,
+          "username": "nanami5513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929921840748867677",
+    "in_reply_to_user_id": "1596652915959078913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929800384681501102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami5513 平板zen me怎么了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929800376909549571",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsgHN-Eb0AMWfz4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1929800384681501102",
+        "created_at": "2025-06-03T15:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T16:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929921840748867677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596652915959078913",
+              "start": 0,
+              "username": "nanami5513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929921840748867677",
+        "in_reply_to_user_id": "1596652915959078913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929800384681501102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami5513 平板zen me怎么了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929800376909549571"
+          ]
+        },
+        "author_id": "1596652915959078913",
+        "conversation_id": "1929800384681501102",
+        "created_at": "2025-06-03T07:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T08:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929800384681501102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/REJ146pTxU",
+              "end": 37,
+              "expanded_url": "https://x.com/nanami5513/status/1929800384681501102/photo/1",
+              "media_key": "3_1929800376909549571",
+              "start": 14,
+              "url": "https://t.co/REJ146pTxU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929800384681501102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还能读主板，应该可以保修（ https://t.co/REJ146pTxU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/坐标杭州/家长不管党/坐标杭州/精神比你正常就对了/喜欢音游，机车/#INTJ/含妈量极高/好妹妹@kageto0705，是@xiaoyeluo姐姐的猫猫，🩷@Cyansoul2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 44,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "kageto0705"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "xiaoyeluo"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "Cyansoul2"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1923775268247969838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 228,
+          "like_count": 3548,
+          "listed_count": 5,
+          "media_count": 115,
+          "tweet_count": 1131
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T23:51:38.000Z",
+        "description": "是帆的猫猫/珠颈斑鸠～（随地大小变）/inxx/05年/ MtF/超大只/有证/精神病/会一直陪着的/可爱咕咕@nanami_mua/把七海捞回来的人@miya051223/然然妹妹@Shenyuebanran",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "nanami_mua"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "miya051223"
+              },
+              {
+                "end": 105,
+                "start": 91,
+                "username": "Shenyuebanran"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nanami99230",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nanami99230",
+                "start": 0,
+                "url": "https://t.co/X8pmKTexG8"
+              }
+            ]
+          }
+        },
+        "id": "1596652915959078913",
+        "name": "七海咕咕喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905276702319943680/VEHSyuLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 406,
+          "like_count": 23992,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 3125
+        },
+        "url": "https://t.co/X8pmKTexG8",
+        "username": "nanami5513",
+        "verified": true
+      }
+    ]
+  }
+}

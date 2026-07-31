@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2036416852361158867",
+    "created_at": "2026-03-24T14:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T15:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036454943222276227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1866993212709277698",
+          "start": 0,
+          "username": "RockGrokAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036454943222276227",
+    "in_reply_to_user_id": "1866993212709277698",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036454569790574598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RockGrokAI If I don't use my own brain, I will feel stupid, although using AI is indeed not a good way."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2036416852361158867",
+        "created_at": "2026-03-24T14:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036454943222276227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1866993212709277698",
+              "start": 0,
+              "username": "RockGrokAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036454943222276227",
+        "in_reply_to_user_id": "1866993212709277698",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036454569790574598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RockGrokAI If I don't use my own brain, I will feel stupid, although using AI is indeed not a good way."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866993212709277698",
+        "conversation_id": "2036416852361158867",
+        "created_at": "2026-03-24T14:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036454569790574598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036454569790574598",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036416852361158867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya Copy/paste the image into any Chatbot prompt box and it will tell you everything."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9107,
+          "following_count": 696,
+          "like_count": 10948,
+          "listed_count": 29,
+          "media_count": 1795,
+          "tweet_count": 4099
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-11T23:47:32.000Z",
+        "description": "Coder, when it mattered. AI prompter now.\n\nThe future belongs to those who best use AI to leverage their own knowledge, creativity, and productivity.",
+        "id": "1866993212709277698",
+        "name": "AI Aimee",
+        "pinned_tweet_id": "2036422532568355280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915054728171458560/YJV6xV8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2878,
+          "following_count": 2203,
+          "like_count": 24339,
+          "listed_count": 28,
+          "media_count": 5648,
+          "tweet_count": 20607
+        },
+        "username": "RockGrokAI",
+        "verified": true
+      }
+    ]
+  }
+}

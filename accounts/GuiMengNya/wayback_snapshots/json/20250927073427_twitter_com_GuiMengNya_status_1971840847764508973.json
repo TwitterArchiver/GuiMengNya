@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971840834556567552",
+        "3_1971840834594369536",
+        "3_1971840835055767552",
+        "3_1971840835068346368"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405583886260736000",
+          "name": "Night scapes"
+        }
+      }
+    ],
+    "conversation_id": "1971840847764508973",
+    "created_at": "2025-09-27T07:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T08:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971840847764508973"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MIscy6ZrDh",
+          "end": 31,
+          "expanded_url": "https://x.com/GuiMengNya/status/1971840847764508973/photo/1",
+          "media_key": "3_1971840834556567552",
+          "start": 8,
+          "url": "https://t.co/MIscy6ZrDh"
+        },
+        {
+          "display_url": "pic.x.com/MIscy6ZrDh",
+          "end": 31,
+          "expanded_url": "https://x.com/GuiMengNya/status/1971840847764508973/photo/1",
+          "media_key": "3_1971840834594369536",
+          "start": 8,
+          "url": "https://t.co/MIscy6ZrDh"
+        },
+        {
+          "display_url": "pic.x.com/MIscy6ZrDh",
+          "end": 31,
+          "expanded_url": "https://x.com/GuiMengNya/status/1971840847764508973/photo/1",
+          "media_key": "3_1971840835055767552",
+          "start": 8,
+          "url": "https://t.co/MIscy6ZrDh"
+        },
+        {
+          "display_url": "pic.x.com/MIscy6ZrDh",
+          "end": 31,
+          "expanded_url": "https://x.com/GuiMengNya/status/1971840847764508973/photo/1",
+          "media_key": "3_1971840835068346368",
+          "start": 8,
+          "url": "https://t.co/MIscy6ZrDh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971840847764508973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "郑州，拍的夜景 https://t.co/MIscy6ZrDh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971840834556567552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G11iyrFaoAAzOjE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1971840834594369536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G11iyrObcAA3_4n.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1971840835055767552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G11iys8b0AA53Hp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1971840835068346368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G11iys_bwAAMNYU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971840834556567552",
+            "3_1971840834594369536",
+            "3_1971840835055767552",
+            "3_1971840835068346368"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405583886260736000",
+              "name": "Night scapes"
+            }
+          }
+        ],
+        "conversation_id": "1971840847764508973",
+        "created_at": "2025-09-27T07:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T08:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971840847764508973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MIscy6ZrDh",
+              "end": 31,
+              "expanded_url": "https://x.com/GuiMengNya/status/1971840847764508973/photo/1",
+              "media_key": "3_1971840834556567552",
+              "start": 8,
+              "url": "https://t.co/MIscy6ZrDh"
+            },
+            {
+              "display_url": "pic.x.com/MIscy6ZrDh",
+              "end": 31,
+              "expanded_url": "https://x.com/GuiMengNya/status/1971840847764508973/photo/1",
+              "media_key": "3_1971840834594369536",
+              "start": 8,
+              "url": "https://t.co/MIscy6ZrDh"
+            },
+            {
+              "display_url": "pic.x.com/MIscy6ZrDh",
+              "end": 31,
+              "expanded_url": "https://x.com/GuiMengNya/status/1971840847764508973/photo/1",
+              "media_key": "3_1971840835055767552",
+              "start": 8,
+              "url": "https://t.co/MIscy6ZrDh"
+            },
+            {
+              "display_url": "pic.x.com/MIscy6ZrDh",
+              "end": 31,
+              "expanded_url": "https://x.com/GuiMengNya/status/1971840847764508973/photo/1",
+              "media_key": "3_1971840835068346368",
+              "start": 8,
+              "url": "https://t.co/MIscy6ZrDh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971840847764508973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "郑州，拍的夜景 https://t.co/MIscy6ZrDh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中",
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1966904981568852417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 255,
+          "like_count": 4237,
+          "listed_count": 7,
+          "media_count": 129,
+          "tweet_count": 1415
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

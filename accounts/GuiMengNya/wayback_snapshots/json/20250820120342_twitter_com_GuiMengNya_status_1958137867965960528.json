@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1958099553724362948",
+    "created_at": "2025-08-20T12:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T13:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958137867965960528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1943639471528009728",
+          "start": 0,
+          "username": "mitei1175"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958137867965960528",
+    "in_reply_to_user_id": "1943639471528009728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958123971666473112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mitei1175 怎么账号受限了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1958099553724362948",
+        "created_at": "2025-08-20T12:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T13:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958137867965960528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1943639471528009728",
+              "start": 0,
+              "username": "mitei1175"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958137867965960528",
+        "in_reply_to_user_id": "1943639471528009728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958123971666473112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mitei1175 怎么账号受限了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943639471528009728",
+        "conversation_id": "1958099553724362948",
+        "created_at": "2025-08-20T11:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T12:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958123971666473112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958123971666473112",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958099553724362948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 总算抓到活的姐姐了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州/精神比你正常就对了/喜欢音游，机车/#INTJ/含妈量极高/好妹妹@shadow110705，❤️@cyansoul2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "shadow110705"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "cyansoul2"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1956267849724649494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 233,
+          "like_count": 3588,
+          "listed_count": 6,
+          "media_count": 121,
+          "tweet_count": 1191
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T11:52:25.000Z",
+        "description": "11｜DM⭕️｜コスプレ｜同人イラスト｜ボカロP｜本垢@shadow001175",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "shadow001175"
+              }
+            ]
+          }
+        },
+        "id": "1943639471528009728",
+        "name": "未定",
+        "pinned_tweet_id": "1946767978709815424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957795975227142144/Cs41AUaN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 20,
+          "like_count": 492,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 44
+        },
+        "username": "mitei1175",
+        "verified": false
+      }
+    ]
+  }
+}

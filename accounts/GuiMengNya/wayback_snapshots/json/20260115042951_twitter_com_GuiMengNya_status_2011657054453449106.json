@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2011015389271191683",
+    "created_at": "2026-01-15T04:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T05:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011657054453449106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2000617411247251456",
+          "start": 0,
+          "username": "yupi996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011657054453449106",
+    "in_reply_to_user_id": "2000617411247251456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011015389271191683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yupi996 刚在b站刷到回头x就给我推了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2011013059717054465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-iNuRcbQAECxnb.jpg",
+        "width": 1792
+      },
+      {
+        "height": 1786,
+        "media_key": "3_2011013059725430784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-iNuRebEAATVMA.jpg",
+        "width": 1308
+      },
+      {
+        "height": 1918,
+        "media_key": "3_2011013107645366273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-iNxD_bQAEvd1D.jpg",
+        "width": 3818
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2011015389271191683",
+        "created_at": "2026-01-15T04:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T05:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011657054453449106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2000617411247251456",
+              "start": 0,
+              "username": "yupi996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011657054453449106",
+        "in_reply_to_user_id": "2000617411247251456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011015389271191683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yupi996 刚在b站刷到回头x就给我推了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011013059717054465",
+            "3_2011013059725430784",
+            "3_2011013107645366273"
+          ]
+        },
+        "author_id": "2000617411247251456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2011015389271191683",
+        "created_at": "2026-01-13T10:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T11:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011015389271191683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKMULIER8c",
+              "end": 192,
+              "expanded_url": "https://x.com/yupi996/status/2011015389271191683/photo/1",
+              "media_key": "3_2011013059717054465",
+              "start": 169,
+              "url": "https://t.co/HKMULIER8c"
+            },
+            {
+              "display_url": "pic.x.com/HKMULIER8c",
+              "end": 192,
+              "expanded_url": "https://x.com/yupi996/status/2011015389271191683/photo/1",
+              "media_key": "3_2011013059725430784",
+              "start": 169,
+              "url": "https://t.co/HKMULIER8c"
+            },
+            {
+              "display_url": "pic.x.com/HKMULIER8c",
+              "end": 192,
+              "expanded_url": "https://x.com/yupi996/status/2011015389271191683/photo/1",
+              "media_key": "3_2011013107645366273",
+              "start": 169,
+              "url": "https://t.co/HKMULIER8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011015389271191683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "承蒙厚爱，我创作的《Vibe Coding 零基础入门教程》已免费开源！🥳\n\n上千张图、几十万字，结合了我两年半的 AI 编程经验 + 项目开发经验 + 产品变现经验，希望能帮你 快速掌握 Vibe Coding，哪怕零基础，也能开发上线自己的产品并盈利。\n\n臭不要脸一下，我敢说这套免费教程吊打 90% 的付费 Vibe Coding 内容，毕竟我投入了足够多的时间。🤓\n\n教程从零基础入门 => 10 分钟做出第一个项目 => 学会各种 AI 编程工具 => 实战各类 AI 项目 => 掌握 AI 编程核心技巧 => 跑通产品变现全流程，再搭配 AI 编程学习资源、AI 知识百科、常见问题解决手册，能够帮你玩转 Vibe Coding，应对各种需求。\n\n🫡 由于教程是我一人爆肝的，难免会有疏漏，我会持续优化完善，感谢大家的支持~"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2191,
+          "impression_count": 115257,
+          "like_count": 1778,
+          "quote_count": 20,
+          "reply_count": 64,
+          "retweet_count": 444
+        },
+        "reply_settings": "everyone",
+        "text": "承蒙厚爱，我创作的《Vibe Coding 零基础入门教程》已免费开源！🥳\n\n上千张图、几十万字，结合了我两年半的 AI 编程经验 + 项目开发经验 + 产品变现经验，希望能帮你 快速掌握 Vibe Coding，哪怕零基础，也能开发上线自己的产品并盈利。\n\n臭不要脸一下，我敢说这套免费教程吊打 90% 的付费 Vibe Coding https://t.co/HKMULIER8c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5455,
+          "following_count": 604,
+          "like_count": 8747,
+          "listed_count": 16,
+          "media_count": 815,
+          "tweet_count": 2802
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-15T17:22:30.000Z",
+        "description": "专注 AI + 编程教育 | 编程导航站长 https://t.co/89dNxo3Ceb\n⭐️ 全网 200w 关注，独立开发→腾讯全栈→创业中\n😈 项目狂魔，10+上线产品，GitHub 20k+ followers\n❤️ 感谢关注，目标 1w 粉！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "codefather.cn",
+                "end": 45,
+                "expanded_url": "http://codefather.cn",
+                "start": 22,
+                "url": "https://t.co/89dNxo3Ceb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/liyupi",
+                "end": 23,
+                "expanded_url": "https://github.com/liyupi",
+                "start": 0,
+                "url": "https://t.co/zfKcqO3RpV"
+              }
+            ]
+          }
+        },
+        "id": "2000617411247251456",
+        "location": "China",
+        "name": "程序员鱼皮",
+        "pinned_tweet_id": "2000880272112542163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000617981035044864/5pXwSkUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7519,
+          "following_count": 158,
+          "like_count": 60,
+          "listed_count": 28,
+          "media_count": 18,
+          "tweet_count": 147
+        },
+        "url": "https://t.co/zfKcqO3RpV",
+        "username": "yupi996",
+        "verified": true
+      }
+    ]
+  }
+}

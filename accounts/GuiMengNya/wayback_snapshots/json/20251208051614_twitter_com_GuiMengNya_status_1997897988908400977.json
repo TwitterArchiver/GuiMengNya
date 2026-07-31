@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1997560663154254265",
+    "created_at": "2025-12-08T05:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T06:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997897988908400977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "22729260",
+          "start": 0,
+          "username": "qianh"
+        },
+        {
+          "end": 15,
+          "id": "1239457591417171973",
+          "start": 7,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997897988908400977",
+    "in_reply_to_user_id": "22729260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997587348046143818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianh @GFWfrog 和 base64 一样加密效果几乎为 0（指平台自动识别解密）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1997560663154254265",
+        "created_at": "2025-12-08T05:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T06:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997897988908400977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "22729260",
+              "start": 0,
+              "username": "qianh"
+            },
+            {
+              "end": 15,
+              "id": "1239457591417171973",
+              "start": 7,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997897988908400977",
+        "in_reply_to_user_id": "22729260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997587348046143818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianh @GFWfrog 和 base64 一样加密效果几乎为 0（指平台自动识别解密）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "22729260",
+        "conversation_id": "1997560663154254265",
+        "created_at": "2025-12-07T08:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T09:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997587348046143818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239457591417171973",
+              "start": 0,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997587348046143818",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14955,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997560663154254265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GFWfrog 为什么不用QR Code (二维码）？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 343,
+          "like_count": 7086,
+          "listed_count": 12,
+          "media_count": 334,
+          "tweet_count": 2142
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-04T03:49:47.000Z",
+        "description": "My “Likes” are actually Bookmarks.",
+        "id": "22729260",
+        "name": "Test",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/894288143435808768/wAMJGpZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 487,
+          "like_count": 27625,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 816
+        },
+        "username": "qianh",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "我ID不是强国娃哈哈🐸\n欢迎私信投稿\n\n习近平粉丝群：https://t.co/BbAyHfnObj\n频道：https://t.co/Evu48wmwfT\n\n#大自爆运动 ：党政机关、国企、互联网大厂……无论在哪工作，欢迎一切有关审查机器与极权系统运作的投稿，用真实击败独裁！\n\n邮箱：gfwfrog@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "大自爆运动"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 50,
+                "expanded_url": "https://t.me/SpeedUpCN",
+                "start": 27,
+                "url": "https://t.co/BbAyHfnObj"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 77,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 54,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85idW"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙蛤蛤🐸（大冲塔🏃‍♂️/大自爆运动💣）",
+        "pinned_tweet_id": "1997628317835415791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995905239120048128/-qxvHW2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254128,
+          "following_count": 2083,
+          "like_count": 106582,
+          "listed_count": 855,
+          "media_count": 5968,
+          "tweet_count": 10873
+        },
+        "url": "https://t.co/B3cyU85idW",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

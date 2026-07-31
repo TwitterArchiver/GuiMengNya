@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1962035673789341771",
+    "created_at": "2025-08-31T16:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T17:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962186265211854892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880140645454725120",
+          "start": 0,
+          "username": "DianJ71828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962186265211854892",
+    "in_reply_to_user_id": "1880140645454725120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962035673789341771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianJ71828 没看懂喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962035652595462144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzqNB92asAAZb7o.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962035652188688386",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzqNB8Vb0AIrmos.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1962035673789341771",
+        "created_at": "2025-08-31T16:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T17:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962186265211854892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962186265211854892",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962035673789341771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 没看懂喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962035652595462144",
+            "3_1962035652188688386"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1962035673789341771",
+        "created_at": "2025-08-31T06:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T07:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962035673789341771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oMNxJeIg2e",
+              "end": 52,
+              "expanded_url": "https://x.com/DianJ71828/status/1962035673789341771/photo/1",
+              "media_key": "3_1962035652595462144",
+              "start": 29,
+              "url": "https://t.co/oMNxJeIg2e"
+            },
+            {
+              "display_url": "pic.x.com/oMNxJeIg2e",
+              "end": 52,
+              "expanded_url": "https://x.com/DianJ71828/status/1962035673789341771/photo/1",
+              "media_key": "3_1962035652188688386",
+              "start": 29,
+              "url": "https://t.co/oMNxJeIg2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962035673789341771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校钱全花这了，南蚌\n我明天去开证，休学(1/1)\n服了 https://t.co/oMNxJeIg2e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/我的对象在哪里(伤心)/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 254,
+          "like_count": 3834,
+          "listed_count": 6,
+          "media_count": 125,
+          "tweet_count": 1308
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/同类互fo喵喵喵💀💀💀",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "电子砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880140742921748480/PV60U_Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 258,
+          "like_count": 2080,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 477
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2072368055792042117",
+    "created_at": "2026-07-01T17:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072379328848175406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484231561784737792",
+          "start": 0,
+          "username": "AirdropAlchemis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072379328848175406",
+    "in_reply_to_user_id": "1484231561784737792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072368055792042117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AirdropAlchemis 这下不得不参加了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2072368055792042117",
+        "created_at": "2026-07-01T17:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072379328848175406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484231561784737792",
+              "start": 0,
+              "username": "AirdropAlchemis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072379328848175406",
+        "in_reply_to_user_id": "1484231561784737792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072368055792042117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AirdropAlchemis 这下不得不参加了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484231561784737792",
+        "conversation_id": "2072368055792042117",
+        "created_at": "2026-07-01T17:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072368055792042117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072368055792042117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6270,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 346,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "🥴50u送给一个夜猫子\n一小时后开，随便留言"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10498,
+          "following_count": 691,
+          "like_count": 11505,
+          "listed_count": 29,
+          "media_count": 2411,
+          "tweet_count": 4800
+        },
+        "url": "",
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-20T18:29:24.000Z",
+        "description": "纯玩抽象的不构成任何投资建议\n\nSolar member @solana_zh\n炼金弟弟 @lianjinshushu\nhttps://t.co/28LJt8RXUv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "solana_zh"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "lianjinshushu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.okx.com",
+                "end": 83,
+                "expanded_url": "http://web3.okx.com",
+                "start": 60,
+                "url": "https://t.co/28LJt8RXUv"
+              }
+            ]
+          }
+        },
+        "id": "1484231561784737792",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "炼金叔叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821804297723764736/iKiwTO9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67360,
+          "following_count": 3690,
+          "like_count": 82498,
+          "listed_count": 931,
+          "media_count": 9086,
+          "tweet_count": 62187
+        },
+        "url": "",
+        "username": "AirdropAlchemis",
+        "verified": true
+      }
+    ]
+  }
+}

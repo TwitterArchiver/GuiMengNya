@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2038868732324585873",
+    "created_at": "2026-03-31T06:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T07:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038868732324585873"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038868732324585873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "写办卡教程没流量我要转型当cs教学推主了🤓👆（等我把手里的存稿发完）\ncs速成班，不要998，不要98，只要点个赞就可以看教程速成cs\n放下个人素质，享受缺德人生😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2038868732324585873",
+        "created_at": "2026-03-31T06:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038868732324585873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038868732324585873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "写办卡教程没流量我要转型当cs教学推主了🤓👆（等我把手里的存稿发完）\ncs速成班，不要998，不要98，只要点个赞就可以看教程速成cs\n放下个人素质，享受缺德人生😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9347,
+          "following_count": 696,
+          "like_count": 11094,
+          "listed_count": 29,
+          "media_count": 1897,
+          "tweet_count": 4237
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

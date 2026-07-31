@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2033641452518219978",
+    "created_at": "2026-03-17T08:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T09:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033828971616571603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "938429182006116353",
+          "start": 0,
+          "username": "lunastar_78"
+        },
+        {
+          "end": 26,
+          "id": "1444347089308184581",
+          "start": 13,
+          "username": "HellKillerEX"
+        },
+        {
+          "end": 32,
+          "id": "1720665183188922368",
+          "start": 27,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033828971616571603",
+    "in_reply_to_user_id": "938429182006116353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033777838810403114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lunastar_78 @HellKillerEX @grok 提取图片中的文字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2033641452518219978",
+        "created_at": "2026-03-17T08:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T09:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033828971616571603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "938429182006116353",
+              "start": 0,
+              "username": "lunastar_78"
+            },
+            {
+              "end": 26,
+              "id": "1444347089308184581",
+              "start": 13,
+              "username": "HellKillerEX"
+            },
+            {
+              "end": 32,
+              "id": "1720665183188922368",
+              "start": 27,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033828971616571603",
+        "in_reply_to_user_id": "938429182006116353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033777838810403114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lunastar_78 @HellKillerEX @grok 提取图片中的文字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "938429182006116353",
+        "conversation_id": "2033641452518219978",
+        "created_at": "2026-03-17T05:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T06:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033777838810403114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            },
+            {
+              "end": 25,
+              "id": "1444347089308184581",
+              "start": 12,
+              "username": "HellKillerEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033777838810403114",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033641452518219978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya @HellKillerEX 發個文字版讓我複製一下唄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8815,
+          "following_count": 687,
+          "like_count": 10727,
+          "listed_count": 28,
+          "media_count": 1668,
+          "tweet_count": 3927
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-06T15:25:27.000Z",
+        "description": "捏你鼻子°∧°丨巨嬰🍼丨💙 @Saki_C3Q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Saki_C3Q"
+              }
+            ]
+          }
+        },
+        "id": "938429182006116353",
+        "location": "因你而在的故事",
+        "name": "星露18/6🎋🎐",
+        "pinned_tweet_id": "1754765301974216923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765783318598234114/sz6l-gl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 1891,
+          "like_count": 329920,
+          "listed_count": 18,
+          "media_count": 2921,
+          "tweet_count": 37123
+        },
+        "username": "lunastar_78",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-02T17:02:52.000Z",
+        "description": "♂️です|⚧️🏳️‍⚧️ friendly|昔からの激推し:🍀@shino_nome22|他の最推し:🐇@rin_risu2/🐤@kc_2_cos/🌸@n_mikitani/⋈@hiiragi_yuka530/🍫💪@Chocolat_cos0/🌸🌸@angelia_lapin/🍑@tmmt_san",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "shino_nome22"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "rin_risu2"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "kc_2_cos"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "n_mikitani"
+              },
+              {
+                "end": 104,
+                "start": 88,
+                "username": "hiiragi_yuka530"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Chocolat_cos0"
+              },
+              {
+                "end": 138,
+                "start": 124,
+                "username": "angelia_lapin"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "tmmt_san"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@AlphaWillys?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@AlphaWillys?si=cWwGmkZepQMO7fsK",
+                "start": 0,
+                "url": "https://t.co/gaynrNfteP"
+              }
+            ]
+          }
+        },
+        "id": "1444347089308184581",
+        "name": "ℝ𝕖𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟(Elder Luminescence)♂️🩷🍀🐇",
+        "pinned_tweet_id": "1947069598240809123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007387585484832768/divYTE2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 7500,
+          "like_count": 19086,
+          "listed_count": 6,
+          "media_count": 1270,
+          "tweet_count": 23029
+        },
+        "url": "https://t.co/gaynrNfteP",
+        "username": "HellKillerEX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8433110,
+          "following_count": 3,
+          "like_count": 87,
+          "listed_count": 6533,
+          "media_count": 8653272,
+          "tweet_count": 117932561
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

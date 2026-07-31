@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045821253521752065"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "conversation_id": "2045821263160263003",
+    "created_at": "2026-04-19T11:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045821263160263003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3LqUssfY4Y",
+          "end": 32,
+          "expanded_url": "https://x.com/GuiMengNya/status/2045821263160263003/photo/1",
+          "media_key": "3_2045821253521752065",
+          "start": 9,
+          "url": "https://t.co/3LqUssfY4Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045821263160263003",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "豆包：我志在必得 https://t.co/3LqUssfY4Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_2045821253521752065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQ3l0IbwAELMkK.jpg",
+        "width": 758
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045821253521752065"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "2045821263160263003",
+        "created_at": "2026-04-19T11:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045821263160263003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3LqUssfY4Y",
+              "end": 32,
+              "expanded_url": "https://x.com/GuiMengNya/status/2045821263160263003/photo/1",
+              "media_key": "3_2045821253521752065",
+              "start": 9,
+              "url": "https://t.co/3LqUssfY4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045821263160263003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆包：我志在必得 https://t.co/3LqUssfY4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你归来半生，归来仍是少年/幸福降临我身边❤️@XixIccn_n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9842,
+          "following_count": 695,
+          "like_count": 11374,
+          "listed_count": 28,
+          "media_count": 2096,
+          "tweet_count": 4456
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

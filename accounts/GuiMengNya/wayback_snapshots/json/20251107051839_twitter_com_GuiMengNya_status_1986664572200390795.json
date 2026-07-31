@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986664563983720450"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "conversation_id": "1986664572200390795",
+    "created_at": "2025-11-07T05:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T06:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986664572200390795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dcJ36z81mX",
+          "end": 28,
+          "expanded_url": "https://x.com/GuiMengNya/status/1986664572200390795/photo/1",
+          "media_key": "3_1986664563983720450",
+          "start": 5,
+          "url": "https://t.co/dcJ36z81mX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986664572200390795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太带派了 https://t.co/dcJ36z81mX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1755,
+        "media_key": "3_1986664563983720450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5IM5SgbIAIJHft.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986664563983720450"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "1986664572200390795",
+        "created_at": "2025-11-07T05:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T06:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986664572200390795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dcJ36z81mX",
+              "end": 28,
+              "expanded_url": "https://x.com/GuiMengNya/status/1986664572200390795/photo/1",
+              "media_key": "3_1986664563983720450",
+              "start": 5,
+              "url": "https://t.co/dcJ36z81mX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986664572200390795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太带派了 https://t.co/dcJ36z81mX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1977091161212043555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 315,
+          "like_count": 5815,
+          "listed_count": 7,
+          "media_count": 165,
+          "tweet_count": 1791
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

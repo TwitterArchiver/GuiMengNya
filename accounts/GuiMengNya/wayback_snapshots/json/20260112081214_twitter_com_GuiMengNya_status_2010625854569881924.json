@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2010369990877413700",
+    "created_at": "2026-01-12T08:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T09:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010625854569881924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "168139512",
+          "start": 0,
+          "username": "geekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010625854569881924",
+    "in_reply_to_user_id": "168139512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010369990877413700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geekbb 这个帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28166,
+        "height": 1920,
+        "media_key": "13_2010369644826341376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010369644826341376/img/H6fzw9ohgqAcDKIb.jpg",
+        "public_metrics": {
+          "view_count": 84704
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010369644826341376/vid/avc1/480x852/IMUnYmiLfpOTqYhL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010369644826341376/vid/avc1/720x1280/lolTDitzIcibi-kV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010369644826341376/pl/IvYjBzWfQ7LtOp0h.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010369644826341376/vid/avc1/1080x1920/K9VJ12KaHQW2iPt6.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010369644826341376/vid/avc1/320x568/Kvt-FFoQMwArM61q.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2010369990877413700",
+        "created_at": "2026-01-12T08:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T09:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010625854569881924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "168139512",
+              "start": 0,
+              "username": "geekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010625854569881924",
+        "in_reply_to_user_id": "168139512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010369990877413700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geekbb 这个帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010369644826341376"
+          ]
+        },
+        "author_id": "168139512",
+        "conversation_id": "2010369990877413700",
+        "created_at": "2026-01-11T15:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T16:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010369990877413700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cIM6ct2Grg",
+              "end": 88,
+              "expanded_url": "https://x.com/geekbb/status/2010369990877413700/video/1",
+              "media_key": "13_2010369644826341376",
+              "start": 65,
+              "url": "https://t.co/cIM6ct2Grg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010369990877413700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 514,
+          "impression_count": 167481,
+          "like_count": 1041,
+          "quote_count": 10,
+          "reply_count": 52,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "赛博修仙，网友`一只猫`用 Gemini 3.0 手搓能手势控制的凡人大庚剑阵，复刻了凡人修仙传的飞剑效果，万剑归宗的效果拉满。 https://t.co/cIM6ct2Grg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5066,
+          "following_count": 566,
+          "like_count": 8529,
+          "listed_count": 16,
+          "media_count": 750,
+          "tweet_count": 2715
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-18T14:10:39.000Z",
+        "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "QingQ77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "igeekbb.com",
+                "end": 23,
+                "expanded_url": "https://www.igeekbb.com",
+                "start": 0,
+                "url": "https://t.co/lNbogZ0jXq"
+              }
+            ]
+          }
+        },
+        "id": "168139512",
+        "location": "火星",
+        "name": "Geek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103794,
+          "following_count": 428,
+          "like_count": 17704,
+          "listed_count": 1089,
+          "media_count": 6408,
+          "tweet_count": 24679
+        },
+        "url": "https://t.co/lNbogZ0jXq",
+        "username": "geekbb",
+        "verified": true
+      }
+    ]
+  }
+}

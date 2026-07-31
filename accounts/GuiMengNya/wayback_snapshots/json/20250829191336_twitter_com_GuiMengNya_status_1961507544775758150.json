@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1961459222740173133",
+    "created_at": "2025-08-29T19:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T20:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961507544775758150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1611123735326781440",
+          "start": 0,
+          "username": "fnghngjin16"
+        },
+        {
+          "end": 21,
+          "id": "1239457591417171973",
+          "start": 13,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961507544775758150",
+    "in_reply_to_user_id": "1611123735326781440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961473795967041704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fnghngjin16 @GFWfrog 道阻且长"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1961459222740173133",
+        "created_at": "2025-08-29T19:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T20:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961507544775758150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1611123735326781440",
+              "start": 0,
+              "username": "fnghngjin16"
+            },
+            {
+              "end": 21,
+              "id": "1239457591417171973",
+              "start": 13,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961507544775758150",
+        "in_reply_to_user_id": "1611123735326781440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961473795967041704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnghngjin16 @GFWfrog 道阻且长"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611123735326781440",
+        "conversation_id": "1961459222740173133",
+        "created_at": "2025-08-29T16:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T17:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961473795967041704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239457591417171973",
+              "start": 0,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961473795967041704",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1785,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961459222740173133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GFWfrog 习贼共匪灭亡在即！中国的天快要亮了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/我的对象在哪里(伤心)/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1958099553724362948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 245,
+          "like_count": 3718,
+          "listed_count": 6,
+          "media_count": 123,
+          "tweet_count": 1262
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-05T22:14:10.000Z",
+        "description": "江苏锡亭人，美国克莱登大学哲学博士，曾经就职于上海点金银行、国立三闾大学。资深底层小人物，历经匪共乱世末年，渴盼民国回归！",
+        "id": "1611123735326781440",
+        "name": "方鸿渐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613339166288547841/M19ZTsCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 594,
+          "like_count": 34376,
+          "listed_count": 6,
+          "media_count": 361,
+          "tweet_count": 25040
+        },
+        "username": "fnghngjin16",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "学而时习之，墙国404\n\n欢迎私信投稿，视频投稿素材请发邮件: gfwfrog@gmail.com 或Telegram私信@laohuhaha_bot 投稿 万人Telegram群：https://t.co/BbAyHfnObj\n\nTg频道：https://t.co/Evu48wmwfT\n\n#把你当中国人整 #中国照相馆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 154,
+                "start": 146,
+                "tag": "把你当中国人整"
+              },
+              {
+                "end": 161,
+                "start": 155,
+                "tag": "中国照相馆"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "laohuhaha_bot"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 114,
+                "expanded_url": "https://t.me/SpeedUpCN",
+                "start": 91,
+                "url": "https://t.co/BbAyHfnObj"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 144,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 121,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@GFWfrog",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@GFWfrog",
+                "start": 0,
+                "url": "https://t.co/LfpvB0NEDk"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙蛤蛤🐸",
+        "pinned_tweet_id": "1950464728351838502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866669545345150976/Lrzp5POA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234516,
+          "following_count": 1549,
+          "like_count": 89260,
+          "listed_count": 806,
+          "media_count": 5244,
+          "tweet_count": 9258
+        },
+        "url": "https://t.co/LfpvB0NEDk",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

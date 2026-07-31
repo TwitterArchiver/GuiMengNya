@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2019718384250937378",
+    "created_at": "2026-02-06T10:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T11:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019718384250937378"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2019718384250937378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "兄弟你就拥抱AI吧，想象未来AI全面接入互联网，当你想搜索双飞的时候，页面上跳出20万个两束正弦波相互纠缠变化的h片，底下的评论里发非常好未遮盖注意力使我的架构旋转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2019718384250937378",
+        "created_at": "2026-02-06T10:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T11:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019718384250937378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019718384250937378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟你就拥抱AI吧，想象未来AI全面接入互联网，当你想搜索双飞的时候，页面上跳出20万个两束正弦波相互纠缠变化的h片，底下的评论里发非常好未遮盖注意力使我的架构旋转"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6682,
+          "following_count": 716,
+          "like_count": 9836,
+          "listed_count": 20,
+          "media_count": 1092,
+          "tweet_count": 3196
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

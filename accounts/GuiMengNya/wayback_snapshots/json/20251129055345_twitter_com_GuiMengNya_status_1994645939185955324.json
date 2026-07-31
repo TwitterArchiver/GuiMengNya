@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1994645939185955324",
+    "created_at": "2025-11-29T05:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994645939185955324"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994645939185955324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "江西的给我寄一箱脐橙  广西的给我寄一箱螺蛳粉  湖南的给我寄一箱酱板鸭，潮汕的给我就寄一箱牛肉丸，云南的给我寄一箱野生菌，重庆的给我寄一箱火锅底料，北京的给我寄一箱老北京酸奶，三亚的给我寄十个椰子，美国的给我寄张绿卡，其余的V我50"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1994645939185955324",
+        "created_at": "2025-11-29T05:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994645939185955324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994645939185955324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "江西的给我寄一箱脐橙  广西的给我寄一箱螺蛳粉  湖南的给我寄一箱酱板鸭，潮汕的给我就寄一箱牛肉丸，云南的给我寄一箱野生菌，重庆的给我寄一箱火锅底料，北京的给我寄一箱老北京酸奶，三亚的给我寄十个椰子，美国的给我寄张绿卡，其余的V我50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1613,
+          "following_count": 338,
+          "like_count": 6936,
+          "listed_count": 8,
+          "media_count": 280,
+          "tweet_count": 2070
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

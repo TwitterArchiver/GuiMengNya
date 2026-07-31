@@ -1,0 +1,20 @@
+{
+  "name": "归梦",
+  "username": "@GuiMengNya",
+  "bio": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边/故里蓝鸢",
+  "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 55,
+        "start": 46,
+        "username": "Revsoul_"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg"
+}

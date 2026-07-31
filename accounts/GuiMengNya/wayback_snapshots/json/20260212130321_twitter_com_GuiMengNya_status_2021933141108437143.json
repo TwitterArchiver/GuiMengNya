@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2021448257545888059",
+    "created_at": "2026-02-12T13:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T14:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021933141108437143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1508724468742762498",
+          "start": 0,
+          "username": "xiabingqian1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021933141108437143",
+    "in_reply_to_user_id": "1508724468742762498",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021927472594661628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiabingqian1 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2021448257545888059",
+        "created_at": "2026-02-12T13:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021933141108437143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1508724468742762498",
+              "start": 0,
+              "username": "xiabingqian1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021933141108437143",
+        "in_reply_to_user_id": "1508724468742762498",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021927472594661628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiabingqian1 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508724468742762498",
+        "conversation_id": "2021448257545888059",
+        "created_at": "2026-02-12T12:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T13:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021927472594661628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021927472594661628",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021448257545888059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 😭可是我天天玩手机玩电脑怎么办啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6942,
+          "following_count": 720,
+          "like_count": 9864,
+          "listed_count": 21,
+          "media_count": 1146,
+          "tweet_count": 3262
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-29T08:35:35.000Z",
+        "description": "平平无奇的INTJ思考者\n普通なINTJ思想家である\n人工知能探索中\n想去日本生活找工作(已有N2, 冲刺N1中~~)",
+        "id": "1508724468742762498",
+        "name": "Neo",
+        "pinned_tweet_id": "2018052380542271536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012930970924793856/tWHuuB79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4173,
+          "following_count": 3497,
+          "like_count": 565,
+          "listed_count": 4,
+          "media_count": 51,
+          "tweet_count": 1966
+        },
+        "username": "xiabingqian1",
+        "verified": true
+      }
+    ]
+  }
+}

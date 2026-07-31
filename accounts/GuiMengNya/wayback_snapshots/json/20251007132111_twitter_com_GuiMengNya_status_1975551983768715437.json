@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1975385148935053773",
+    "created_at": "2025-10-07T13:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T14:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975551983768715437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975551983768715437",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975385148935053773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 身边没人用主要是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1975385148935053773",
+        "created_at": "2025-10-07T13:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T14:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975551983768715437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975551983768715437",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975385148935053773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 身边没人用主要是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "1975385148935053773",
+        "created_at": "2025-10-07T02:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T03:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975385148935053773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoling8192/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/luoling8192/status/1975148039921959291",
+              "start": 13,
+              "url": "https://t.co/CrybZ07cHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975385148935053773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 826,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975148039921959291",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉还是没有QQ来的方便 https://t.co/CrybZ07cHN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 276,
+          "like_count": 4432,
+          "listed_count": 7,
+          "media_count": 137,
+          "tweet_count": 1501
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "07年小朋友/貌似不是学生/小米合作伙伴/雨擎项目组/爱好拍照记录生活/喜欢折腾数码产品/目前在学习u3d引擎/HRT:2025.09.05/永远相信美好的事情即将发生",
+        "id": "1810873766119100416",
+        "name": "雨晴今天睡了吗",
+        "pinned_tweet_id": "1973728167132344688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971612173811232768/q54JKFhX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 459,
+          "like_count": 15179,
+          "listed_count": 2,
+          "media_count": 420,
+          "tweet_count": 2591
+        },
+        "username": "RainEngine2024",
+        "verified": false
+      }
+    ]
+  }
+}

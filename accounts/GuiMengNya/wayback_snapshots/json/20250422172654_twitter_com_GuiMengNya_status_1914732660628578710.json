@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1914524936380596252",
+    "created_at": "2025-04-22T17:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T18:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914732660628578710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1794131217463615488",
+          "start": 0,
+          "username": "satsushou_sonn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914732660628578710",
+    "in_reply_to_user_id": "1794131217463615488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914524936380596252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satsushou_sonn 全部刷完就行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1914524920245276672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpHCRXjaUAA9txS.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1914524936380596252",
+        "created_at": "2025-04-22T17:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T18:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914732660628578710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1794131217463615488",
+              "start": 0,
+              "username": "satsushou_sonn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914732660628578710",
+        "in_reply_to_user_id": "1794131217463615488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914524936380596252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satsushou_sonn 全部刷完就行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914524920245276672"
+          ]
+        },
+        "author_id": "1794131217463615488",
+        "conversation_id": "1914524936380596252",
+        "created_at": "2025-04-22T03:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T04:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914524936380596252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/smo43NKqWF",
+              "end": 48,
+              "expanded_url": "https://x.com/satsushou_sonn/status/1914524936380596252/photo/1",
+              "media_key": "3_1914524920245276672",
+              "start": 25,
+              "url": "https://t.co/smo43NKqWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914524936380596252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12036,
+          "like_count": 113,
+          "quote_count": 1,
+          "reply_count": 115,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有推友最近在考科一的吗？\n这个题要怎么背啊www https://t.co/smo43NKqWF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "R.I.P./06.11.15/坐标杭州/家长不管党/性别未知mtm/x/f，重度焦虑重度抑郁疑似双向，喜欢机车，不接线下，#INTJ，音游摆烂，不管怎么说都是不折不扣的纯爱党！好妹妹@cyanide110705，是@xiaoyeluo姐姐的猫猫，5.2元包养的小可爱@GriseoQAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 62,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "cyanide110705"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "xiaoyeluo"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "GriseoQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦",
+        "pinned_tweet_id": "1908994587584319596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896591167699169280/G6AHL3FY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 215,
+          "like_count": 3342,
+          "listed_count": 7,
+          "media_count": 106,
+          "tweet_count": 1021
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T22:20:05.000Z",
+        "description": "加奈ちゃん/カナちゃん（ka na chan） ｜希望和大家作为好朋友，基本上fo的都会回｜自用机场是一元机场｜加点东西@satsushou__sonn｜头像画师：@yangyan88596853 ｜咱的好朋友@qingshixiang258 @xsf727",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "satsushou__sonn"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "yangyan88596853"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "qingshixiang258"
+              },
+              {
+                "end": 129,
+                "start": 122,
+                "username": "xsf727"
+              }
+            ]
+          }
+        },
+        "id": "1794131217463615488",
+        "location": "中华人民共和国",
+        "name": "加奈ちゃん",
+        "pinned_tweet_id": "1889937031511548353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876295299439939584/KPTvk2v1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2546,
+          "following_count": 3364,
+          "like_count": 1868,
+          "listed_count": 11,
+          "media_count": 228,
+          "tweet_count": 4570
+        },
+        "username": "satsushou_sonn",
+        "verified": false
+      }
+    ]
+  }
+}

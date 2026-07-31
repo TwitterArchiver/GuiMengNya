@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987080044435677184"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1986462733508948110",
+    "created_at": "2025-11-08T08:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T09:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987080053927387435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1682445540695609345",
+          "start": 0,
+          "username": "cmyf_qwq"
+        },
+        {
+          "end": 24,
+          "id": "1748763011140169729",
+          "start": 10,
+          "username": "lovelyshuimao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/moxznwn6eU",
+          "end": 58,
+          "expanded_url": "https://x.com/GuiMengNya/status/1987080053927387435/photo/1",
+          "media_key": "3_1987080044435677184",
+          "start": 35,
+          "url": "https://t.co/moxznwn6eU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987080053927387435",
+    "in_reply_to_user_id": "1682445540695609345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987079573000077559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cmyf_qwq @lovelyshuimao 我这还有一堆库存） https://t.co/moxznwn6eU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987080044435677184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OGxbzbIAANA4q.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1279,
+        "media_key": "3_1987079529580625920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OGTd0agAA7dW9.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987080044435677184"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986462733508948110",
+        "created_at": "2025-11-08T08:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T09:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987080053927387435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682445540695609345",
+              "start": 0,
+              "username": "cmyf_qwq"
+            },
+            {
+              "end": 24,
+              "id": "1748763011140169729",
+              "start": 10,
+              "username": "lovelyshuimao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/moxznwn6eU",
+              "end": 58,
+              "expanded_url": "https://x.com/GuiMengNya/status/1987080053927387435/photo/1",
+              "media_key": "3_1987080044435677184",
+              "start": 35,
+              "url": "https://t.co/moxznwn6eU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987080053927387435",
+        "in_reply_to_user_id": "1682445540695609345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987079573000077559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cmyf_qwq @lovelyshuimao 我这还有一堆库存） https://t.co/moxznwn6eU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987079529580625920"
+          ]
+        },
+        "author_id": "1682445540695609345",
+        "conversation_id": "1986462733508948110",
+        "created_at": "2025-11-08T08:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T09:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987079573000077559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            },
+            {
+              "end": 26,
+              "id": "1685499489493323776",
+              "start": 15,
+              "username": "GuiMengNya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FJeka2qdDW",
+              "end": 57,
+              "expanded_url": "https://x.com/cmyf_qwq/status/1987079573000077559/photo/1",
+              "media_key": "3_1987079529580625920",
+              "start": 34,
+              "url": "https://t.co/FJeka2qdDW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987079573000077559",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986462733508948110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao @GuiMengNya 我也有qwq https://t.co/FJeka2qdDW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 保佑永远 18 岁/见证人类多样性",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1977091161212043555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 316,
+          "like_count": 6014,
+          "listed_count": 7,
+          "media_count": 181,
+          "tweet_count": 1821
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-21T17:41:09.000Z",
+        "description": "09年无证含糖 | 165cm45kg |HRT2024.10.2 |已炸柜|想和同类贴贴|性取向Transles|梦想是成为可爱的小女孩|不要上来就私信要我联系方式请说明原因|不援交！|我们活着就是对恶意的最大反抗！|老公～@daiduodexs|别眼瞎不约！！！约我死全家|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "daiduodexs"
+              }
+            ]
+          }
+        },
+        "id": "1682445540695609345",
+        "location": "老公怀里",
+        "name": "朝梦引帆🍥",
+        "pinned_tweet_id": "1903313856602181945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864086343007268864/zYe352zI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 464,
+          "like_count": 165,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 487
+        },
+        "username": "cmyf_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜可能14？｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主义者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水(水猫)🍕",
+        "pinned_tweet_id": "1986963132401787188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2569,
+          "following_count": 1124,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2248,
+          "tweet_count": 11110
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

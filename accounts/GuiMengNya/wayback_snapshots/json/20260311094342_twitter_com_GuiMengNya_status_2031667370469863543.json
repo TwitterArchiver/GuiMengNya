@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2031653786645934432",
+    "created_at": "2026-03-11T09:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T10:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031667370469863543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1693450364341948416",
+          "start": 0,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031667370469863543",
+    "in_reply_to_user_id": "1693450364341948416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031653786645934432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igeekbb 一秒猜出ip"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14766,
+        "height": 1024,
+        "media_key": "13_2031653629879529480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2031653629879529480/img/wg3Jahx2Py8iAc85.jpg",
+        "public_metrics": {
+          "view_count": 17816
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031653629879529480/vid/avc1/320x568/4w1NrVnplqE0uqKn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031653629879529480/vid/avc1/480x852/MBn1qVw2P3RlYo6V.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031653629879529480/vid/avc1/576x1024/SbqGn3HWcxCqA9Sr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2031653629879529480/pl/Y4SIR-SCiU-O0Ppp.m3u8?v=390"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2031653786645934432",
+        "created_at": "2026-03-11T09:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T10:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031667370469863543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1693450364341948416",
+              "start": 0,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031667370469863543",
+        "in_reply_to_user_id": "1693450364341948416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031653786645934432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igeekbb 一秒猜出ip"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031653629879529480"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "2031653786645934432",
+        "created_at": "2026-03-11T08:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T09:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031653786645934432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGHbJQXh8U",
+              "end": 47,
+              "expanded_url": "https://x.com/igeekbb/status/2031653786645934432/video/1",
+              "media_key": "13_2031653629879529480",
+              "start": 24,
+              "url": "https://t.co/IGHbJQXh8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031653786645934432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 29280,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我靠，这是什么宣传片，拍得太惊悚了，头皮发麻。 https://t.co/IGHbJQXh8U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8509,
+          "following_count": 696,
+          "like_count": 10624,
+          "listed_count": 26,
+          "media_count": 1568,
+          "tweet_count": 3807
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67645,
+          "following_count": 1,
+          "like_count": 12037,
+          "listed_count": 286,
+          "media_count": 6514,
+          "tweet_count": 10211
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

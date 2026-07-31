@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987077320952455171"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "conversation_id": "1987077369216299438",
+    "created_at": "2025-11-08T08:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T09:38:48.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987077329781444665",
+      "1987077369216299438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OK4Z2HYOnp",
+          "end": 30,
+          "expanded_url": "https://x.com/GuiMengNya/status/1987077369216299438/photo/1",
+          "media_key": "3_1987077320952455171",
+          "start": 7,
+          "url": "https://t.co/OK4Z2HYOnp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987077369216299438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "赛博租借女友 https://t.co/OK4Z2HYOnp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1987077320952455171",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OES6CbIAMUw0v.jpg",
+        "width": 862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987077320952455171"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "1987077329781444665",
+        "created_at": "2025-11-08T08:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T09:38:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987077329781444665",
+          "1987077369216299438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jFWZiyxKpL",
+              "end": 39,
+              "expanded_url": "https://x.com/GuiMengNya/status/1987077329781444665/photo/1",
+              "media_key": "3_1987077320952455171",
+              "start": 16,
+              "url": "https://t.co/jFWZiyxKpL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987077329781444665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赛博租借女友\n让你米玩明白了😅 https://t.co/jFWZiyxKpL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987077320952455171"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "1987077369216299438",
+        "created_at": "2025-11-08T08:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T09:38:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987077329781444665",
+          "1987077369216299438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OK4Z2HYOnp",
+              "end": 30,
+              "expanded_url": "https://x.com/GuiMengNya/status/1987077369216299438/photo/1",
+              "media_key": "3_1987077320952455171",
+              "start": 7,
+              "url": "https://t.co/OK4Z2HYOnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987077369216299438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赛博租借女友 https://t.co/OK4Z2HYOnp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 保佑永远 18 岁/见证人类多样性",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1977091161212043555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 316,
+          "like_count": 6012,
+          "listed_count": 7,
+          "media_count": 180,
+          "tweet_count": 1820
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

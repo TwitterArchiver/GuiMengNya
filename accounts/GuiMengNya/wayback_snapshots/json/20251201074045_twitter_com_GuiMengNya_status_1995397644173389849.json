@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1995092182743822789",
+    "created_at": "2025-12-01T07:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T08:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995397644173389849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1785152103465504768",
+          "start": 0,
+          "username": "RMX5060_Neo7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995397644173389849",
+    "in_reply_to_user_id": "1785152103465504768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995092182743822789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RMX5060_Neo7 電源スイッチをオンにして、熱い人生をお楽しみください!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995092180499906560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_9xIjbQAA31va.jpg",
+        "width": 2047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1995092182743822789",
+        "created_at": "2025-12-01T07:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T08:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995397644173389849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1785152103465504768",
+              "start": 0,
+              "username": "RMX5060_Neo7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995397644173389849",
+        "in_reply_to_user_id": "1785152103465504768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995092182743822789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RMX5060_Neo7 電源スイッチをオンにして、熱い人生をお楽しみください!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995092180499906560"
+          ]
+        },
+        "author_id": "1785152103465504768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1995092182743822789",
+        "created_at": "2025-11-30T11:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T12:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995092182743822789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tHBYtYpir6",
+              "end": 40,
+              "expanded_url": "https://x.com/RMX5060_Neo7/status/1995092182743822789/photo/1",
+              "media_key": "3_1995092180499906560",
+              "start": 17,
+              "url": "https://t.co/tHBYtYpir6"
+            },
+            {
+              "display_url": "x.com/spz1205/status…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/spz1205/status/1994731865744224634",
+              "start": 41,
+              "url": "https://t.co/ntUKv7U8lX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995092182743822789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3418,
+          "impression_count": 11122680,
+          "like_count": 81643,
+          "quote_count": 339,
+          "reply_count": 302,
+          "retweet_count": 4316
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994731865744224634",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "はんだごて貸せ\n俺が基本教えたる https://t.co/tHBYtYpir6 https://t.co/ntUKv7U8lX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 339,
+          "like_count": 6973,
+          "listed_count": 9,
+          "media_count": 292,
+          "tweet_count": 2086
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-30T03:40:21.000Z",
+        "description": "趣味が多い人 ミニ四駆/ALU/GT7/ブルアカ/ガジェット/ForzaHorizon",
+        "id": "1785152103465504768",
+        "location": "Japan🇯🇵\\(˙꒳​˙)",
+        "name": "KD_NSX",
+        "pinned_tweet_id": "1964516743243845986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957069703874252800/5cFhEDIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2471,
+          "following_count": 4965,
+          "like_count": 157228,
+          "listed_count": 7,
+          "media_count": 7135,
+          "tweet_count": 40891
+        },
+        "username": "RMX5060_Neo7",
+        "verified": false
+      }
+    ]
+  }
+}

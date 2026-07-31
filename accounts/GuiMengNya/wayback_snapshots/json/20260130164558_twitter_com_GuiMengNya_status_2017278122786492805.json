@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2017053612216889444",
+    "created_at": "2026-01-30T16:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T17:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017278122786492805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1709526237700575232",
+          "start": 0,
+          "username": "orange_xxyy"
+        },
+        {
+          "end": 23,
+          "id": "1597057363697360897",
+          "start": 13,
+          "username": "TermMaxFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017278122786492805",
+    "in_reply_to_user_id": "1709526237700575232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017053612216889444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orange_xxyy @TermMaxFi 天天跌😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6100,
+        "height": 1280,
+        "media_key": "13_2017052763499483138",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017052763499483138/img/Kh9669sBHz2NW-k5.jpg",
+        "public_metrics": {
+          "view_count": 106
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017052763499483138/vid/avc1/320x568/eggkPLQliMmtgogB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017052763499483138/vid/avc1/480x852/hWxEeCwEjngjqMRn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017052763499483138/vid/avc1/720x1280/BXIH2MJDqBNA4Qto.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017052763499483138/pl/JpdQe8grOVJtbrdx.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2017053612216889444",
+        "created_at": "2026-01-30T16:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T17:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017278122786492805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1709526237700575232",
+              "start": 0,
+              "username": "orange_xxyy"
+            },
+            {
+              "end": 23,
+              "id": "1597057363697360897",
+              "start": 13,
+              "username": "TermMaxFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017278122786492805",
+        "in_reply_to_user_id": "1709526237700575232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017053612216889444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange_xxyy @TermMaxFi 天天跌😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017052763499483138"
+          ]
+        },
+        "author_id": "1709526237700575232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2017053612216889444",
+        "created_at": "2026-01-30T01:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T02:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017053612216889444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1597057363697360897",
+              "start": 29,
+              "username": "TermMaxFi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2YqNo73hWd",
+              "end": 204,
+              "expanded_url": "https://x.com/orange_xxyy/status/2017053612216889444/video/1",
+              "media_key": "13_2017052763499483138",
+              "start": 181,
+              "url": "https://t.co/2YqNo73hWd"
+            },
+            {
+              "display_url": "x.com/orange_xxyy/st…",
+              "end": 228,
+              "expanded_url": "https://twitter.com/orange_xxyy/status/2016818362970435774",
+              "start": 205,
+              "url": "https://t.co/WIphhbJZq1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017053612216889444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 39,
+                "id": "1597057363697360897",
+                "start": 29,
+                "username": "TermMaxFi"
+              }
+            ]
+          },
+          "text": "一觉醒来，又又又跌麻了\n\n行情也不好，还是继续打卡签到吧 @TermMaxFi \n\n在这剧烈波动的行情下，TermMax才是你最坚实的后盾\n\n为什么相信TermMax？\n1.零清算事件确认：所有数据源（新闻、Twitter）一致表明，TermMax 自推出以来未记录任何 RWA 相关清算\n\n2.与Ondo合作：2026 年 1 月 5 日，TermMax 与 RWA 龙头 Ondo 在 BNB Chain 上线代币化股票借贷市场。Ondo 的参与为 TermMax 提供资产背书和机构级流动性\n\n3.与Paimon Finance 合作后，将支持私人信贷 RWA 抵押，进一步强化无清算策略"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 430,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016818362970435774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一觉醒来，又又又跌麻了\n\n行情也不好，还是继续打卡签到吧 @TermMaxFi \n\n在这剧烈波动的行情下，TermMax才是你最坚实的后盾\n\n为什么相信TermMax？\n1.零清算事件确认：所有数据源（新闻、Twitter）一致表明，TermMax 自推出以来未记录任何 RWA 相关清算\n\n2.与Ondo合作：2026 年 1 月 5 日，TermMax 与 https://t.co/2YqNo73hWd https://t.co/WIphhbJZq1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5915,
+          "following_count": 729,
+          "like_count": 9693,
+          "listed_count": 17,
+          "media_count": 1011,
+          "tweet_count": 3101
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-04T11:10:00.000Z",
+        "description": "JasperVault BD  @jaspervault  |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "jaspervault"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.jaspervault.io/airdrops/Arbit…",
+                "end": 23,
+                "expanded_url": "https://app.jaspervault.io/airdrops/Arbitrum?referral_code=xywizy",
+                "start": 0,
+                "url": "https://t.co/DiEEcnJI4y"
+              }
+            ]
+          }
+        },
+        "id": "1709526237700575232",
+        "location": "JasperVault",
+        "name": "orange🐬TermMax",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845338158617034756/N4ISfnOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2856,
+          "following_count": 2757,
+          "like_count": 4159,
+          "listed_count": 4,
+          "media_count": 51,
+          "tweet_count": 3397
+        },
+        "url": "https://t.co/DiEEcnJI4y",
+        "username": "orange_xxyy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T02:39:23.000Z",
+        "description": "DeFi fixed rate lending & borrowing and looping strategy.\nBacked by @CumberlandSays, @HashKey_Capital, @decimafund, and @MZ_Cryptos.\nIntern @termmax_intern",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "CumberlandSays"
+              },
+              {
+                "end": 101,
+                "start": 85,
+                "username": "HashKey_Capital"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "decimafund"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "MZ_Cryptos"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "termmax_intern"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TermMax",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/TermMax",
+                "start": 0,
+                "url": "https://t.co/RXRk72nHi4"
+              }
+            ]
+          }
+        },
+        "id": "1597057363697360897",
+        "location": "Ethereum",
+        "name": "TermMax | Fixed Rate Borrowing & Lending",
+        "pinned_tweet_id": "2017147771955138861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965953863447396352/YMxVicpN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45789,
+          "following_count": 81,
+          "like_count": 903,
+          "listed_count": 72,
+          "media_count": 863,
+          "tweet_count": 2328
+        },
+        "url": "https://t.co/RXRk72nHi4",
+        "username": "TermMaxFi",
+        "verified": true
+      }
+    ]
+  }
+}

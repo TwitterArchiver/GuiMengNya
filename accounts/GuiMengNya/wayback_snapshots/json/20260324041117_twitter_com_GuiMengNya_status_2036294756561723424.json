@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2036075252057546810",
+    "created_at": "2026-03-24T04:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T05:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036294756561723424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2023680174211166211",
+          "start": 0,
+          "username": "Alphiric326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036294756561723424",
+    "in_reply_to_user_id": "2023680174211166211",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036241828677366009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alphiric326 🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2036075252057546810",
+        "created_at": "2026-03-24T04:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036294756561723424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023680174211166211",
+              "start": 0,
+              "username": "Alphiric326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036294756561723424",
+        "in_reply_to_user_id": "2023680174211166211",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036241828677366009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alphiric326 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023680174211166211",
+        "conversation_id": "2036075252057546810",
+        "created_at": "2026-03-24T00:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T01:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036241828677366009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036241828677366009",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036075252057546810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 没那么好吃🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9069,
+          "following_count": 695,
+          "like_count": 10922,
+          "listed_count": 29,
+          "media_count": 1786,
+          "tweet_count": 4082
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-17T08:45:38.000Z",
+        "description": "China🇨🇳 | 19 | College Student \nRhythm Game (Phigros/Arcaea) /Minecraft\n❤️electronic music | cute stuff\n 🚫 Politics / 🚫 NSFW | He/Him",
+        "id": "2023680174211166211",
+        "location": "网之暗面",
+        "name": "αψρικ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023684242920939520/EtMDpq6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 59,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 64
+        },
+        "username": "Alphiric326",
+        "verified": false
+      }
+    ]
+  }
+}

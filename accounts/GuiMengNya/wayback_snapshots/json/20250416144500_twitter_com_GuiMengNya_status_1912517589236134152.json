@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1912324027965927618",
+    "created_at": "2025-04-16T14:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T15:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912517589236134152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817573438334341120",
+          "start": 0,
+          "username": "teachaerli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912517589236134152",
+    "in_reply_to_user_id": "1817573438334341120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912324027965927618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teachaerli 卧槽，你妈的逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 655,
+        "media_key": "3_1912324025147117568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GonwkaZW0AAhpw0.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1912324027965927618",
+        "created_at": "2025-04-16T14:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T15:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912517589236134152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817573438334341120",
+              "start": 0,
+              "username": "teachaerli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912517589236134152",
+        "in_reply_to_user_id": "1817573438334341120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912324027965927618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teachaerli 卧槽，你妈的逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912324025147117568"
+          ]
+        },
+        "author_id": "1817573438334341120",
+        "conversation_id": "1912324027965927618",
+        "created_at": "2025-04-16T01:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T02:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912324027965927618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/omA5h3WfiK",
+              "end": 23,
+              "expanded_url": "https://x.com/teachaerli/status/1912324027965927618/photo/1",
+              "media_key": "3_1912324025147117568",
+              "start": 0,
+              "url": "https://t.co/omA5h3WfiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912324027965927618",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 272466,
+          "like_count": 612,
+          "quote_count": 60,
+          "reply_count": 578,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/omA5h3WfiK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "R.I.P./06.11.15/坐标杭州/家长不管党/性别未知mtm/x/f，重度焦虑重度抑郁疑似双向，喜欢机车，不接线下，#INTJ，音游摆烂，不管怎么说都是不折不扣的纯爱党！好妹妹@cyanide110705，是@xiaoyeluo姐姐的猫猫，5.2元包养的小可爱@GriseoQAQ，对象是@cyansoul2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 62,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "cyanide110705"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "xiaoyeluo"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "GriseoQAQ"
+              },
+              {
+                "end": 158,
+                "start": 148,
+                "username": "cyansoul2"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦",
+        "pinned_tweet_id": "1908994587584319596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896591167699169280/G6AHL3FY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 209,
+          "like_count": 3213,
+          "listed_count": 7,
+          "media_count": 102,
+          "tweet_count": 976
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T14:51:15.000Z",
+        "description": "墙外天才鉴定师，没病走两步！",
+        "id": "1817573438334341120",
+        "name": "我是你的李院长",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817578026479370240/ENddSCbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4029,
+          "following_count": 84,
+          "like_count": 40,
+          "listed_count": 10,
+          "media_count": 307,
+          "tweet_count": 330
+        },
+        "username": "teachaerli",
+        "verified": true
+      }
+    ]
+  }
+}

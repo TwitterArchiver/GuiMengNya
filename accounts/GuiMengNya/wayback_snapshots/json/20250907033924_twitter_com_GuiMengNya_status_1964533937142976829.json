@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1963954421219336301",
+    "created_at": "2025-09-07T03:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T04:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964533937142976829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1880599836581359616",
+          "start": 0,
+          "username": "chuxikuaileA"
+        },
+        {
+          "end": 28,
+          "id": "1287452162038136833",
+          "start": 14,
+          "username": "jason27873170"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964533937142976829",
+    "in_reply_to_user_id": "1880599836581359616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964170481885425913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuxikuaileA @jason27873170 人家可是要活到150的,现在还只是小孩子呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1963954421219336301",
+        "created_at": "2025-09-07T03:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T04:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964533937142976829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1880599836581359616",
+              "start": 0,
+              "username": "chuxikuaileA"
+            },
+            {
+              "end": 28,
+              "id": "1287452162038136833",
+              "start": 14,
+              "username": "jason27873170"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964533937142976829",
+        "in_reply_to_user_id": "1880599836581359616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964170481885425913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuxikuaileA @jason27873170 人家可是要活到150的,现在还只是小孩子呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880599836581359616",
+        "conversation_id": "1963954421219336301",
+        "created_at": "2025-09-06T03:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T04:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964170481885425913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1287452162038136833",
+              "start": 0,
+              "username": "jason27873170"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964170481885425913",
+        "in_reply_to_user_id": "1287452162038136833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 69565,
+          "like_count": 325,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963954421219336301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jason27873170 当然有空调了，要不然给七十多岁老头热死了怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/要一直哦@future080712/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "future080712"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 256,
+          "like_count": 4115,
+          "listed_count": 6,
+          "media_count": 127,
+          "tweet_count": 1371
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T12:55:44.000Z",
+        "description": "",
+        "id": "1880599836581359616",
+        "name": "禽兽超人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881461869119983616/_47RQGVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 116,
+          "like_count": 993,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 42
+        },
+        "username": "chuxikuaileA",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T18:18:47.000Z",
+        "description": "我的网站：https://t.co/6xmsUyleEa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "petzgarden.com/home/",
+                "end": 28,
+                "expanded_url": "http://www.petzgarden.com/home/",
+                "start": 5,
+                "url": "https://t.co/6xmsUyleEa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "petzgarden.com/home/",
+                "end": 23,
+                "expanded_url": "http://www.petzgarden.com/home/",
+                "start": 0,
+                "url": "https://t.co/6xmsUyleEa"
+              }
+            ]
+          }
+        },
+        "id": "1287452162038136833",
+        "location": "旧金山，CA",
+        "name": "jason wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896240689031090176/vZh_-05F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127048,
+          "following_count": 73323,
+          "like_count": 10013,
+          "listed_count": 294,
+          "media_count": 46932,
+          "tweet_count": 59327
+        },
+        "url": "https://t.co/6xmsUyleEa",
+        "username": "jason27873170",
+        "verified": false
+      }
+    ]
+  }
+}

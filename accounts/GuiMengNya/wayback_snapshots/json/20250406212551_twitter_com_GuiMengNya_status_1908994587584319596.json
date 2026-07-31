@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1908994587584319596",
+    "created_at": "2025-04-06T21:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T22:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908994587584319596"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1908994587584319596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说的反跨反顺直反对一切，只不过遇到的大部分是傻逼罢了，谁也好，我也好，都是傻逼，感谢这个世界优秀的匹配机制"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1908994587584319596",
+        "created_at": "2025-04-06T21:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T22:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908994587584319596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908994587584319596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说的反跨反顺直反对一切，只不过遇到的大部分是傻逼罢了，谁也好，我也好，都是傻逼，感谢这个世界优秀的匹配机制"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "06.11.15/坐标杭州/性别未知，重度焦虑重度抑郁疑似双向，喜欢机车，不接线下，#INTJ，音游摆烂，不管怎么说都是不折不扣的纯爱党！好妹妹@cyanide110705，是@xiaoyeluo姐姐的猫猫，5.2元包养的小可爱@GriseoQAQ，对象是@cyansoul2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "cyanide110705"
+              },
+              {
+                "end": 98,
+                "start": 88,
+                "username": "xiaoyeluo"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "GriseoQAQ"
+              },
+              {
+                "end": 138,
+                "start": 128,
+                "username": "cyansoul2"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦",
+        "pinned_tweet_id": "1907481673673150810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896591167699169280/G6AHL3FY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 204,
+          "like_count": 3178,
+          "listed_count": 7,
+          "media_count": 97,
+          "tweet_count": 942
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      }
+    ]
+  }
+}

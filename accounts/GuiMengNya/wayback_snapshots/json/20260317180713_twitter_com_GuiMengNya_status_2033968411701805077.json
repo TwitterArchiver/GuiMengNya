@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2033941892451406069",
+    "created_at": "2026-03-17T18:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T19:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033968411701805077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1910749531161190400",
+          "start": 0,
+          "username": "r0x_ht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033968411701805077",
+    "in_reply_to_user_id": "1910749531161190400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033941892451406069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@r0x_ht 让室友帮忙呗，干嘛这么腼腆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2033941892451406069",
+        "created_at": "2026-03-17T18:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T19:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033968411701805077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1910749531161190400",
+              "start": 0,
+              "username": "r0x_ht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033968411701805077",
+        "in_reply_to_user_id": "1910749531161190400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033941892451406069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@r0x_ht 让室友帮忙呗，干嘛这么腼腆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910749531161190400",
+        "conversation_id": "2033941892451406069",
+        "created_at": "2026-03-17T16:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T17:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033941892451406069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033941892451406069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 60515,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 44,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男寝撸之前会通知室友吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8825,
+          "following_count": 687,
+          "like_count": 10728,
+          "listed_count": 29,
+          "media_count": 1677,
+          "tweet_count": 3941
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-11T17:39:32.000Z",
+        "description": "可爱又可爱",
+        "id": "1910749531161190400",
+        "location": "🚪18 ",
+        "name": "Miko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974949239118876672/NZ4Hm47I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35343,
+          "following_count": 9,
+          "like_count": 438,
+          "listed_count": 70,
+          "media_count": 124,
+          "tweet_count": 339
+        },
+        "username": "r0x_ht",
+        "verified": false
+      }
+    ]
+  }
+}

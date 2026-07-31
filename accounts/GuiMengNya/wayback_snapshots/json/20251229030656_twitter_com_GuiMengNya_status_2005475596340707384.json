@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2005475596340707384",
+    "created_at": "2025-12-29T03:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T04:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005475596340707384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1892896759808217092",
+          "start": 3,
+          "username": "hajixi12356"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005475596340707384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005237743350395026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hajixi12356: 我得了一种看见药娘、医院和音游在一起就想笑的病。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2005475596340707384",
+        "created_at": "2025-12-29T03:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T04:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005475596340707384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892896759808217092",
+              "start": 3,
+              "username": "hajixi12356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005475596340707384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005237743350395026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hajixi12356: 我得了一种看见药娘、医院和音游在一起就想笑的病。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892896759808217092",
+        "conversation_id": "2005237743350395026",
+        "created_at": "2025-12-28T11:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T12:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005237743350395026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/leotrans112233…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/leotrans112233/status/2005160968205287618",
+              "start": 25,
+              "url": "https://t.co/Dm48Jrp23i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005237743350395026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 23448,
+          "like_count": 277,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005160968205287618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我得了一种看见药娘、医院和音游在一起就想笑的病。 https://t.co/Dm48Jrp23i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3159,
+          "following_count": 344,
+          "like_count": 7491,
+          "listed_count": 14,
+          "media_count": 551,
+          "tweet_count": 2401
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T11:18:58.000Z",
+        "description": "你神爹我是什么人你别管，支黑死妈就对了知道吗。",
+        "id": "1892896759808217092",
+        "location": "台湾及其附属岛屿是中华人民共和国神圣不可分割的一部分",
+        "name": "你猜我是谁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943010728060796928/11S3jyjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 196,
+          "like_count": 11502,
+          "listed_count": 17,
+          "media_count": 216,
+          "tweet_count": 4703
+        },
+        "username": "hajixi12356",
+        "verified": false
+      }
+    ]
+  }
+}

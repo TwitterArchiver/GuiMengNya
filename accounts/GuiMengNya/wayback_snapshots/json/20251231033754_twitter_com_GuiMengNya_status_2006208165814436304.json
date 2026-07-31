@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2006208165814436304",
+    "created_at": "2025-12-31T03:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T04:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006208165814436304"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006208165814436304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "《年度撸管报告》\n1.这一年你一共撸管了3952次，总容量为33131毫升，大约可以装满12瓶可乐。\n2.这一年你曾511次暗下决心“这次撸完就戒”，但是依旧坚持到了12月并决定等到明年再说。\n3.这一年里你使用抽纸1982张，约等于砍伐一棵80cm高的树木，环保程度大约超越全国62%的群体。\n4.这一年你坚持最久的时间为90分50秒，容量为4.84毫升。平均时间8分钟。\n5.还记得11月2号那天吗，那一定是个特殊的日子。你在出租屋厕所撸管被室友发现并拍照。\n6.据不完全统计，你这一年一共看片536部，共计时长6986分钟，约等于116小时，最喜欢带着耳机撸管。\n7.在7月21号，你在凌晨6点35分还在撸管，是有什么心事吗？\n8.这一年你极其自律，每晚约有100%的概率撸管，新的一年请再接再厉。\n你的年度关键词是「纵欲」\n未来的日子请继续保持撸管～"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《年度撸管报告》\n1.这一年你一共撸管了3952次，总容量为33131毫升，大约可以装满12瓶可乐。\n2.这一年你曾511次暗下决心“这次撸完就戒”，但是依旧坚持到了12月并决定等到明年再说。\n3.这一年里你使用抽纸1982张，约等于砍伐一棵80cm高的树木，环保程度大约超越全国62%的群体。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2006208165814436304",
+        "created_at": "2025-12-31T03:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T04:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006208165814436304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006208165814436304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《年度撸管报告》\n1.这一年你一共撸管了3952次，总容量为33131毫升，大约可以装满12瓶可乐。\n2.这一年你曾511次暗下决心“这次撸完就戒”，但是依旧坚持到了12月并决定等到明年再说。\n3.这一年里你使用抽纸1982张，约等于砍伐一棵80cm高的树木，环保程度大约超越全国62%的群体。\n4.这一年你坚持最久的时间为90分50秒，容量为4.84毫升。平均时间8分钟。\n5.还记得11月2号那天吗，那一定是个特殊的日子。你在出租屋厕所撸管被室友发现并拍照。\n6.据不完全统计，你这一年一共看片536部，共计时长6986分钟，约等于116小时，最喜欢带着耳机撸管。\n7.在7月21号，你在凌晨6点35分还在撸管，是有什么心事吗？\n8.这一年你极其自律，每晚约有100%的概率撸管，新的一年请再接再厉。\n你的年度关键词是「纵欲」\n未来的日子请继续保持撸管～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《年度撸管报告》\n1.这一年你一共撸管了3952次，总容量为33131毫升，大约可以装满12瓶可乐。\n2.这一年你曾511次暗下决心“这次撸完就戒”，但是依旧坚持到了12月并决定等到明年再说。\n3.这一年里你使用抽纸1982张，约等于砍伐一棵80cm高的树木，环保程度大约超越全国62%的群体。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3360,
+          "following_count": 343,
+          "like_count": 7535,
+          "listed_count": 14,
+          "media_count": 567,
+          "tweet_count": 2419
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

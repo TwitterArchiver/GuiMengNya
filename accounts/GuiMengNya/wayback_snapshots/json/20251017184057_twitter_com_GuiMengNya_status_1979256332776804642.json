@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1979176388298182848",
+    "created_at": "2025-10-17T18:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T19:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979256332776804642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1766858890636120064",
+          "start": 0,
+          "username": "Nuominiang75884"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979256332776804642",
+    "in_reply_to_user_id": "1766858890636120064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979176388298182848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nuominiang75884 看建筑的话猜一波大悦城"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1979176366877626368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3dya2eW0AAR3SL.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1979176388298182848",
+        "created_at": "2025-10-17T18:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T19:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979256332776804642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1766858890636120064",
+              "start": 0,
+              "username": "Nuominiang75884"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979256332776804642",
+        "in_reply_to_user_id": "1766858890636120064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979176388298182848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nuominiang75884 看建筑的话猜一波大悦城"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979176366877626368"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "1979176388298182848",
+        "created_at": "2025-10-17T13:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T14:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979176388298182848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g4ndxPNP8Z",
+              "end": 26,
+              "expanded_url": "https://x.com/Nuominiang75884/status/1979176388298182848/photo/1",
+              "media_key": "3_1979176366877626368",
+              "start": 3,
+              "url": "https://t.co/g4ndxPNP8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979176388298182848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 532,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杭州 https://t.co/g4ndxPNP8Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 302,
+          "like_count": 4951,
+          "listed_count": 7,
+          "media_count": 142,
+          "tweet_count": 1652
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "等到来年春天，草长莺飞的时候，我们会再次相聚那片金色的原野上 /08.11.23/摄影📷/精神病学/心理干预",
+        "id": "1766858890636120064",
+        "location": "美国 洛杉矶 Echo Park Ave大街2236号",
+        "name": "糯米",
+        "pinned_tweet_id": "1975495703230357771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906216622500573184/kaHJHOEs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3780,
+          "following_count": 1474,
+          "like_count": 18347,
+          "listed_count": 4,
+          "media_count": 302,
+          "tweet_count": 2708
+        },
+        "username": "Nuominiang75884",
+        "verified": false
+      }
+    ]
+  }
+}

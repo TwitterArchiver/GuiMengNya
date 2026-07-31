@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1993176986660094419",
+    "created_at": "2025-11-25T05:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T06:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993195088357605416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1416959432576184320",
+          "start": 0,
+          "username": "HoshinoStarry"
+        },
+        {
+          "end": 25,
+          "id": "1488080791125237760",
+          "start": 15,
+          "username": "MengXi969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993195088357605416",
+    "in_reply_to_user_id": "1416959432576184320",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993194536735326418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoshinoStarry @MengXi969 🤓🤓🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1993176986660094419",
+        "created_at": "2025-11-25T05:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T06:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993195088357605416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1416959432576184320",
+              "start": 0,
+              "username": "HoshinoStarry"
+            },
+            {
+              "end": 25,
+              "id": "1488080791125237760",
+              "start": 15,
+              "username": "MengXi969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993195088357605416",
+        "in_reply_to_user_id": "1416959432576184320",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993194536735326418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoshinoStarry @MengXi969 🤓🤓🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416959432576184320",
+        "conversation_id": "1993176986660094419",
+        "created_at": "2025-11-25T05:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T06:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993194536735326418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1488080791125237760",
+              "start": 0,
+              "username": "MengXi969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993194536735326418",
+        "in_reply_to_user_id": "1488080791125237760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993176986660094419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MengXi969 这么说，那我这个21的还是直接入土得了😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 331,
+          "like_count": 6838,
+          "listed_count": 8,
+          "media_count": 258,
+          "tweet_count": 2017
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-19T03:14:39.000Z",
+        "description": "当局者迷 旁观者清 / 音游苦手 / python是什么垃圾语言 / dotnet 享受者 / hrt 2025.11.20 / Alt. @HsnStyAlt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "HsnStyAlt"
+              }
+            ]
+          }
+        },
+        "id": "1416959432576184320",
+        "name": "HoshinoStarry🍥",
+        "pinned_tweet_id": "1894762099173363890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917782405156646912/uTNyaJAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 247,
+          "like_count": 12338,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 371
+        },
+        "username": "HoshinoStarry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "14 y.r. / Full-Stack / CTFer / Student / 负能 @ch3rryzhu\n\n👀 Work for @nexaorion @LankoZone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "nexaorion"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "LankoZone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/AITe11Alh9"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1977787427604566120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 2607,
+          "like_count": 64076,
+          "listed_count": 4,
+          "media_count": 712,
+          "tweet_count": 4547
+        },
+        "url": "https://t.co/AITe11Alh9",
+        "username": "MengXi969",
+        "verified": true
+      }
+    ]
+  }
+}

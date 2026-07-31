@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1977915904051773700",
+    "created_at": "2025-10-14T02:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T03:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977922453159772407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1583858559544332290",
+          "start": 0,
+          "username": "_sharkee1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977922453159772407",
+    "in_reply_to_user_id": "1583858559544332290",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977915904051773700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_sharkee1024 比我大😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1977915893066985472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3L4BnnbcAAD1Uz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1977915904051773700",
+        "created_at": "2025-10-14T02:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T03:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977922453159772407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1583858559544332290",
+              "start": 0,
+              "username": "_sharkee1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977922453159772407",
+        "in_reply_to_user_id": "1583858559544332290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977915904051773700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_sharkee1024 比我大😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977915893066985472"
+          ]
+        },
+        "author_id": "1583858559544332290",
+        "conversation_id": "1977915904051773700",
+        "created_at": "2025-10-14T01:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T02:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977915904051773700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KvteAcRLxJ",
+              "end": 81,
+              "expanded_url": "https://x.com/_sharkee1024/status/1977915904051773700/photo/1",
+              "media_key": "3_1977915893066985472",
+              "start": 58,
+              "url": "https://t.co/KvteAcRLxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977915904051773700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "穿了小背心以后这个胸完全没必要藏了 因为根本藏不住…\n不敢在男宿舍楼游荡了 怕明天被挂在校园墙上呜呜呜\n手感真好啊 https://t.co/KvteAcRLxJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 294,
+          "like_count": 4727,
+          "listed_count": 7,
+          "media_count": 140,
+          "tweet_count": 1588
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-22T16:31:31.000Z",
+        "description": "是村雨哦/不爱说话但是很会说话/infj/喜欢晕乎乎喜欢逃避现实/技能点全点可爱和安慰人了/🏳️‍⚧️ 10🚪请使用口令红包",
+        "id": "1583858559544332290",
+        "location": "在荒诞可笑的现实里",
+        "name": "村雨🍤",
+        "pinned_tweet_id": "1975821793668833697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852520211595038720/AiBYkHsK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3171,
+          "following_count": 547,
+          "like_count": 3766,
+          "listed_count": 5,
+          "media_count": 274,
+          "tweet_count": 1827
+        },
+        "username": "_sharkee1024",
+        "verified": false
+      }
+    ]
+  }
+}

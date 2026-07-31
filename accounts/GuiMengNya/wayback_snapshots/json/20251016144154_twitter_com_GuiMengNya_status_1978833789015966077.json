@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978674403354558464",
+        "3_1978674403362893824",
+        "3_1978674403367100417",
+        "3_1978674403358744576"
+      ],
+      "media_source_tweet_id": [
+        "1978674479954850122",
+        "1978674479954850122",
+        "1978674479954850122",
+        "1978674479954850122"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1978833789015966077",
+    "created_at": "2025-10-16T14:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T15:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978833789015966077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1702316313472081921",
+          "start": 3,
+          "username": "k49ur473"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nYCUC5TF1o",
+          "end": 99,
+          "expanded_url": "https://x.com/k49ur473/status/1978674479954850122/photo/1",
+          "media_key": "3_1978674403354558464",
+          "start": 76,
+          "url": "https://t.co/nYCUC5TF1o"
+        },
+        {
+          "display_url": "pic.x.com/nYCUC5TF1o",
+          "end": 99,
+          "expanded_url": "https://x.com/k49ur473/status/1978674479954850122/photo/1",
+          "media_key": "3_1978674403362893824",
+          "start": 76,
+          "url": "https://t.co/nYCUC5TF1o"
+        },
+        {
+          "display_url": "pic.x.com/nYCUC5TF1o",
+          "end": 99,
+          "expanded_url": "https://x.com/k49ur473/status/1978674479954850122/photo/1",
+          "media_key": "3_1978674403367100417",
+          "start": 76,
+          "url": "https://t.co/nYCUC5TF1o"
+        },
+        {
+          "display_url": "pic.x.com/nYCUC5TF1o",
+          "end": 99,
+          "expanded_url": "https://x.com/k49ur473/status/1978674479954850122/photo/1",
+          "media_key": "3_1978674403358744576",
+          "start": 76,
+          "url": "https://t.co/nYCUC5TF1o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978833789015966077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978674479954850122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k49ur473: 他干过的事情包括但不限于：买的手台自己补焊焊坏了找我朋友返修，脚本小子，买个aime读卡器问如何连舞萌dx国际服(3/?) https://t.co/nYCUC5TF1o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1888,
+        "media_key": "3_1978674403354558464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Wp4uobQAAkjDg.jpg",
+        "width": 1670
+      },
+      {
+        "height": 2222,
+        "media_key": "3_1978674403362893824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Wp4uqacAAmmMF.jpg",
+        "width": 1670
+      },
+      {
+        "height": 2111,
+        "media_key": "3_1978674403367100417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Wp4uraoAEVl3V.jpg",
+        "width": 1670
+      },
+      {
+        "height": 1922,
+        "media_key": "3_1978674403358744576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Wp4upbIAA9Hqh.jpg",
+        "width": 1670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978674403354558464",
+            "3_1978674403362893824",
+            "3_1978674403367100417",
+            "3_1978674403358744576"
+          ],
+          "media_source_tweet_id": [
+            "1978674479954850122",
+            "1978674479954850122",
+            "1978674479954850122",
+            "1978674479954850122"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1978833789015966077",
+        "created_at": "2025-10-16T14:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T15:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978833789015966077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1702316313472081921",
+              "start": 3,
+              "username": "k49ur473"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYCUC5TF1o",
+              "end": 99,
+              "expanded_url": "https://x.com/k49ur473/status/1978674479954850122/photo/1",
+              "media_key": "3_1978674403354558464",
+              "start": 76,
+              "url": "https://t.co/nYCUC5TF1o"
+            },
+            {
+              "display_url": "pic.x.com/nYCUC5TF1o",
+              "end": 99,
+              "expanded_url": "https://x.com/k49ur473/status/1978674479954850122/photo/1",
+              "media_key": "3_1978674403362893824",
+              "start": 76,
+              "url": "https://t.co/nYCUC5TF1o"
+            },
+            {
+              "display_url": "pic.x.com/nYCUC5TF1o",
+              "end": 99,
+              "expanded_url": "https://x.com/k49ur473/status/1978674479954850122/photo/1",
+              "media_key": "3_1978674403367100417",
+              "start": 76,
+              "url": "https://t.co/nYCUC5TF1o"
+            },
+            {
+              "display_url": "pic.x.com/nYCUC5TF1o",
+              "end": 99,
+              "expanded_url": "https://x.com/k49ur473/status/1978674479954850122/photo/1",
+              "media_key": "3_1978674403358744576",
+              "start": 76,
+              "url": "https://t.co/nYCUC5TF1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978833789015966077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978674479954850122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k49ur473: 他干过的事情包括但不限于：买的手台自己补焊焊坏了找我朋友返修，脚本小子，买个aime读卡器问如何连舞萌dx国际服(3/?) https://t.co/nYCUC5TF1o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978674403354558464",
+            "3_1978674403362893824",
+            "3_1978674403367100417",
+            "3_1978674403358744576"
+          ]
+        },
+        "author_id": "1702316313472081921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1978674479954850122",
+        "created_at": "2025-10-16T04:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T05:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978674479954850122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYCUC5TF1o",
+              "end": 85,
+              "expanded_url": "https://x.com/k49ur473/status/1978674479954850122/photo/1",
+              "media_key": "3_1978674403354558464",
+              "start": 62,
+              "url": "https://t.co/nYCUC5TF1o"
+            },
+            {
+              "display_url": "pic.x.com/nYCUC5TF1o",
+              "end": 85,
+              "expanded_url": "https://x.com/k49ur473/status/1978674479954850122/photo/1",
+              "media_key": "3_1978674403362893824",
+              "start": 62,
+              "url": "https://t.co/nYCUC5TF1o"
+            },
+            {
+              "display_url": "pic.x.com/nYCUC5TF1o",
+              "end": 85,
+              "expanded_url": "https://x.com/k49ur473/status/1978674479954850122/photo/1",
+              "media_key": "3_1978674403367100417",
+              "start": 62,
+              "url": "https://t.co/nYCUC5TF1o"
+            },
+            {
+              "display_url": "pic.x.com/nYCUC5TF1o",
+              "end": 85,
+              "expanded_url": "https://x.com/k49ur473/status/1978674479954850122/photo/1",
+              "media_key": "3_1978674403358744576",
+              "start": 62,
+              "url": "https://t.co/nYCUC5TF1o"
+            },
+            {
+              "display_url": "x.com/k49ur473/statu…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/k49ur473/status/1978662554801938908",
+              "start": 86,
+              "url": "https://t.co/VWjM0pTdm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978674479954850122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2620,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978662554801938908",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他干过的事情包括但不限于：买的手台自己补焊焊坏了找我朋友返修，脚本小子，买个aime读卡器问如何连舞萌dx国际服(3/?) https://t.co/nYCUC5TF1o https://t.co/VWjM0pTdm8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 300,
+          "like_count": 4923,
+          "listed_count": 7,
+          "media_count": 141,
+          "tweet_count": 1645
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-14T13:40:28.000Z",
+        "description": "中文 /English/日本語 OK！| Rust和Kotlin高度黑子 | 舞萌樱将持有 | GoLang和TypeScript享受者 | 好用的代理：https://t.co/HmIg4t7tjK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miaona.org/#/register?cod…",
+                "end": 100,
+                "expanded_url": "https://miaona.org/#/register?code=amRzwRzt",
+                "start": 77,
+                "url": "https://t.co/HmIg4t7tjK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akich.io",
+                "end": 23,
+                "expanded_url": "https://akich.io/",
+                "start": 0,
+                "url": "https://t.co/fl14H01veE"
+              }
+            ]
+          }
+        },
+        "id": "1702316313472081921",
+        "location": "茨城 鹿嶋市",
+        "name": "AkiChan",
+        "pinned_tweet_id": "1881620432627085501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840336006459052033/J9d3uSO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 179,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 347
+        },
+        "url": "https://t.co/fl14H01veE",
+        "username": "k49ur473",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1911401552280986050",
+    "created_at": "2025-04-13T20:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T21:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911516393323085852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1820438973942231040",
+          "start": 0,
+          "username": "internetodbot"
+        },
+        {
+          "end": 28,
+          "id": "1628358190655246338",
+          "start": 15,
+          "username": "SNzhende2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911516393323085852",
+    "in_reply_to_user_id": "1820438973942231040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911401735882486049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@internetodbot @SNzhende2007 我嘞个盒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1911401552280986050",
+        "created_at": "2025-04-13T20:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T21:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911516393323085852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1820438973942231040",
+              "start": 0,
+              "username": "internetodbot"
+            },
+            {
+              "end": 28,
+              "id": "1628358190655246338",
+              "start": 15,
+              "username": "SNzhende2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911516393323085852",
+        "in_reply_to_user_id": "1820438973942231040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911401735882486049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@internetodbot @SNzhende2007 我嘞个盒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820438973942231040",
+        "conversation_id": "1911401552280986050",
+        "created_at": "2025-04-13T12:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T13:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911401735882486049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1628358190655246338",
+              "start": 0,
+              "username": "SNzhende2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911401735882486049",
+        "in_reply_to_user_id": "1628358190655246338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911401552280986050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SNzhende2007 怪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "R.I.P./06.11.15/坐标杭州/性别未知mtm/x/f，重度焦虑重度抑郁疑似双向，喜欢机车，不接线下，#INTJ，音游摆烂，不管怎么说都是不折不扣的纯爱党！好妹妹@cyanide110705，是@xiaoyeluo姐姐的猫猫，5.2元包养的小可爱@GriseoQAQ，对象是@cyansoul2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 100,
+                "start": 86,
+                "username": "cyanide110705"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "xiaoyeluo"
+              },
+              {
+                "end": 138,
+                "start": 128,
+                "username": "GriseoQAQ"
+              },
+              {
+                "end": 152,
+                "start": 142,
+                "username": "cyansoul2"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦",
+        "pinned_tweet_id": "1908994587584319596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896591167699169280/G6AHL3FY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 208,
+          "like_count": 3226,
+          "listed_count": 7,
+          "media_count": 102,
+          "tweet_count": 968
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T12:37:49.000Z",
+        "description": "Wanna say goodbye/Left you behind",
+        "id": "1820438973942231040",
+        "location": "那不勒支",
+        "name": "杭州十四中高三6班朱昊航",
+        "pinned_tweet_id": "1843319997814510071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911367548144103424/U7vyIGXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 166,
+          "like_count": 5687,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1198
+        },
+        "username": "internetodbot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T11:37:28.000Z",
+        "description": "sub/07",
+        "id": "1628358190655246338",
+        "name": "贞德",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762302331314667520/gTSuaeNo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 328,
+          "like_count": 5369,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 1421
+        },
+        "username": "SNzhende2007",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2016806799333347391",
+    "created_at": "2026-01-30T13:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T14:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017226565491515837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1625442343439732737",
+          "start": 0,
+          "username": "yeyuhaoyangmao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017226565491515837",
+    "in_reply_to_user_id": "1625442343439732737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016806799333347391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeyuhaoyangmao 互关来～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2016806440976207874",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_0ixccbUAIGPjQ.jpg",
+        "width": 2387
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2016806799333347391",
+        "created_at": "2026-01-30T13:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T14:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017226565491515837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1625442343439732737",
+              "start": 0,
+              "username": "yeyuhaoyangmao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017226565491515837",
+        "in_reply_to_user_id": "1625442343439732737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016806799333347391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeyuhaoyangmao 互关来～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016806440976207874"
+          ]
+        },
+        "author_id": "1625442343439732737",
+        "conversation_id": "2016806799333347391",
+        "created_at": "2026-01-29T09:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T10:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016806799333347391"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LRuXXjAdL",
+              "end": 54,
+              "expanded_url": "https://x.com/yeyuhaoyangmao/status/2016806799333347391/photo/1",
+              "media_key": "3_2016806440976207874",
+              "start": 31,
+              "url": "https://t.co/9LRuXXjAdL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016806799333347391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4475,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 96,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "老师们，互关走一波\n蓝V互关，有关必回。\n#蓝V互关 #互关 https://t.co/9LRuXXjAdL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5854,
+          "following_count": 702,
+          "like_count": 9531,
+          "listed_count": 17,
+          "media_count": 1006,
+          "tweet_count": 3086
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-14T10:30:39.000Z",
+        "description": "三十已过，四十将至，遇人遇事遇己都会更加珍重更加珍惜。\n#撸毛新手 #卑微的打工人 #虚拟币买卖就用宇宙第一大所Binance（币安）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "撸毛新手"
+              },
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "卑微的打工人"
+              },
+              {
+                "end": 63,
+                "start": 42,
+                "tag": "虚拟币买卖就用宇宙第一大所Binance"
+              }
+            ]
+          }
+        },
+        "id": "1625442343439732737",
+        "name": "小小",
+        "pinned_tweet_id": "2016806799333347391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005837977197654016/LVXlgrKO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2737,
+          "following_count": 2705,
+          "like_count": 104,
+          "listed_count": 6,
+          "media_count": 65,
+          "tweet_count": 769
+        },
+        "username": "yeyuhaoyangmao",
+        "verified": true
+      }
+    ]
+  }
+}

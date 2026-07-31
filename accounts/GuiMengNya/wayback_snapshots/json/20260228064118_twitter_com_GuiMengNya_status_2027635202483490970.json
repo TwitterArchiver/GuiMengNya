@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2027450793641836692",
+    "created_at": "2026-02-28T06:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T07:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027635202483490970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1621259482704625671",
+          "start": 0,
+          "username": "Qinioo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027635202483490970",
+    "in_reply_to_user_id": "1621259482704625671",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027450793641836692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qinioo 最支持的一集"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2027450793641836692",
+        "created_at": "2026-02-28T06:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027635202483490970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1621259482704625671",
+              "start": 0,
+              "username": "Qinioo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027635202483490970",
+        "in_reply_to_user_id": "1621259482704625671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027450793641836692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qinioo 最支持的一集"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621259482704625671",
+        "conversation_id": "2027450793641836692",
+        "created_at": "2026-02-27T18:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027450793641836692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027450793641836692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用HDR图像做闪光弹的全家死完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7663,
+          "following_count": 701,
+          "like_count": 10348,
+          "listed_count": 27,
+          "media_count": 1390,
+          "tweet_count": 3567
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-02T21:29:55.000Z",
+        "description": "正體🇹🇼/简体🇨🇳 | 音游人 | フォローをくれてありがとうございます!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayaneqin.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://ayaneqin.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/eL7t3GeW91"
+              }
+            ]
+          }
+        },
+        "id": "1621259482704625671",
+        "name": "綾音Io",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929662964526993411/I6Qra0xt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 2271,
+          "like_count": 32818,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1156
+        },
+        "url": "https://t.co/eL7t3GeW91",
+        "username": "Qinioo",
+        "verified": false
+      }
+    ]
+  }
+}

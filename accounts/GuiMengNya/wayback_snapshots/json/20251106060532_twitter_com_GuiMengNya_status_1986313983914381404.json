@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1986313983914381404",
+    "created_at": "2025-11-06T06:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T07:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986313983914381404"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1986313983914381404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "【浙江省考试教育院】小早川贤同学：您成功报名2026年普通高等学校招生全国统一考试，考试科目为语文、数学、日语、舞萌、中二、音击。请于2026年6月7日~6月9日携带本人Aime卡和准考证前往考点准时参加考试，严禁考试作弊，希望您诚信应考，预祝您考试顺利。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【浙江省考试教育院】小早川贤同学：您成功报名2026年普通高等学校招生全国统一考试，考试科目为语文、数学、日语、舞萌、中二、音击。请于2026年6月7日~6月9日携带本人Aime卡和准考证前往考点准时参加考试，严禁考试作弊，希望您诚信应考，预祝您考试顺利。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1986313983914381404",
+        "created_at": "2025-11-06T06:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T07:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986313983914381404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986313983914381404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【浙江省考试教育院】小早川贤同学：您成功报名2026年普通高等学校招生全国统一考试，考试科目为语文、数学、日语、舞萌、中二、音击。请于2026年6月7日~6月9日携带本人Aime卡和准考证前往考点准时参加考试，严禁考试作弊，希望您诚信应考，预祝您考试顺利。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【浙江省考试教育院】小早川贤同学：您成功报名2026年普通高等学校招生全国统一考试，考试科目为语文、数学、日语、舞萌、中二、音击。请于2026年6月7日~6月9日携带本人Aime卡和准考证前往考点准时参加考试，严禁考试作弊，希望您诚信应考，预祝您考试顺利。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1977091161212043555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 316,
+          "like_count": 5734,
+          "listed_count": 7,
+          "media_count": 158,
+          "tweet_count": 1768
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

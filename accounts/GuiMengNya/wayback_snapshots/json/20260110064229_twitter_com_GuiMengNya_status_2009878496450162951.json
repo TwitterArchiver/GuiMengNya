@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2009708427241763114",
+    "created_at": "2026-01-10T06:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T07:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009878496450162951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2655231547",
+          "start": 0,
+          "username": "biupa"
+        },
+        {
+          "end": 20,
+          "id": "1435286041259167753",
+          "start": 7,
+          "username": "Luckyjudy666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009878496450162951",
+    "in_reply_to_user_id": "2655231547",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009878368817393885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biupa @Luckyjudy666 那很不幸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2009708427241763114",
+        "created_at": "2026-01-10T06:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T07:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009878496450162951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2655231547",
+              "start": 0,
+              "username": "biupa"
+            },
+            {
+              "end": 20,
+              "id": "1435286041259167753",
+              "start": 7,
+              "username": "Luckyjudy666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009878496450162951",
+        "in_reply_to_user_id": "2655231547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009878368817393885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biupa @Luckyjudy666 那很不幸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2655231547",
+        "conversation_id": "2009708427241763114",
+        "created_at": "2026-01-10T06:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T07:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009878368817393885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1435286041259167753",
+              "start": 0,
+              "username": "Luckyjudy666"
+            },
+            {
+              "end": 25,
+              "id": "1685499489493323776",
+              "start": 14,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009878368817393885",
+        "in_reply_to_user_id": "1435286041259167753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009828398198337937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luckyjudy666 @GuiMengNya 妈的，已经看了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4016,
+          "following_count": 452,
+          "like_count": 8108,
+          "listed_count": 15,
+          "media_count": 688,
+          "tweet_count": 2618
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-17T23:51:44.000Z",
+        "description": "DAT stuff\ntweets are personal trading record, non-corporate. \n— \n进群注册 https://t.co/BBq8xz5l15 \n🎰顶级游戏体验尽在 @bcgame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 105,
+                "username": "bcgame"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "partner.bybit.com/b/BIUPA",
+                "end": 93,
+                "expanded_url": "https://partner.bybit.com/b/BIUPA",
+                "start": 70,
+                "url": "https://t.co/BBq8xz5l15"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/heyuekuangtu",
+                "end": 23,
+                "expanded_url": "https://t.me/heyuekuangtu",
+                "start": 0,
+                "url": "https://t.co/uOvfUkZxOo"
+              }
+            ]
+          }
+        },
+        "id": "2655231547",
+        "location": "TG: biupa0068",
+        "name": "Biupa",
+        "pinned_tweet_id": "1992135002348482828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884643390387875840/MyeoGHmu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24351,
+          "following_count": 1389,
+          "like_count": 79311,
+          "listed_count": 422,
+          "media_count": 1268,
+          "tweet_count": 14688
+        },
+        "url": "https://t.co/uOvfUkZxOo",
+        "username": "biupa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-07T16:59:48.000Z",
+        "description": "Master of Finance| ex-Deloitte Auditor| Now crypto Trader| Meme Hunter| Founder of Vision Capital| BlueBirds Community 🕊️ | TG: jiamixiaojiucai",
+        "id": "1435286041259167753",
+        "name": "加密小韭菜",
+        "pinned_tweet_id": "2004113142536982577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939182307169996800/XBspOq6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6064,
+          "following_count": 2875,
+          "like_count": 77278,
+          "listed_count": 63,
+          "media_count": 1068,
+          "tweet_count": 25284
+        },
+        "username": "Luckyjudy666",
+        "verified": true
+      }
+    ]
+  }
+}

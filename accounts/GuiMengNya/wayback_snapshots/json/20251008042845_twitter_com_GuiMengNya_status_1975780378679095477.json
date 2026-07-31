@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1975765192299655491",
+    "created_at": "2025-10-08T04:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T05:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975780378679095477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1831984756432760832",
+          "start": 0,
+          "username": "Shadow01175"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975780378679095477",
+    "in_reply_to_user_id": "1831984756432760832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975779748770132017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shadow01175 是这样..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1975765192299655491",
+        "created_at": "2025-10-08T04:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T05:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975780378679095477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1831984756432760832",
+              "start": 0,
+              "username": "Shadow01175"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975780378679095477",
+        "in_reply_to_user_id": "1831984756432760832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975779748770132017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shadow01175 是这样..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831984756432760832",
+        "conversation_id": "1975765192299655491",
+        "created_at": "2025-10-08T04:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T05:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975779748770132017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975779748770132017",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975779448160129382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 钱和爱确实是不可以对等的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 277,
+          "like_count": 4453,
+          "listed_count": 7,
+          "media_count": 138,
+          "tweet_count": 1517
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-06T09:16:26.000Z",
+        "description": "💗@Guxislxnxy⛓️@zqtlovekris99 @GuiMengNya FF：@doreen129_Nox @Kazumasski Sub：@404DataError",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "Guxislxnxy"
+              },
+              {
+                "end": 28,
+                "start": 14,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "GuiMengNya"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "doreen129_Nox"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "404DataError"
+              }
+            ]
+          }
+        },
+        "id": "1831984756432760832",
+        "location": "0.01km",
+        "name": "Shadow*",
+        "pinned_tweet_id": "1975516070720250303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970349329551679488/xAGw1Pkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 474,
+          "like_count": 11653,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1407
+        },
+        "username": "Shadow01175",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987790364561047552"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "conversation_id": "1987790371951452662",
+    "created_at": "2025-11-10T07:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T08:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987790371951452662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h1mKydkrKX",
+          "end": 32,
+          "expanded_url": "https://x.com/GuiMengNya/status/1987790371951452662/photo/1",
+          "media_key": "3_1987790364561047552",
+          "start": 9,
+          "url": "https://t.co/h1mKydkrKX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987790371951452662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "兄弟，你好值钱🤓 https://t.co/h1mKydkrKX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_1987790364561047552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YMzgebAAADQ5J.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987790364561047552"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "1987790371951452662",
+        "created_at": "2025-11-10T07:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T08:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987790371951452662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1mKydkrKX",
+              "end": 32,
+              "expanded_url": "https://x.com/GuiMengNya/status/1987790371951452662/photo/1",
+              "media_key": "3_1987790364561047552",
+              "start": 9,
+              "url": "https://t.co/h1mKydkrKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987790371951452662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟，你好值钱🤓 https://t.co/h1mKydkrKX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/幸福快快降临我身边/ 见证人类多样性",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1977091161212043555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1478,
+          "following_count": 318,
+          "like_count": 6151,
+          "listed_count": 8,
+          "media_count": 199,
+          "tweet_count": 1853
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1994031151959445696",
+    "created_at": "2025-11-27T20:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T21:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994142134677770603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1397546862635147266",
+          "start": 0,
+          "username": "uuyeba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994142134677770603",
+    "in_reply_to_user_id": "1397546862635147266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994031151959445696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uuyeba 😱強すぎる"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1994031139712061445",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6w4wbma0AU4aTJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1994031151959445696",
+        "created_at": "2025-11-27T20:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T21:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994142134677770603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1397546862635147266",
+              "start": 0,
+              "username": "uuyeba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994142134677770603",
+        "in_reply_to_user_id": "1397546862635147266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994031151959445696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uuyeba 😱強すぎる"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994031139712061445"
+          ]
+        },
+        "author_id": "1397546862635147266",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994031151959445696",
+        "created_at": "2025-11-27T13:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994031151959445696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJ1qYpr1rA",
+              "end": 36,
+              "expanded_url": "https://x.com/uuyeba/status/1994031151959445696/photo/1",
+              "media_key": "3_1994031139712061445",
+              "start": 13,
+              "url": "https://t.co/pJ1qYpr1rA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994031151959445696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 28953,
+          "like_count": 982,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "創 鳥プラ！！！！！！！ https://t.co/pJ1qYpr1rA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 338,
+          "like_count": 6905,
+          "listed_count": 8,
+          "media_count": 273,
+          "tweet_count": 2054
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-26T13:35:20.000Z",
+        "description": "雑→@uuyutaz icon→@unucmmm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "uuyutaz"
+              },
+              {
+                "end": 24,
+                "start": 16,
+                "username": "unucmmm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@abeyuu?featur…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@abeyuu?feature=shared",
+                "start": 0,
+                "url": "https://t.co/mUwBmeEiJe"
+              }
+            ]
+          }
+        },
+        "id": "1397546862635147266",
+        "name": "あべゆー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928092642644242432/gzsQP9Lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8608,
+          "following_count": 401,
+          "like_count": 2084,
+          "listed_count": 31,
+          "media_count": 2580,
+          "tweet_count": 10388
+        },
+        "url": "https://t.co/mUwBmeEiJe",
+        "username": "uuyeba",
+        "verified": false
+      }
+    ]
+  }
+}

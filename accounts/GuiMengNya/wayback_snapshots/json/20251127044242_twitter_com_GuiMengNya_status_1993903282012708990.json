@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1993903282012708990",
+    "created_at": "2025-11-27T04:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T05:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993903282012708990"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1993903282012708990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这是我给高三考生的几点建议:\n1.今天考完一定不要去对答案，尽情享受假期。\n2.天气炎热的话注意避暑，可自带风油精、冰袋降温。\n3.疯狂暗示自己，一定可以考出理的想成绩。\n4.狂欢聚会什么的，考后再计划也来得及。\n5.星星之火，可以燎原，相信你我皆是黑马。\n6.期望的分数不要太高，不要眼高手低，做好困难准备。\n7.四点那会考数学特别容易饿，中午一定要吃饱。\n8.微信里经常有人发所谓标准答案，不要轻信。\n9.我不会的题别人也不会，不要慌张。10.五点左右考完可以去散散步，不要着急回家吃饭11.十点半是最合适的上床时间。\n不是高考生的看每一条第一个字就好"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我给高三考生的几点建议:\n1.今天考完一定不要去对答案，尽情享受假期。\n2.天气炎热的话注意避暑，可自带风油精、冰袋降温。\n3.疯狂暗示自己，一定可以考出理的想成绩。\n4.狂欢聚会什么的，考后再计划也来得及。\n5.星星之火，可以燎原，相信你我皆是黑马。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1993903282012708990",
+        "created_at": "2025-11-27T04:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T05:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993903282012708990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993903282012708990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这是我给高三考生的几点建议:\n1.今天考完一定不要去对答案，尽情享受假期。\n2.天气炎热的话注意避暑，可自带风油精、冰袋降温。\n3.疯狂暗示自己，一定可以考出理的想成绩。\n4.狂欢聚会什么的，考后再计划也来得及。\n5.星星之火，可以燎原，相信你我皆是黑马。\n6.期望的分数不要太高，不要眼高手低，做好困难准备。\n7.四点那会考数学特别容易饿，中午一定要吃饱。\n8.微信里经常有人发所谓标准答案，不要轻信。\n9.我不会的题别人也不会，不要慌张。10.五点左右考完可以去散散步，不要着急回家吃饭11.十点半是最合适的上床时间。\n不是高考生的看每一条第一个字就好"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我给高三考生的几点建议:\n1.今天考完一定不要去对答案，尽情享受假期。\n2.天气炎热的话注意避暑，可自带风油精、冰袋降温。\n3.疯狂暗示自己，一定可以考出理的想成绩。\n4.狂欢聚会什么的，考后再计划也来得及。\n5.星星之火，可以燎原，相信你我皆是黑马。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 336,
+          "like_count": 6892,
+          "listed_count": 8,
+          "media_count": 269,
+          "tweet_count": 2046
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

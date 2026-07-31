@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986702833325121536"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "conversation_id": "1986702840178614342",
+    "created_at": "2025-11-07T07:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T08:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986702840178614342"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jQXrzvvDmx",
+          "end": 32,
+          "expanded_url": "https://x.com/GuiMengNya/status/1986702840178614342/photo/1",
+          "media_key": "3_1986702833325121536",
+          "start": 9,
+          "url": "https://t.co/jQXrzvvDmx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986702840178614342",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实被草也可以的 https://t.co/jQXrzvvDmx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 388,
+        "media_key": "3_1986702833325121536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Ivs26bIAAykph.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986702833325121536"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "1986702840178614342",
+        "created_at": "2025-11-07T07:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T08:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986702840178614342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQXrzvvDmx",
+              "end": 32,
+              "expanded_url": "https://x.com/GuiMengNya/status/1986702840178614342/photo/1",
+              "media_key": "3_1986702833325121536",
+              "start": 9,
+              "url": "https://t.co/jQXrzvvDmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986702840178614342",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实被草也可以的 https://t.co/jQXrzvvDmx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1977091161212043555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 316,
+          "like_count": 5826,
+          "listed_count": 7,
+          "media_count": 169,
+          "tweet_count": 1795
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2040667122934952025",
+    "created_at": "2026-04-05T13:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T14:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040787956777304366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807484145439756288",
+          "start": 0,
+          "username": "sb3013905913940"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040787956777304366",
+    "in_reply_to_user_id": "1807484145439756288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040787490727182357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sb3013905913940 玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2040667122934952025",
+        "created_at": "2026-04-05T13:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040787956777304366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807484145439756288",
+              "start": 0,
+              "username": "sb3013905913940"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040787956777304366",
+        "in_reply_to_user_id": "1807484145439756288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040787490727182357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sb3013905913940 玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807484145439756288",
+        "conversation_id": "2040667122934952025",
+        "created_at": "2026-04-05T13:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040787490727182357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040787490727182357",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040667122934952025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 我是真人，有弟弟跟我一起玩致命公司吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9492,
+          "following_count": 699,
+          "like_count": 11224,
+          "listed_count": 29,
+          "media_count": 1952,
+          "tweet_count": 4295
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-30T18:39:49.000Z",
+        "description": "为什么封我号😭",
+        "id": "1807484145439756288",
+        "name": "泰拉皇宫镇压叛乱坦克驾驶手牢兵",
+        "pinned_tweet_id": "1994430704319713522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809119808820051968/sHJ8sz4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 112,
+          "like_count": 224,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 1361
+        },
+        "username": "sb3013905913940",
+        "verified": false
+      }
+    ]
+  }
+}

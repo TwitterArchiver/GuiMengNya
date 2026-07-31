@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2009430609882685948",
+    "created_at": "2026-01-09T21:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T22:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009737500156182719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1324198319535521795",
+          "start": 0,
+          "username": "KKaWSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009737500156182719",
+    "in_reply_to_user_id": "1324198319535521795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009430609882685948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKaWSB 前面忘了，中间忘了，后面忘了\n反正赢麻了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1458,
+        "media_key": "3_2009430078870929409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-LuAqQWQAEdwbW.jpg",
+        "width": 1340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2009430609882685948",
+        "created_at": "2026-01-09T21:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T22:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009737500156182719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1324198319535521795",
+              "start": 0,
+              "username": "KKaWSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009737500156182719",
+        "in_reply_to_user_id": "1324198319535521795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009430609882685948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKaWSB 前面忘了，中间忘了，后面忘了\n反正赢麻了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009430078870929409"
+          ]
+        },
+        "author_id": "1324198319535521795",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2009430609882685948",
+        "created_at": "2026-01-09T01:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T02:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009430609882685948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mn7cNo8WXl",
+              "end": 64,
+              "expanded_url": "https://x.com/KKaWSB/status/2009430609882685948/photo/1",
+              "media_key": "3_2009430078870929409",
+              "start": 41,
+              "url": "https://t.co/Mn7cNo8WXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009430609882685948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 219480,
+          "like_count": 248,
+          "quote_count": 10,
+          "reply_count": 61,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "苹果公司CEO蒂姆·库克刚刚致信苹果股东：\n\n总结：去他的AI，总之我们赢麻了。 https://t.co/Mn7cNo8WXl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3865,
+          "following_count": 407,
+          "like_count": 7956,
+          "listed_count": 15,
+          "media_count": 678,
+          "tweet_count": 2595
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder of CarbonSilicon AI ｜ AI-powered on-chain algorithmic trading (Palo Alto) | 硅谷 P 将军｜金狗投研｜深绿 Agent👽｜Learn in public📖｜\n\n✈️投研频道：https://t.co/QsTW1lsaMp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/KKcasi",
+                "end": 159,
+                "expanded_url": "https://t.me/KKcasi",
+                "start": 136,
+                "url": "https://t.co/QsTW1lsaMp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2wIEN3JaDn5hZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2wIEN3JaDn5hZjAx",
+                "start": 0,
+                "url": "https://t.co/RAqwp4VYZc"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Palo Alto",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968459324512211107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44955,
+          "following_count": 2681,
+          "like_count": 7734,
+          "listed_count": 501,
+          "media_count": 2160,
+          "tweet_count": 5462
+        },
+        "url": "https://t.co/RAqwp4VYZc",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

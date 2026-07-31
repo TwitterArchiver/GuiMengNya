@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1963079237591790035",
+    "created_at": "2025-09-03T14:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T15:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963240703196377272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1577437503610531840",
+          "start": 0,
+          "username": "tddcxkjntm"
+        },
+        {
+          "end": 27,
+          "id": "1721381996960845824",
+          "start": 12,
+          "username": "laozhouhengmei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963240703196377272",
+    "in_reply_to_user_id": "1577437503610531840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963079237591790035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tddcxkjntm @laozhouhengmei 你这种畜生也就会骂骂人了🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1260,
+        "media_key": "3_1963079225725878272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz5CJ6tXAAARSAl.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1963079237591790035",
+        "created_at": "2025-09-03T14:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T15:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963240703196377272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1577437503610531840",
+              "start": 0,
+              "username": "tddcxkjntm"
+            },
+            {
+              "end": 27,
+              "id": "1721381996960845824",
+              "start": 12,
+              "username": "laozhouhengmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963240703196377272",
+        "in_reply_to_user_id": "1577437503610531840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963079237591790035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tddcxkjntm @laozhouhengmei 你这种畜生也就会骂骂人了🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963079225725878272"
+          ]
+        },
+        "author_id": "1577437503610531840",
+        "conversation_id": "1963079237591790035",
+        "created_at": "2025-09-03T03:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T04:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963079237591790035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 109,
+              "id": "1721381996960845824",
+              "start": 94,
+              "username": "laozhouhengmei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yA55k2UTfn",
+              "end": 133,
+              "expanded_url": "https://x.com/tddcxkjntm/status/1963079237591790035/photo/1",
+              "media_key": "3_1963079225725878272",
+              "start": 110,
+              "url": "https://t.co/yA55k2UTfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963079237591790035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9161,
+          "like_count": 246,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "畜生东西，就骂你呢，微信号上还有人吗？  别把你爹妈也拉黑了   今天阅兵全程没看你发动态啊，不会是在破防删好友吧？ 🤣   畜生东西   继续反吧  看你们这群垃圾什么时候能打到北京来 @laozhouhengmei https://t.co/yA55k2UTfn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/要一直哦@future080712/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "future080712"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 256,
+          "like_count": 4025,
+          "listed_count": 6,
+          "media_count": 126,
+          "tweet_count": 1352
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T23:16:41.000Z",
+        "description": "专干没文化的港独 台独 疆独 藏独 满独分子，不服就来对线，尽可能的用你们那贫瘠的知识和语言攻击我，我会逐个回击，泼皮无赖滚一边去",
+        "id": "1577437503610531840",
+        "location": "南京新街口",
+        "name": "妮妮艾露🇨🇳",
+        "pinned_tweet_id": "1891772464352403878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963193635379236864/4yX7XUY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 532,
+          "like_count": 5885,
+          "listed_count": 24,
+          "media_count": 356,
+          "tweet_count": 2492
+        },
+        "username": "tddcxkjntm",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T04:20:35.000Z",
+        "description": "原本是墙内时政批判类头部主播，微信视频号被下架几十个10万+，目前墙内已全面封杀。油管9个月破25万订阅。大马华人，美国8年，上海15年（2008~2023），现在新加坡；斯坦福计算机系，前金融企业CEO。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@laozhou77",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@laozhou77",
+                "start": 0,
+                "url": "https://t.co/u18vxiBPVW"
+              }
+            ]
+          }
+        },
+        "id": "1721381996960845824",
+        "name": "老周横眉",
+        "pinned_tweet_id": "1777320976809881823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721382562730577920/qJqUJz8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93502,
+          "following_count": 110,
+          "like_count": 9640,
+          "listed_count": 372,
+          "media_count": 693,
+          "tweet_count": 2353
+        },
+        "url": "https://t.co/u18vxiBPVW",
+        "username": "laozhouhengmei",
+        "verified": true
+      }
+    ]
+  }
+}

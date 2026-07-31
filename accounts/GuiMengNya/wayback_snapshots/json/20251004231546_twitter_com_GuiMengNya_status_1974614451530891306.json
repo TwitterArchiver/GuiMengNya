@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1974412860999754053",
+    "created_at": "2025-10-04T23:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T00:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974614451530891306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1875115728166342656",
+          "start": 0,
+          "username": "3253212MCZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974614451530891306",
+    "in_reply_to_user_id": "1875115728166342656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974614370060824719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3253212MCZ 还行？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1974412860999754053",
+        "created_at": "2025-10-04T23:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T00:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974614451530891306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1875115728166342656",
+              "start": 0,
+              "username": "3253212MCZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974614451530891306",
+        "in_reply_to_user_id": "1875115728166342656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974614370060824719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3253212MCZ 还行？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875115728166342656",
+        "conversation_id": "1974412860999754053",
+        "created_at": "2025-10-04T23:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T00:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974614370060824719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974614370060824719",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974412860999754053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya ？不难受吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1966904981568852417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 260,
+          "like_count": 4318,
+          "listed_count": 7,
+          "media_count": 133,
+          "tweet_count": 1454
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-03T09:43:34.000Z",
+        "description": "🐱INFJ | 🌧喜欢雨天发呆 | 🌿讨厌香菜 | 178cm？ | ❤️‍🩹抑郁症自愈者 | 🌈想去看世界！|🍬MTF：2025.7.6 |MIKU重度依赖者 | 包菜重度依赖 | ❤️‍🔥分享欲旺盛 |🌸努力做每个人的大姐姐 | 💌互fo | Q:285299219 |💞不定时安慰每个人 |",
+        "id": "1875115728166342656",
+        "location": "北京地地地地道道",
+        "name": "零落孤潮🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971931529904545792/RvUA_XhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 412,
+          "like_count": 1355,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 994
+        },
+        "username": "3253212MCZ",
+        "verified": false
+      }
+    ]
+  }
+}

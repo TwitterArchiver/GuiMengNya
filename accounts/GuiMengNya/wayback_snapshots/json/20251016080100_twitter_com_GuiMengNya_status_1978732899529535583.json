@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1977986003253223875",
+    "created_at": "2025-10-16T08:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T09:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978732899529535583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1831984756432760832",
+          "start": 0,
+          "username": "Shadow01175"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978732899529535583",
+    "in_reply_to_user_id": "1831984756432760832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978732700715602329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shadow01175 已经在做了，一周上架."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1977986003253223875",
+        "created_at": "2025-10-16T08:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T09:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978732899529535583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1831984756432760832",
+              "start": 0,
+              "username": "Shadow01175"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978732899529535583",
+        "in_reply_to_user_id": "1831984756432760832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978732700715602329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shadow01175 已经在做了，一周上架."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831984756432760832",
+        "conversation_id": "1977986003253223875",
+        "created_at": "2025-10-16T08:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T09:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978732700715602329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978732700715602329",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977986003253223875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 做出来了吗我要买然后去道顿堀炸鸡厅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 299,
+          "like_count": 4912,
+          "listed_count": 7,
+          "media_count": 141,
+          "tweet_count": 1642
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T09:16:26.000Z",
+        "description": "転生しよう\n💗世界上最好的猫猫@Guxislxnxy⛓️@zqtlovekris99 @GuiMengNya FF：@doreen129_Nox @Kazumasski Sub：@404DataError",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Guxislxnxy"
+              },
+              {
+                "end": 42,
+                "start": 28,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "GuiMengNya"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "doreen129_Nox"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "404DataError"
+              }
+            ]
+          }
+        },
+        "id": "1831984756432760832",
+        "location": "0.01km",
+        "name": "卧室第一吉他手（老资历版）",
+        "pinned_tweet_id": "1978007836522410296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978054180385468416/isF2zAvB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 499,
+          "like_count": 11890,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1534
+        },
+        "username": "Shadow01175",
+        "verified": false
+      }
+    ]
+  }
+}

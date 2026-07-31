@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1983850897345274044",
+    "created_at": "2025-10-31T19:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T20:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984345296063905947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1617295603792482305",
+          "start": 0,
+          "username": "Leer_otoaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984345296063905947",
+    "in_reply_to_user_id": "1617295603792482305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983850897345274044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leer_otoaka 信じられない!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1983850716759465984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gNt0vaIAAzWit.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1983850897345274044",
+        "created_at": "2025-10-31T19:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T20:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984345296063905947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1617295603792482305",
+              "start": 0,
+              "username": "Leer_otoaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984345296063905947",
+        "in_reply_to_user_id": "1617295603792482305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983850897345274044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leer_otoaka 信じられない!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983850716759465984"
+          ]
+        },
+        "author_id": "1617295603792482305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983850897345274044",
+        "created_at": "2025-10-30T10:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983850897345274044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m3Xok40xWk",
+              "end": 47,
+              "expanded_url": "https://x.com/Leer_otoaka/status/1983850897345274044/photo/1",
+              "media_key": "3_1983850716759465984",
+              "start": 24,
+              "url": "https://t.co/m3Xok40xWk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983850897345274044",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 69113,
+          "like_count": 789,
+          "quote_count": 12,
+          "reply_count": 12,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "100円2クレのオンゲキ台、リアルで初めて見た https://t.co/m3Xok40xWk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1982061018953232844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 311,
+          "like_count": 5403,
+          "listed_count": 7,
+          "media_count": 150,
+          "tweet_count": 1715
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-22T22:58:26.000Z",
+        "description": "orz",
+        "id": "1617295603792482305",
+        "name": "Leer/リィア@音ゲー垢",
+        "pinned_tweet_id": "1939700521847373834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668977176165711875/i86jkjUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 1247,
+          "like_count": 13582,
+          "listed_count": 10,
+          "media_count": 1453,
+          "tweet_count": 9861
+        },
+        "username": "Leer_otoaka",
+        "verified": false
+      }
+    ]
+  }
+}

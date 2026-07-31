@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1962443464156819862",
+    "created_at": "2025-09-02T06:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T07:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962767899350933819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796349415650664448",
+          "start": 0,
+          "username": "KawaiiEru_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962767899350933819",
+    "in_reply_to_user_id": "1796349415650664448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962443464156819862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiiEru_ 若只"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2176,
+        "media_key": "3_1962443453100613632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzv_7FHaYAAjglA.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2161,
+        "media_key": "3_1962443454606450688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzv_7KuboAAU2DW.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1962443464156819862",
+        "created_at": "2025-09-02T06:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T07:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962767899350933819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796349415650664448",
+              "start": 0,
+              "username": "KawaiiEru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962767899350933819",
+        "in_reply_to_user_id": "1796349415650664448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962443464156819862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiiEru_ 若只"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962443453100613632",
+            "3_1962443454606450688"
+          ]
+        },
+        "author_id": "1796349415650664448",
+        "conversation_id": "1962443464156819862",
+        "created_at": "2025-09-01T09:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T10:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962443464156819862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eoXzHhfeWM",
+              "end": 23,
+              "expanded_url": "https://x.com/KawaiiEru_/status/1962443464156819862/photo/1",
+              "media_key": "3_1962443453100613632",
+              "start": 0,
+              "url": "https://t.co/eoXzHhfeWM"
+            },
+            {
+              "display_url": "pic.x.com/eoXzHhfeWM",
+              "end": 23,
+              "expanded_url": "https://x.com/KawaiiEru_/status/1962443464156819862/photo/1",
+              "media_key": "3_1962443454606450688",
+              "start": 0,
+              "url": "https://t.co/eoXzHhfeWM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962443464156819862",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5362,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eoXzHhfeWM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/要一直哦@future080712/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "future080712"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 255,
+          "like_count": 3966,
+          "listed_count": 6,
+          "media_count": 126,
+          "tweet_count": 1338
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T01:14:22.000Z",
+        "description": "",
+        "id": "1796349415650664448",
+        "location": "神山高中古典文学部",
+        "name": "坂下える",
+        "pinned_tweet_id": "1948788722897437042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960386295144046592/nteHn_9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2496,
+          "following_count": 342,
+          "like_count": 25608,
+          "listed_count": 12,
+          "media_count": 2451,
+          "tweet_count": 12039
+        },
+        "username": "KawaiiEru_",
+        "verified": true
+      }
+    ]
+  }
+}

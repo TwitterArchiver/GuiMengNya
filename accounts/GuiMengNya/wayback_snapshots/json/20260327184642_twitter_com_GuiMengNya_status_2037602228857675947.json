@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2037534153928061303",
+    "created_at": "2026-03-27T18:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T19:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037602228857675947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753990410832379904",
+          "start": 0,
+          "username": "DRbitcoin36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037602228857675947",
+    "in_reply_to_user_id": "1753990410832379904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037534153928061303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DRbitcoin36 不对啊，我这里怎么是0😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_2037534136743972864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbGgIZbUAAdNgz.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2037534153928061303",
+        "created_at": "2026-03-27T18:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037602228857675947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753990410832379904",
+              "start": 0,
+              "username": "DRbitcoin36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037602228857675947",
+        "in_reply_to_user_id": "1753990410832379904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037534153928061303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DRbitcoin36 不对啊，我这里怎么是0😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037534136743972864"
+          ]
+        },
+        "author_id": "1753990410832379904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2037534153928061303",
+        "created_at": "2026-03-27T14:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037534153928061303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ldgiy6X0Ho",
+              "end": 73,
+              "expanded_url": "https://x.com/DRbitcoin36/status/2037534153928061303/photo/1",
+              "media_key": "3_2037534136743972864",
+              "start": 50,
+              "url": "https://t.co/Ldgiy6X0Ho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037534153928061303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 28531,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有个小妙招教你们\n把交易所的显示单位换成 BTC\n你的资产就会一直在涨\n\n因为 BTC 一直在跌。 https://t.co/Ldgiy6X0Ho"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9285,
+          "following_count": 696,
+          "like_count": 11044,
+          "listed_count": 29,
+          "media_count": 1843,
+          "tweet_count": 4169
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-04T03:54:42.000Z",
+        "description": "数据分析 + 数据可视化博主 | 自媒体打工人 + 00 后大学生｜顶级笨蛋钱｜推特当作自己的炒币日记 ｜玩 Meme 就用：https://t.co/gYZuqs7P96",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/AveSniperBot?s…",
+                "end": 86,
+                "expanded_url": "https://t.me/AveSniperBot?start=ref_6641008601",
+                "start": 63,
+                "url": "https://t.co/gYZuqs7P96"
+              }
+            ]
+          }
+        },
+        "id": "1753990410832379904",
+        "location": "singapore",
+        "name": "比特欧 Elvin",
+        "pinned_tweet_id": "1983500437874708833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871549554279194624/SLDJsDr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26614,
+          "following_count": 2844,
+          "like_count": 34902,
+          "listed_count": 299,
+          "media_count": 1274,
+          "tweet_count": 24864
+        },
+        "username": "DRbitcoin36",
+        "verified": true
+      }
+    ]
+  }
+}

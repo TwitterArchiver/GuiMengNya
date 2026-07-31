@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1917834721075331468",
+    "created_at": "2025-05-01T11:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T12:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917900784634912981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1487626553009721355",
+          "start": 0,
+          "username": "cyansoul2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917900784634912981",
+    "in_reply_to_user_id": "1487626553009721355",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917834721075331468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyansoul2 bb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1917834718365749248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp2Eg-YaEAA0q4C.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1917834721075331468",
+        "created_at": "2025-05-01T11:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T12:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917900784634912981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1487626553009721355",
+              "start": 0,
+              "username": "cyansoul2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917900784634912981",
+        "in_reply_to_user_id": "1487626553009721355",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917834721075331468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyansoul2 bb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917834718365749248"
+          ]
+        },
+        "author_id": "1487626553009721355",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1917834721075331468",
+        "created_at": "2025-05-01T06:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T07:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917834721075331468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/76IRKytQgm",
+              "end": 23,
+              "expanded_url": "https://x.com/cyansoul2/status/1917834721075331468/photo/1",
+              "media_key": "3_1917834718365749248",
+              "start": 0,
+              "url": "https://t.co/76IRKytQgm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917834721075331468",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/76IRKytQgm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "R.I.P./06.11.15/坐标杭州/家长不管党/「文字形容不了我」/，坐标杭州的一只无证猫猫，重度焦虑重度抑郁疑似双向，喜欢机车，#INTJ，音游摆烂，不管怎么说都是不折不扣的纯爱党！好妹妹@cyanide110705，是@xiaoyeluo姐姐的猫猫，🩷@cyansoul2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 68,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "cyanide110705"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "xiaoyeluo"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "cyansoul2"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "米哈游MtFoYo🍥",
+        "pinned_tweet_id": "1908994587584319596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917651935106379776/Chhcp-8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 221,
+          "like_count": 3453,
+          "listed_count": 7,
+          "media_count": 110,
+          "tweet_count": 1086
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-30T03:19:50.000Z",
+        "description": "mtx/HRT 2025.2.6/高中休学中/术曲爱好者/音游人/负能注意❗️❗️❗️/极度孤独/交友大欢迎/可以叫我青兰/里账@Shaky0721/对象@GuiMengNya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Shaky0721"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "GuiMengNya"
+              }
+            ]
+          }
+        },
+        "id": "1487626553009721355",
+        "location": "泡泡",
+        "name": "cyansoul01号机",
+        "pinned_tweet_id": "1811578546256855100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907417643147202560/-zpJysBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 1092,
+          "like_count": 16255,
+          "listed_count": 2,
+          "media_count": 373,
+          "tweet_count": 4772
+        },
+        "username": "cyansoul2",
+        "verified": false
+      }
+    ]
+  }
+}

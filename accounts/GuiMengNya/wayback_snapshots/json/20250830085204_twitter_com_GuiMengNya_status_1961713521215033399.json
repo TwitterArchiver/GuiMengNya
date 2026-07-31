@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1961576383102292064",
+    "created_at": "2025-08-30T08:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T09:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961713521215033399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3318278592",
+          "start": 0,
+          "username": "BigglesworthX"
+        },
+        {
+          "end": 25,
+          "id": "1841768354178334721",
+          "start": 15,
+          "username": "jingzi004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961713521215033399",
+    "in_reply_to_user_id": "3318278592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961576383102292064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigglesworthX @jingzi004 非常pass😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1961575603544756224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzjqnllbkAA5a30.jpg",
+        "width": 886
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1961575746696278016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzjqv63acAAVmVa.jpg",
+        "width": 886
+      },
+      {
+        "height": 1298,
+        "media_key": "3_1961576021230325760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzjq_5lbkAAG-Pn.jpg",
+        "width": 1064
+      },
+      {
+        "height": 1354,
+        "media_key": "3_1961576292056522752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzjrPqfbYAAN7PS.jpg",
+        "width": 1043
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1961576383102292064",
+        "created_at": "2025-08-30T08:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T09:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961713521215033399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3318278592",
+              "start": 0,
+              "username": "BigglesworthX"
+            },
+            {
+              "end": 25,
+              "id": "1841768354178334721",
+              "start": 15,
+              "username": "jingzi004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961713521215033399",
+        "in_reply_to_user_id": "3318278592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961576383102292064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigglesworthX @jingzi004 非常pass😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961575603544756224",
+            "3_1961575746696278016",
+            "3_1961576021230325760",
+            "3_1961576292056522752"
+          ]
+        },
+        "author_id": "3318278592",
+        "conversation_id": "1961576383102292064",
+        "created_at": "2025-08-29T23:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T00:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961576383102292064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pr8filQ0sm",
+              "end": 32,
+              "expanded_url": "https://x.com/BigglesworthX/status/1961576383102292064/photo/1",
+              "media_key": "3_1961575603544756224",
+              "start": 9,
+              "url": "https://t.co/pr8filQ0sm"
+            },
+            {
+              "display_url": "pic.x.com/pr8filQ0sm",
+              "end": 32,
+              "expanded_url": "https://x.com/BigglesworthX/status/1961576383102292064/photo/1",
+              "media_key": "3_1961575746696278016",
+              "start": 9,
+              "url": "https://t.co/pr8filQ0sm"
+            },
+            {
+              "display_url": "pic.x.com/pr8filQ0sm",
+              "end": 32,
+              "expanded_url": "https://x.com/BigglesworthX/status/1961576383102292064/photo/1",
+              "media_key": "3_1961576021230325760",
+              "start": 9,
+              "url": "https://t.co/pr8filQ0sm"
+            },
+            {
+              "display_url": "pic.x.com/pr8filQ0sm",
+              "end": 32,
+              "expanded_url": "https://x.com/BigglesworthX/status/1961576383102292064/photo/1",
+              "media_key": "3_1961576292056522752",
+              "start": 9,
+              "url": "https://t.co/pr8filQ0sm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961576383102292064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 448,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "七夕不要脸系列： https://t.co/pr8filQ0sm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/我的对象在哪里(伤心)/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1958099553724362948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 250,
+          "like_count": 3770,
+          "listed_count": 6,
+          "media_count": 125,
+          "tweet_count": 1289
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-18T04:24:26.000Z",
+        "description": "Unfriendly neighborhood spider",
+        "id": "3318278592",
+        "location": "San Francisco",
+        "name": "Hoggicosa bisexsual",
+        "pinned_tweet_id": "1957802450691440798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929429379127574528/USN-Qd2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 685,
+          "like_count": 1687,
+          "listed_count": 1,
+          "media_count": 589,
+          "tweet_count": 2836
+        },
+        "username": "BigglesworthX",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-03T09:14:54.000Z",
+        "description": "常駐昆山😁是剛用上雌激素沒幾年的亞洲人妖🌝自產自銷人妖藥（雌二醇）糖商🌚減肥、豐胸、泌乳、脫毛、美白、雌墮、互fo、面基找我☝️🤓會轉發好看的",
+        "id": "1841768354178334721",
+        "location": "中國大陸江蘇",
+        "name": "劉陰嫚（京本京子）",
+        "pinned_tweet_id": "1945386725200871568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947896196036759558/jZW-lLDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3441,
+          "following_count": 3420,
+          "like_count": 1057,
+          "listed_count": 3,
+          "media_count": 353,
+          "tweet_count": 5258
+        },
+        "username": "jingzi004",
+        "verified": false
+      }
+    ]
+  }
+}

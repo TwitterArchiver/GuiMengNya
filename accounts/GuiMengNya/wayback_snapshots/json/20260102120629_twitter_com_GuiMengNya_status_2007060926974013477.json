@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2006992835384586486",
+    "created_at": "2026-01-02T12:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T13:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007060926974013477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1655093096710021120",
+          "start": 0,
+          "username": "yuzuchanqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007060926974013477",
+    "in_reply_to_user_id": "1655093096710021120",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006992835384586486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzuchanqwq 🫡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006992824357761025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9pFVxqaMAE6MgS.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2006992835384586486",
+        "created_at": "2026-01-02T12:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T13:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007060926974013477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1655093096710021120",
+              "start": 0,
+              "username": "yuzuchanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007060926974013477",
+        "in_reply_to_user_id": "1655093096710021120",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006992835384586486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzuchanqwq 🫡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006992824357761025"
+          ]
+        },
+        "author_id": "1655093096710021120",
+        "conversation_id": "2006992835384586486",
+        "created_at": "2026-01-02T07:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T08:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006992835384586486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9nqyrVBb9x",
+              "end": 31,
+              "expanded_url": "https://x.com/yuzuchanqwq/status/2006992835384586486/photo/1",
+              "media_key": "3_2006992824357761025",
+              "start": 8,
+              "url": "https://t.co/9nqyrVBb9x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006992835384586486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1000,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那麼就再見了。 https://t.co/9nqyrVBb9x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3396,
+          "following_count": 341,
+          "like_count": 7561,
+          "listed_count": 15,
+          "media_count": 585,
+          "tweet_count": 2443
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-07T06:12:10.000Z",
+        "description": "2008.07.31 - 2026.01.02",
+        "id": "1655093096710021120",
+        "location": "貓屬東京",
+        "name": "柚子醬🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005988698228416512/aGP0CH_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 1185,
+          "like_count": 33428,
+          "listed_count": 5,
+          "media_count": 987,
+          "tweet_count": 10891
+        },
+        "username": "yuzuchanqwq",
+        "verified": false
+      }
+    ]
+  }
+}

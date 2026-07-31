@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1994030652602372106",
+    "created_at": "2025-11-27T13:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T14:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994030652602372106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bugcat_capoo_t…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/bugcat_capoo_tw/status/1993936295262068855",
+          "start": 21,
+          "url": "https://t.co/vwFy5xOW7T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994030652602372106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993936295262068855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这下不得不支持了\n台湾独立！习近平下台！ https://t.co/vwFy5xOW7T"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28333,
+        "height": 1920,
+        "media_key": "13_1993936176496168962",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993936176496168962/img/dYtsDFRfGyYid0o1.jpg",
+        "public_metrics": {
+          "view_count": 15803
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993936176496168962/vid/avc1/1080x1920/eLqSCKuhfylyNZzs.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993936176496168962/vid/avc1/320x568/NT04Z5fyfghwsO4I.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993936176496168962/vid/avc1/480x852/9z31rAi9b1EBH7BX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993936176496168962/vid/avc1/720x1280/uwLj5Nn6aTfRRMfh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993936176496168962/pl/R1BYUXf_hcYI99Kh.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1994030652602372106",
+        "created_at": "2025-11-27T13:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994030652602372106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bugcat_capoo_t…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/bugcat_capoo_tw/status/1993936295262068855",
+              "start": 21,
+              "url": "https://t.co/vwFy5xOW7T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994030652602372106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993936295262068855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这下不得不支持了\n台湾独立！习近平下台！ https://t.co/vwFy5xOW7T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993936176496168962"
+          ]
+        },
+        "author_id": "1519869093586751488",
+        "conversation_id": "1993936295262068855",
+        "created_at": "2025-11-27T06:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T07:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993936295262068855"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "line"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "貼圖"
+            },
+            {
+              "end": 70,
+              "start": 63,
+              "tag": "我的英雄學院"
+            }
+          ],
+          "urls": [
+            {
+              "description": "BugCat-Capoo x My Hero Academia collaboration stickers are here! These animated stickers, designed by Yara, feature everyone transformed into short, chubby, super soft, and adorable characters!! Please note that the sale of this sticker set will end on November 30, 2027.",
+              "display_url": "lin.ee/shsyqInB",
+              "end": 51,
+              "expanded_url": "https://lin.ee/shsyqInB",
+              "images": [
+                {
+                  "height": 240,
+                  "url": "https://pbs.twimg.com/news_img/1993936298030280704/QGWV5vSe?format=png&name=orig",
+                  "width": 240
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1993936298030280704/QGWV5vSe?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "My Hero Academia x BugCat-Capoo – LINE stickers | LINE STORE",
+              "unwound_url": "https://store.line.me/stickershop/product/36211",
+              "url": "https://t.co/uKRN1XVdOD"
+            },
+            {
+              "display_url": "pic.x.com/NiMgoUbdBN",
+              "end": 94,
+              "expanded_url": "https://x.com/bugcat_capoo_tw/status/1993936295262068855/video/1",
+              "media_key": "13_1993936176496168962",
+              "start": 71,
+              "url": "https://t.co/NiMgoUbdBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993936295262068855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 58362,
+          "like_count": 1350,
+          "quote_count": 53,
+          "reply_count": 227,
+          "retweet_count": 255
+        },
+        "reply_settings": "everyone",
+        "text": "我的英雄學院X貓貓蟲咖波 \nLine 官方貼圖新上架！\nhttps://t.co/uKRN1XVdOD\n\n#line #貼圖 #我的英雄學院 https://t.co/NiMgoUbdBN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 336,
+          "like_count": 6901,
+          "listed_count": 8,
+          "media_count": 272,
+          "tweet_count": 2051
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-29T02:40:18.000Z",
+        "description": "Strange creature that looks like a cat and a bug. From Taiwan.  猫と虫のように見える奇妙な生き物。台湾から",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/capoo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/capoo",
+                "start": 0,
+                "url": "https://t.co/XuFbWWyx7k"
+              }
+            ]
+          }
+        },
+        "id": "1519869093586751488",
+        "location": "Taichung City, Taiwan",
+        "name": "Bugcat Capoo",
+        "pinned_tweet_id": "1969605259820745073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519869339981152257/KbHAyq-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124328,
+          "following_count": 71,
+          "like_count": 99,
+          "listed_count": 265,
+          "media_count": 326,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/XuFbWWyx7k",
+        "username": "bugcat_capoo_tw",
+        "verified": true
+      }
+    ]
+  }
+}

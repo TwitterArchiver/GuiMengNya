@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1970671267029381559",
+    "created_at": "2025-09-24T08:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T09:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970764075174109685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1427298349489721350",
+          "start": 0,
+          "username": "kuasnzero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970764075174109685",
+    "in_reply_to_user_id": "1427298349489721350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970763990474334546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuasnzero 的确是"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1970763990474334546].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1970763990474334546",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1970763990474334546"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1970671267029381559",
+        "created_at": "2025-09-24T08:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T09:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970764075174109685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1427298349489721350",
+              "start": 0,
+              "username": "kuasnzero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970764075174109685",
+        "in_reply_to_user_id": "1427298349489721350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970763990474334546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuasnzero 的确是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中",
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦",
+        "pinned_tweet_id": "1966904981568852417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 256,
+          "like_count": 4214,
+          "listed_count": 7,
+          "media_count": 128,
+          "tweet_count": 1410
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-16T15:58:08.000Z",
+        "description": "A Goblin 💚",
+        "id": "1427298349489721350",
+        "location": "Vancouver🇨🇦",
+        "name": "Bonnie",
+        "pinned_tweet_id": "1949733792475758788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843161384231792640/OReM-3hL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 1264,
+          "like_count": 2790,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 3267
+        },
+        "username": "kuasnzero",
+        "verified": false
+      }
+    ]
+  }
+}

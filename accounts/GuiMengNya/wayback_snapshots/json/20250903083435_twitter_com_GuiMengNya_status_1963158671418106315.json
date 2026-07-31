@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1963072730292748452",
+    "created_at": "2025-09-03T08:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T09:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963158671418106315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2802608952",
+          "start": 0,
+          "username": "AkelyEquab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963158671418106315",
+    "in_reply_to_user_id": "2802608952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963072730292748452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkelyEquab 都是弱智，删了啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2253,
+        "media_key": "3_1963072726668869634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz48Pn1bAAIJceM.jpg",
+        "width": 305
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1963072730292748452",
+        "created_at": "2025-09-03T08:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T09:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963158671418106315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2802608952",
+              "start": 0,
+              "username": "AkelyEquab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963158671418106315",
+        "in_reply_to_user_id": "2802608952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963072730292748452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkelyEquab 都是弱智，删了啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963072726668869634"
+          ]
+        },
+        "author_id": "2802608952",
+        "conversation_id": "1963072730292748452",
+        "created_at": "2025-09-03T02:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T03:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963072730292748452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/An64gVF80m",
+              "end": 35,
+              "expanded_url": "https://x.com/AkelyEquab/status/1963072730292748452/photo/1",
+              "media_key": "3_1963072726668869634",
+              "start": 12,
+              "url": "https://t.co/An64gVF80m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963072730292748452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 21235,
+          "like_count": 334,
+          "quote_count": 8,
+          "reply_count": 81,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "看了我的朋友圈當場去世 https://t.co/An64gVF80m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/要一直哦@future080712/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "future080712"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 255,
+          "like_count": 4023,
+          "listed_count": 6,
+          "media_count": 126,
+          "tweet_count": 1351
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-10T23:34:39.000Z",
+        "description": "a kiwi, more than kiwi, observer\n\nI speak 中文, Pó-sing-gṳ̂，Deutsch, English, العربية  and... more!",
+        "id": "2802608952",
+        "name": "Alexej",
+        "pinned_tweet_id": "1749706282909704514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856849811208896512/2jOJagDS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6072,
+          "following_count": 2306,
+          "like_count": 234670,
+          "listed_count": 42,
+          "media_count": 8984,
+          "tweet_count": 118495
+        },
+        "username": "AkelyEquab",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1959636003020521483",
+    "created_at": "2025-08-25T08:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T09:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959895286534537598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1164356912525131776",
+          "start": 0,
+          "username": "shucaileibaozh"
+        },
+        {
+          "end": 32,
+          "id": "1595960282345414657",
+          "start": 16,
+          "username": "StillVanderbilt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959895286534537598",
+    "in_reply_to_user_id": "1164356912525131776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959638240560062797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shucaileibaozh @StillVanderbilt 你欠揍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1959636003020521483",
+        "created_at": "2025-08-25T08:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T09:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959895286534537598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1164356912525131776",
+              "start": 0,
+              "username": "shucaileibaozh"
+            },
+            {
+              "end": 32,
+              "id": "1595960282345414657",
+              "start": 16,
+              "username": "StillVanderbilt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959895286534537598",
+        "in_reply_to_user_id": "1164356912525131776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959638240560062797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shucaileibaozh @StillVanderbilt 你欠揍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164356912525131776",
+        "conversation_id": "1959636003020521483",
+        "created_at": "2025-08-24T15:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T16:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959638240560062797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595960282345414657",
+              "start": 0,
+              "username": "StillVanderbilt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959638240560062797",
+        "in_reply_to_user_id": "1595960282345414657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 454,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959636003020521483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StillVanderbilt 倭子又欠核了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州/精神比你正常就对了/喜欢音游，机车/#INTJ/含妈量极高/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1958099553724362948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 232,
+          "like_count": 3555,
+          "listed_count": 6,
+          "media_count": 121,
+          "tweet_count": 1208
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T02:01:48.000Z",
+        "description": "半工半读人。自觉带来最大的自由。",
+        "id": "1164356912525131776",
+        "location": "People's Republic of China",
+        "name": "胜利主义三叶同志",
+        "pinned_tweet_id": "1957859706334011445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946951260575277056/23mVb5rP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56704,
+          "following_count": 4246,
+          "like_count": 369305,
+          "listed_count": 28,
+          "media_count": 10037,
+          "tweet_count": 87598
+        },
+        "username": "shucaileibaozh",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T01:59:27.000Z",
+        "description": "",
+        "id": "1595960282345414657",
+        "location": "维多利亚娱乐城",
+        "name": "枫糖小彪",
+        "pinned_tweet_id": "1954771845665931352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912201746421583872/k9PtLtie_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3259,
+          "following_count": 540,
+          "like_count": 28093,
+          "listed_count": 16,
+          "media_count": 1183,
+          "tweet_count": 7667
+        },
+        "username": "StillVanderbilt",
+        "verified": false
+      }
+    ]
+  }
+}

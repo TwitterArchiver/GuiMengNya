@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1961230634657218763",
+    "created_at": "2025-08-29T19:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T20:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961509380958163398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1795828482057940992",
+          "start": 0,
+          "username": "ygxdst"
+        },
+        {
+          "end": 24,
+          "id": "1367943697279705090",
+          "start": 8,
+          "username": "BingLiu34173809"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961509380958163398",
+    "in_reply_to_user_id": "1795828482057940992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961273173703311661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ygxdst @BingLiu34173809 老不死的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1961230634657218763",
+        "created_at": "2025-08-29T19:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T20:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961509380958163398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1795828482057940992",
+              "start": 0,
+              "username": "ygxdst"
+            },
+            {
+              "end": 24,
+              "id": "1367943697279705090",
+              "start": 8,
+              "username": "BingLiu34173809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961509380958163398",
+        "in_reply_to_user_id": "1795828482057940992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961273173703311661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ygxdst @BingLiu34173809 老不死的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795828482057940992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1961230634657218763",
+        "created_at": "2025-08-29T03:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T04:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961273173703311661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1367943697279705090",
+              "start": 0,
+              "username": "BingLiu34173809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961273173703311661",
+        "in_reply_to_user_id": "1367943697279705090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 24656,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961230634657218763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BingLiu34173809 习近平都七十多了，他再不显摆，以后就没机会了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/我的对象在哪里(伤心)/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1958099553724362948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 246,
+          "like_count": 3723,
+          "listed_count": 6,
+          "media_count": 123,
+          "tweet_count": 1264
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T14:45:26.000Z",
+        "description": "抛弃一切希望与绝望，只是向前走",
+        "id": "1795828482057940992",
+        "name": "阳光下的尸体",
+        "pinned_tweet_id": "1961401529266471232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915089232592564227/RI2PHdjj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 482,
+          "like_count": 2352,
+          "listed_count": 5,
+          "media_count": 484,
+          "tweet_count": 3436
+        },
+        "username": "ygxdst",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-05T21:03:18.000Z",
+        "description": "",
+        "id": "1367943697279705090",
+        "location": "England, United Kingdom",
+        "name": "Leva",
+        "pinned_tweet_id": "1961213822623965344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732745778785910785/htQSwPuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43995,
+          "following_count": 1327,
+          "like_count": 7676,
+          "listed_count": 343,
+          "media_count": 10760,
+          "tweet_count": 29051
+        },
+        "username": "BingLiu34173809",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1993861477556699628",
+    "created_at": "2025-11-27T03:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T04:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993888413259583832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "ShimonaChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993888413259583832",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993888308632670309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShimonaChan 商店也是外区吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1993861477556699628",
+        "created_at": "2025-11-27T03:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993888413259583832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "ShimonaChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993888413259583832",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993888308632670309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShimonaChan 商店也是外区吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "758296624875446272",
+        "conversation_id": "1993861477556699628",
+        "created_at": "2025-11-27T03:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993888308632670309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993888308632670309",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993864138641293452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 就是外区账号啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1613,
+          "following_count": 336,
+          "like_count": 6892,
+          "listed_count": 8,
+          "media_count": 269,
+          "tweet_count": 2045
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| CN/EN/JP || Shimona or Rophlis || Icon: ©️Acacia || Banner: おにやまけい 様 || Fragments and Threads from the Void… || #まのさば #ヨグソトースの庭 #NeedyGirlOverdose",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "まのさば"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "tag": "ヨグソトースの庭"
+              },
+              {
+                "end": 149,
+                "start": 131,
+                "tag": "NeedyGirlOverdose"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Rophlis",
+        "name": "Shimona@共犯者",
+        "pinned_tweet_id": "1984815386660143332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984795389481140225/l7_mOVqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27926,
+          "following_count": 3545,
+          "like_count": 11523,
+          "listed_count": 30,
+          "media_count": 4381,
+          "tweet_count": 30046
+        },
+        "username": "ShimonaChan",
+        "verified": false
+      }
+    ]
+  }
+}

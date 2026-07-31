@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2019156588708462864",
+    "created_at": "2026-02-04T21:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T22:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019162825802019077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1965351173872820224",
+          "start": 0,
+          "username": "BT_7324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019162825802019077",
+    "in_reply_to_user_id": "1965351173872820224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019156588708462864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BT_7324 我在酒店被蚊子叮的睡不着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2019156588708462864",
+        "created_at": "2026-02-04T21:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T22:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019162825802019077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1965351173872820224",
+              "start": 0,
+              "username": "BT_7324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019162825802019077",
+        "in_reply_to_user_id": "1965351173872820224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019156588708462864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BT_7324 我在酒店被蚊子叮的睡不着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965351173872820224",
+        "conversation_id": "2019156588708462864",
+        "created_at": "2026-02-04T21:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T22:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019156588708462864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019156588708462864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无语了，大半夜被蚊子咬醒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6614,
+          "following_count": 717,
+          "like_count": 9809,
+          "listed_count": 19,
+          "media_count": 1071,
+          "tweet_count": 3176
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T09:47:06.000Z",
+        "description": "正在埋头学PBR流程，可以理解为要淡推好久\n没回fo就是在建模\n学习进度：熟练使用AE,blender，会用3DMAX，zbrush\n丨2010.8.18\n头像随便换的",
+        "id": "1965351173872820224",
+        "location": "🌏",
+        "name": "zzz",
+        "pinned_tweet_id": "2007789313086648810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012456878815739904/owdvYUdA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 2142,
+          "like_count": 6618,
+          "listed_count": 4,
+          "media_count": 1461,
+          "tweet_count": 4019
+        },
+        "username": "BT_7324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1962080597616279895",
+    "created_at": "2025-08-31T16:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T17:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962189327561318701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870052270836199424",
+          "start": 0,
+          "username": "JadezKayoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962189327561318701",
+    "in_reply_to_user_id": "1870052270836199424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962185487168459076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JadezKayoko 很羡慕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1962080597616279895",
+        "created_at": "2025-08-31T16:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T17:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962189327561318701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870052270836199424",
+              "start": 0,
+              "username": "JadezKayoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962189327561318701",
+        "in_reply_to_user_id": "1870052270836199424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962185487168459076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JadezKayoko 很羡慕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870052270836199424",
+        "conversation_id": "1962080597616279895",
+        "created_at": "2025-08-31T16:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T17:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962185487168459076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962185487168459076",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962175402547511745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 一直在吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/我的对象在哪里(伤心)/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 254,
+          "like_count": 3849,
+          "listed_count": 6,
+          "media_count": 125,
+          "tweet_count": 1312
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T10:23:06.000Z",
+        "description": "🍥很闲很闲的芙泗，随时都可以找我私信聊天，深柜，呜呜超极笨！脾气很好的，不用害怕我喔❤️应该是mtx🍥常年在杭州和宁波☘️｜最可爱的凌若宝宝~@LingRuoovo｜最爱的妹妹@ElP15_｜最笨的咩咩@littlelambqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "LingRuoovo"
+              },
+              {
+                "end": 95,
+                "start": 88,
+                "username": "ElP15_"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "littlelambqwq"
+              }
+            ]
+          }
+        },
+        "id": "1870052270836199424",
+        "name": "Fusi④（冷狐版）",
+        "pinned_tweet_id": "1947918707877155135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962092917688057856/GA13Cq71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 219,
+          "like_count": 5618,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 2297
+        },
+        "username": "JadezKayoko",
+        "verified": false
+      }
+    ]
+  }
+}

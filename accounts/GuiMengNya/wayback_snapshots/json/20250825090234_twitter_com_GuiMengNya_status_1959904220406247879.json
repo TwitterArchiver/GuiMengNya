@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1959842076281253959",
+    "created_at": "2025-08-25T09:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T10:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959904220406247879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1831984756432760832",
+          "start": 0,
+          "username": "mitei011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959904220406247879",
+    "in_reply_to_user_id": "1831984756432760832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959842076281253959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mitei011 好惨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1959842076281253959",
+        "created_at": "2025-08-25T09:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T10:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959904220406247879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1831984756432760832",
+              "start": 0,
+              "username": "mitei011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959904220406247879",
+        "in_reply_to_user_id": "1831984756432760832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959842076281253959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mitei011 好惨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831984756432760832",
+        "conversation_id": "1959842076281253959",
+        "created_at": "2025-08-25T04:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T05:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959842076281253959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959842076281253959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我伞好像忘电车上了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州/精神比你正常就对了/喜欢音游，机车/#INTJ/含妈量极高/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1958099553724362948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 233,
+          "like_count": 3567,
+          "listed_count": 6,
+          "media_count": 122,
+          "tweet_count": 1217
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T09:16:26.000Z",
+        "description": "",
+        "id": "1831984756432760832",
+        "location": "0.01km",
+        "name": "未定",
+        "pinned_tweet_id": "1928843044800827492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958860864054075392/yPjcYbkX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 359,
+          "like_count": 9681,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 835
+        },
+        "username": "mitei011",
+        "verified": false
+      }
+    ]
+  }
+}

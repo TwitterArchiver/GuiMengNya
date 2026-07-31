@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1966546656905814476",
+    "created_at": "2025-09-12T16:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T17:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966546656905814476"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1966546656905814476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小粉红就是出生在鸿蒙国家的鸿蒙人\n连安卓人都算不上还在那里指着苹果国家议论菲菲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1966546656905814476",
+        "created_at": "2025-09-12T16:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T17:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966546656905814476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966546656905814476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小粉红就是出生在鸿蒙国家的鸿蒙人\n连安卓人都算不上还在那里指着苹果国家议论菲菲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」/家长不管党/坐标浙江/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/要一直哦@future080712/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 36,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "future080712"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 255,
+          "like_count": 4167,
+          "listed_count": 7,
+          "media_count": 127,
+          "tweet_count": 1383
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      }
+    ]
+  }
+}

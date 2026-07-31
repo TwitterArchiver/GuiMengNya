@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027403706971623424"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "conversation_id": "2027431786150527207",
+    "created_at": "2026-02-27T17:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027431786150527207"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3ryAYGi6PC",
+          "end": 33,
+          "expanded_url": "https://x.com/GuiMengNya/status/2027431786150527207/photo/1",
+          "media_key": "3_2027403706971623424",
+          "start": 10,
+          "url": "https://t.co/3ryAYGi6PC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027431786150527207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "温馨提示：禁止模仿 https://t.co/3ryAYGi6PC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1038,
+        "media_key": "3_2027403706971623424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLI7gpakAAJsx4.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027403706971623424"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "2027431786150527207",
+        "created_at": "2026-02-27T17:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027431786150527207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ryAYGi6PC",
+              "end": 33,
+              "expanded_url": "https://x.com/GuiMengNya/status/2027431786150527207/photo/1",
+              "media_key": "3_2027403706971623424",
+              "start": 10,
+              "url": "https://t.co/3ryAYGi6PC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027431786150527207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "温馨提示：禁止模仿 https://t.co/3ryAYGi6PC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7612,
+          "following_count": 714,
+          "like_count": 10332,
+          "listed_count": 27,
+          "media_count": 1380,
+          "tweet_count": 3552
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

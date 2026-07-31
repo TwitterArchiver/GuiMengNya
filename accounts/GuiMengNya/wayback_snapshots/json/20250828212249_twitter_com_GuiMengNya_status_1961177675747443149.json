@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1960992371539079284",
+    "created_at": "2025-08-28T21:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T22:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961177675747443149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1818315659673210880",
+          "start": 0,
+          "username": "NeK1GG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961177675747443149",
+    "in_reply_to_user_id": "1818315659673210880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960992371539079284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeK1GG 怀念的高中宿舍布局"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 894,
+        "media_key": "3_1960992365860270080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzbYKr5asAAxP4t.jpg",
+        "width": 1172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1960992371539079284",
+        "created_at": "2025-08-28T21:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T22:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961177675747443149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1818315659673210880",
+              "start": 0,
+              "username": "NeK1GG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961177675747443149",
+        "in_reply_to_user_id": "1818315659673210880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960992371539079284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeK1GG 怀念的高中宿舍布局"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960992365860270080"
+          ]
+        },
+        "author_id": "1818315659673210880",
+        "conversation_id": "1960992371539079284",
+        "created_at": "2025-08-28T09:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T10:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960992371539079284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pe00L8Rora",
+              "end": 23,
+              "expanded_url": "https://x.com/NeK1GG/status/1960992371539079284/photo/1",
+              "media_key": "3_1960992365860270080",
+              "start": 0,
+              "url": "https://t.co/pe00L8Rora"
+            },
+            {
+              "display_url": "x.com/NeK1GG/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/NeK1GG/status/1960989107037122960",
+              "start": 24,
+              "url": "https://t.co/ZEgLceY3Ri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960992371539079284",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960989107037122960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/pe00L8Rora https://t.co/ZEgLceY3Ri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/含妈量极高/希望成为全能一点的人/我的对象在哪里(伤心)/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1958099553724362948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 241,
+          "like_count": 3663,
+          "listed_count": 6,
+          "media_count": 123,
+          "tweet_count": 1247
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:00:37.000Z",
+        "description": "我渺于一粒细尘，却又长于永恒。\n「和平主义🕊️/实用主义🌱/人权&平等🤝/反建制🌹/🚫极端主义🚫」无固定立场 不回复代表你说的对 什么都黑别来查成分了\n逃生舱：@Nek1BOOM 欢迎互fo😘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "Nek1BOOM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "neki.work",
+                "end": 23,
+                "expanded_url": "http://neki.work",
+                "start": 0,
+                "url": "https://t.co/n61PuIuLZm"
+              }
+            ]
+          }
+        },
+        "id": "1818315659673210880",
+        "location": "Dawntown NightCity, California",
+        "name": "Nek1🇳🇴🦌☕✨",
+        "pinned_tweet_id": "1946608701743476946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951581549780144128/fFe05120_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 1180,
+          "like_count": 33375,
+          "listed_count": 2,
+          "media_count": 466,
+          "tweet_count": 7354
+        },
+        "url": "https://t.co/n61PuIuLZm",
+        "username": "NeK1GG",
+        "verified": false
+      }
+    ]
+  }
+}

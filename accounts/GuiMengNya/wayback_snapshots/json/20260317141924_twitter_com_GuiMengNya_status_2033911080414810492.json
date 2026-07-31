@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2033812497153855998",
+    "created_at": "2026-03-17T14:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T15:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033911080414810492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeihaku8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033911080414810492",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033812497153855998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeihaku8964 校园暴力是这样子，我已经被欺负的麻木了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2033812497153855998",
+        "created_at": "2026-03-17T14:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033911080414810492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeihaku8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033911080414810492",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033812497153855998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeihaku8964 校园暴力是这样子，我已经被欺负的麻木了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2033812497153855998",
+        "created_at": "2026-03-17T07:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T08:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033812497153855998"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2033812497153855998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 359,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想起一個不好的事 上學期我因為天天請假 被舍友造謠說我得艾滋了... 真的 從沒見過這麼噁心的人！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8819,
+          "following_count": 687,
+          "like_count": 10722,
+          "listed_count": 28,
+          "media_count": 1673,
+          "tweet_count": 3934
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "生理男 無證不含糖｜🇹🇼民國97年 ｜梗圖➕建政發瘋號｜🇭🇰粵內勢力愛跨大手子🏳️‍⚧️｜雙相｜哲學社會學研究ing｜🇯🇵日語生\n｜小貓咪:@suimikax\n｜16ちゃん:@x16_46280721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "suimikax"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "x16_46280721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeinobunha…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeinobunhaku",
+                "start": 0,
+                "url": "https://t.co/1MIMTvvFf8"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "インターネット8964",
+        "name": "文芸🍁空白子🍥🇭🇰🇹🇼",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021474583161995271/frgiGN1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 572,
+          "like_count": 9358,
+          "listed_count": 7,
+          "media_count": 501,
+          "tweet_count": 2414
+        },
+        "url": "https://t.co/1MIMTvvFf8",
+        "username": "bungeihaku8964",
+        "verified": true
+      }
+    ]
+  }
+}

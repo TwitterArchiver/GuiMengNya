@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2059387152765702490",
+    "created_at": "2026-05-26T21:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T22:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059387152765702490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dungeon_lab_to…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/dungeon_lab_toy/status/2059238066406269129",
+          "start": 14,
+          "url": "https://t.co/0ApNIN15BB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059387152765702490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059238066406269129",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这招募对象明确指向一类群体 https://t.co/0ApNIN15BB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2019,
+        "media_key": "3_2059233728208265216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPeKl9bYAAOnfK.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2059387152765702490",
+        "created_at": "2026-05-26T21:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T22:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059387152765702490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dungeon_lab_to…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/dungeon_lab_toy/status/2059238066406269129",
+              "start": 14,
+              "url": "https://t.co/0ApNIN15BB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059387152765702490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059238066406269129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这招募对象明确指向一类群体 https://t.co/0ApNIN15BB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059233728208265216"
+          ]
+        },
+        "author_id": "866092386694217728",
+        "conversation_id": "2059238066406269129",
+        "created_at": "2026-05-26T11:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:22:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059233736814944655",
+          "2059238066406269129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0tLsvxTyCr",
+              "end": 144,
+              "expanded_url": "https://x.com/dungeon_lab_toy/status/2059238066406269129/photo/1",
+              "media_key": "3_2059233728208265216",
+              "start": 121,
+              "url": "https://t.co/0tLsvxTyCr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059238066406269129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 36138,
+          "like_count": 179,
+          "quote_count": 13,
+          "reply_count": 38,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "👨🏻‍💻老板：好缺人，真的没时间自己做APP优化，求求了，来人，来人，来人～～～\n📍工作地点：深圳南山\n📭投递邮箱：hr@dungeon-lab.com\n\n🙏🏻大家帮忙扩散下，转抽5个V50疯狂星期四。如果招到合适的，转正之后再来抽奖还愿💕 https://t.co/0tLsvxTyCr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边/人间归梦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10268,
+          "following_count": 695,
+          "like_count": 11496,
+          "listed_count": 30,
+          "media_count": 2244,
+          "tweet_count": 4618
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-21T00:44:51.000Z",
+        "description": "Realise your wildest fantasies Contact Email：service@dungeon-lab.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dungeon-lab.com",
+                "end": 23,
+                "expanded_url": "http://dungeon-lab.com",
+                "start": 0,
+                "url": "https://t.co/iTHP4GErdz"
+              }
+            ]
+          }
+        },
+        "id": "866092386694217728",
+        "name": "DG-LAB 地牢实验室",
+        "pinned_tweet_id": "2026136106752962950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1271694986044518403/z3pTfOsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23957,
+          "following_count": 160,
+          "like_count": 146,
+          "listed_count": 31,
+          "media_count": 46,
+          "tweet_count": 506
+        },
+        "url": "https://t.co/iTHP4GErdz",
+        "username": "dungeon_lab_toy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2036264277561188800",
+    "created_at": "2026-03-24T06:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T07:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036329801636847917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1654536386098364418",
+          "start": 0,
+          "username": "Nicole_yang88"
+        },
+        {
+          "end": 22,
+          "id": "1902568136450424832",
+          "start": 15,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036329801636847917",
+    "in_reply_to_user_id": "1654536386098364418",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036264277561188800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nicole_yang88 @aoim33 赢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2036264277561188800",
+        "created_at": "2026-03-24T06:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T07:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036329801636847917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1654536386098364418",
+              "start": 0,
+              "username": "Nicole_yang88"
+            },
+            {
+              "end": 22,
+              "id": "1902568136450424832",
+              "start": 15,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036329801636847917",
+        "in_reply_to_user_id": "1654536386098364418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036264277561188800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nicole_yang88 @aoim33 赢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654536386098364418",
+        "conversation_id": "2036264277561188800",
+        "created_at": "2026-03-24T02:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T03:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036264277561188800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036264277561188800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 83135,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 154,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "谁能形容下国内就业环境的情况。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9084,
+          "following_count": 695,
+          "like_count": 10925,
+          "listed_count": 29,
+          "media_count": 1788,
+          "tweet_count": 4086
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-05T17:20:01.000Z",
+        "description": "跨境金融实战派｜港美股开户｜全球银行卡｜加密支付路径\n\n拆解信息差，打通资金流\n从0到1搭建你的海外资产体系\n\n资金永不眠 💹\n一起成长，一起闯关 🚀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tala-kang",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@tala-kang",
+                "start": 0,
+                "url": "https://t.co/HSaF7RdlnX"
+              }
+            ]
+          }
+        },
+        "id": "1654536386098364418",
+        "location": "Moon",
+        "name": "泥伏雷闯关记",
+        "pinned_tweet_id": "2032460158350373124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758831860954902528/Sf7BV7PZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17903,
+          "following_count": 2070,
+          "like_count": 2857,
+          "listed_count": 98,
+          "media_count": 2338,
+          "tweet_count": 9442
+        },
+        "url": "https://t.co/HSaF7RdlnX",
+        "username": "Nicole_yang88",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4428,
+          "following_count": 2688,
+          "like_count": 40430,
+          "listed_count": 20,
+          "media_count": 2210,
+          "tweet_count": 9668
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

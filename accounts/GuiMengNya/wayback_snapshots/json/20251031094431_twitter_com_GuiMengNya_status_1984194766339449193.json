@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1984194766339449193",
+    "created_at": "2025-10-31T09:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T10:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984194766339449193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1491429513779359745",
+          "start": 3,
+          "username": "mizuchanqwq"
+        },
+        {
+          "end": 36,
+          "id": "1749569248371023872",
+          "start": 23,
+          "username": "Eureka222323"
+        },
+        {
+          "end": 53,
+          "id": "1810415881530597377",
+          "start": 44,
+          "username": "fwouo114"
+        },
+        {
+          "end": 70,
+          "id": "1690570637499154432",
+          "start": 61,
+          "username": "saonanaa"
+        },
+        {
+          "end": 86,
+          "id": "1593799138893873152",
+          "start": 78,
+          "username": "Yujiudu"
+        },
+        {
+          "end": 108,
+          "id": "1857802986837172224",
+          "start": 94,
+          "username": "LingJiaXin233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/guimengnya/sta…",
+          "end": 138,
+          "expanded_url": "https://twitter.com/guimengnya/status/1975252576531804428",
+          "start": 115,
+          "url": "https://t.co/p2RkUqc8tA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984194766339449193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975252576531804428",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "1. @mizuchanqwq 蓝粉白\n2. @Eureka222323 蓝粉白\n3. @fwouo114 蓝粉白\n4. @saonanaa fes\n5. @Yujiudu uni\n6. @LingJiaXin233 prism https://t.co/p2RkUqc8tA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1975252397191798784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2mBlwRbIAAhofo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1975252397162438657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2mBlwKbIAExnRg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1975252397158244357",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2mBlwJbIAUha-H.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1975252397137272836",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2mBlwEbIAQzbTa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1984194766339449193",
+        "created_at": "2025-10-31T09:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T10:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984194766339449193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1491429513779359745",
+              "start": 3,
+              "username": "mizuchanqwq"
+            },
+            {
+              "end": 36,
+              "id": "1749569248371023872",
+              "start": 23,
+              "username": "Eureka222323"
+            },
+            {
+              "end": 53,
+              "id": "1810415881530597377",
+              "start": 44,
+              "username": "fwouo114"
+            },
+            {
+              "end": 70,
+              "id": "1690570637499154432",
+              "start": 61,
+              "username": "saonanaa"
+            },
+            {
+              "end": 86,
+              "id": "1593799138893873152",
+              "start": 78,
+              "username": "Yujiudu"
+            },
+            {
+              "end": 108,
+              "id": "1857802986837172224",
+              "start": 94,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/guimengnya/sta…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/guimengnya/status/1975252576531804428",
+              "start": 115,
+              "url": "https://t.co/p2RkUqc8tA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984194766339449193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975252576531804428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1. @mizuchanqwq 蓝粉白\n2. @Eureka222323 蓝粉白\n3. @fwouo114 蓝粉白\n4. @saonanaa fes\n5. @Yujiudu uni\n6. @LingJiaXin233 prism https://t.co/p2RkUqc8tA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975252397191798784",
+            "3_1975252397162438657",
+            "3_1975252397158244357",
+            "3_1975252397137272836"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "1975252576531804428",
+        "created_at": "2025-10-06T17:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T18:30:46.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975252406108897582",
+          "1975252576531804428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GqpVePcOnN",
+              "end": 139,
+              "expanded_url": "https://x.com/GuiMengNya/status/1975252576531804428/photo/1",
+              "media_key": "3_1975252397191798784",
+              "start": 116,
+              "url": "https://t.co/GqpVePcOnN"
+            },
+            {
+              "display_url": "pic.x.com/GqpVePcOnN",
+              "end": 139,
+              "expanded_url": "https://x.com/GuiMengNya/status/1975252576531804428/photo/1",
+              "media_key": "3_1975252397162438657",
+              "start": 116,
+              "url": "https://t.co/GqpVePcOnN"
+            },
+            {
+              "display_url": "pic.x.com/GqpVePcOnN",
+              "end": 139,
+              "expanded_url": "https://x.com/GuiMengNya/status/1975252576531804428/photo/1",
+              "media_key": "3_1975252397158244357",
+              "start": 116,
+              "url": "https://t.co/GqpVePcOnN"
+            },
+            {
+              "display_url": "pic.x.com/GqpVePcOnN",
+              "end": 139,
+              "expanded_url": "https://x.com/GuiMengNya/status/1975252576531804428/photo/1",
+              "media_key": "3_1975252397137272836",
+              "start": 116,
+              "url": "https://t.co/GqpVePcOnN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975252576531804428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6879,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "1300fo 祝贺(*・∀・*)🎉\n好久没抽奖啦，抽点 wmc 喜欢的 aime 卡，转发➕关注➕点赞➕评论参加\n蓝粉白 aime*3\nfes 十周年*1\nuniverse*1\nprism 竖版*1\n10.30 开奖，全世界包邮喵 https://t.co/GqpVePcOnN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1982061018953232844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 310,
+          "like_count": 5387,
+          "listed_count": 7,
+          "media_count": 150,
+          "tweet_count": 1710
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-09T15:11:30.000Z",
+        "description": "用天真活潑的心感動世界 | 常駐東京都市圈可隨時貼貼 | 永遠是一隻可愛的小貓qwq | 🍬: @yuzuchanqwq 🥺🐱❤️ | #永住許可の取消しに反対します",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 68,
+                "tag": "永住許可の取消しに反対します"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "yuzuchanqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/vr_central",
+                "end": 23,
+                "expanded_url": "https://t.me/vr_central",
+                "start": 0,
+                "url": "https://t.co/kVmSAxROHz"
+              }
+            ]
+          }
+        },
+        "id": "1491429513779359745",
+        "location": "born&live 🇯🇵 | 貓屬橫濱",
+        "name": "若水醬🍥",
+        "pinned_tweet_id": "1963167021090173238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978110584110342145/GAh3NpUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 2223,
+          "like_count": 87362,
+          "listed_count": 8,
+          "media_count": 2021,
+          "tweet_count": 10561
+        },
+        "url": "https://t.co/kVmSAxROHz",
+        "username": "mizuchanqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T23:06:35.000Z",
+        "description": "HK 18｜孤独｜没有希望｜一只老鼠｜@FoxRed695449❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "FoxRed695449"
+              }
+            ]
+          }
+        },
+        "id": "1749569248371023872",
+        "location": "空洞",
+        "name": "优莱卡Eureka 阮玲玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749569308483878912/IAnVW-uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1891,
+          "like_count": 59348,
+          "listed_count": 3,
+          "media_count": 829,
+          "tweet_count": 11080
+        },
+        "username": "Eureka222323",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-08T20:50:50.000Z",
+        "description": "我是人｜He/him｜住在🇨🇦(不要羨慕)｜不是中共國人｜年齡自己猜｜時區UTC-3（會變)｜友跨｜反共｜台獨(不支持也不反對綠或藍)｜mai/チュウニズム/phigros/adofai音遊痴(音ゲーマー)｜language：中文😄English🙂日本語🧐都說不好請見諒｜我們懷念他@Kazumasski 🪦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 141,
+                "username": "Kazumasski"
+              }
+            ]
+          }
+        },
+        "id": "1810415881530597377",
+        "location": "加拿大某個破地方",
+        "name": "fwouo🇹🇼🇹🇼🇹🇼🇹🇼🇹🇼🇹🇼",
+        "pinned_tweet_id": "1981375541400772638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898156233766453248/AGzoEJ03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 947,
+          "like_count": 28040,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 878
+        },
+        "username": "fwouo114",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei｜高贵顺直男不翻车不女装｜大坏猫 @sxshuishuimao｜好无聊但什么都不想干｜浙江穷入 & 欢迎来找我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "sxshuishuimao"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei ～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974829533883965440/MJCFXSiI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6283,
+          "following_count": 425,
+          "like_count": 32535,
+          "listed_count": 15,
+          "media_count": 2028,
+          "tweet_count": 18216
+        },
+        "username": "saonanaa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "千江有水映月光 風拂君襟侧挽袖\n红叶散尽冬已至 风月无边夜未央\n买🍬可以找找@Minokakay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "Minokakay"
+              }
+            ]
+          }
+        },
+        "id": "1593799138893873152",
+        "location": "浙江",
+        "name": "風月无边夜未央",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922026234634182656/rMjrx4Fz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3228,
+          "following_count": 2689,
+          "like_count": 31536,
+          "listed_count": 8,
+          "media_count": 1017,
+          "tweet_count": 6559
+        },
+        "username": "Yujiudu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 395,
+          "like_count": 5726,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2050
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      }
+    ]
+  }
+}

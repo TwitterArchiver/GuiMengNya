@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2007009734331871268",
+    "created_at": "2026-01-02T12:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T13:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007061827898032606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993455710274043905",
+          "start": 0,
+          "username": "satireorcry1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007061827898032606",
+    "in_reply_to_user_id": "1993455710274043905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007009734331871268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satireorcry1 谁让你用hdr头像了，眼睛瞎了😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6058,
+        "height": 480,
+        "media_key": "13_2007009723011190784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007009723011190784/img/rgOzrt-kXsfTalqW.jpg",
+        "public_metrics": {
+          "view_count": 2241
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007009723011190784/vid/avc1/320x320/myPFmIWh09bnQ7Pw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007009723011190784/vid/avc1/480x480/uZcqZhgYk08iAvLu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007009723011190784/pl/wGbGOJKsiphvBoDo.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2007009734331871268",
+        "created_at": "2026-01-02T12:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T13:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007061827898032606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993455710274043905",
+              "start": 0,
+              "username": "satireorcry1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007061827898032606",
+        "in_reply_to_user_id": "1993455710274043905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007009734331871268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satireorcry1 谁让你用hdr头像了，眼睛瞎了😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007009723011190784"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2007009734331871268",
+        "created_at": "2026-01-02T08:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T09:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007009734331871268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZsCafzwSMw",
+              "end": 37,
+              "expanded_url": "https://x.com/satireorcry1/status/2007009734331871268/video/1",
+              "media_key": "13_2007009723011190784",
+              "start": 14,
+              "url": "https://t.co/ZsCafzwSMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007009734331871268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 4891,
+          "like_count": 116,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "给你们看看这哥仨的私生活！ https://t.co/ZsCafzwSMw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3396,
+          "following_count": 341,
+          "like_count": 7565,
+          "listed_count": 15,
+          "media_count": 585,
+          "tweet_count": 2447
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "不好意思，我复活了",
+        "id": "1993455710274043905",
+        "location": "小池塘",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2002574746295152781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 455,
+          "like_count": 411,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 171
+        },
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2032473483352195102",
+    "created_at": "2026-03-14T06:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T07:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032707076800262190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1817959860249706497",
+          "start": 0,
+          "username": "jnchn115125"
+        },
+        {
+          "end": 22,
+          "id": "1928386560036306944",
+          "start": 13,
+          "username": "zhoudied"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032707076800262190",
+    "in_reply_to_user_id": "1817959860249706497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032473483352195102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jnchn115125 @zhoudied 咕咕嘎嘎"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15139,
+        "height": 1280,
+        "media_key": "7_2032473443296542720",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2032473443296542720/pu/img/wN_F6Hi9jbZ7Xlgi.jpg",
+        "public_metrics": {
+          "view_count": 239
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2032473443296542720/pu/vid/avc1/320x568/ai9MqDk6MgPumqZ8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2032473443296542720/pu/vid/avc1/480x852/LkDLrE9YbEB8JSVw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2032473443296542720/pu/vid/avc1/720x1280/qvJdZUNnydzhRg82.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2032473443296542720/pu/pl/fTs_U5__ZlQQSVhA.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2032473483352195102",
+        "created_at": "2026-03-14T06:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T07:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032707076800262190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1817959860249706497",
+              "start": 0,
+              "username": "jnchn115125"
+            },
+            {
+              "end": 22,
+              "id": "1928386560036306944",
+              "start": 13,
+              "username": "zhoudied"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032707076800262190",
+        "in_reply_to_user_id": "1817959860249706497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032473483352195102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jnchn115125 @zhoudied 咕咕嘎嘎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2032473443296542720"
+          ]
+        },
+        "author_id": "1817959860249706497",
+        "conversation_id": "2032473483352195102",
+        "created_at": "2026-03-13T15:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032473483352195102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vFt2cuqF0B",
+              "end": 55,
+              "expanded_url": "https://x.com/jnchn115125/status/2032473483352195102/video/1",
+              "media_key": "7_2032473443296542720",
+              "start": 32,
+              "url": "https://t.co/vFt2cuqF0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032473483352195102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 584,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "受不了了咋这么萌🥺\n我现在跟我奶看ai小孩视频一样只会嘎嘎傻乐 https://t.co/vFt2cuqF0B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8641,
+          "following_count": 694,
+          "like_count": 10686,
+          "listed_count": 26,
+          "media_count": 1620,
+          "tweet_count": 3867
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-29T16:26:38.000Z",
+        "description": "特此声明：此账号在网络上所有的攻击性和冒犯性语言文字均非本人发布，是我家猫发的，它四个爪子，打字比我快 \n邪恶二号机：@VanillaArana",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "VanillaArana"
+              }
+            ]
+          }
+        },
+        "id": "1817959860249706497",
+        "location": "赫尔·沙雷姆兹罗特",
+        "name": "Ayanami",
+        "pinned_tweet_id": "1920898780892704824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007028020255862784/lbmywfqv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 635,
+          "like_count": 956,
+          "listed_count": 2,
+          "media_count": 382,
+          "tweet_count": 2514
+        },
+        "username": "jnchn115125",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T09:42:44.000Z",
+        "description": "°˖✧°.༘ نسيت حبيبي ♪𝄞₊˚⊹",
+        "id": "1928386560036306944",
+        "location": "哈萨克",
+        "name": "₊˚⊹琳下夕阳⋆˚𝜗𝜚˚⋆",
+        "pinned_tweet_id": "2025919580976402632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025912205506666496/gsO7ndPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 523,
+          "like_count": 7323,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 3404
+        },
+        "username": "zhoudied",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1966688274073759984",
+    "created_at": "2025-09-13T02:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T03:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966688274073759984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1555888810700836865",
+          "start": 3,
+          "username": "Lonnet_Official"
+        },
+        {
+          "end": 33,
+          "id": "1945451513297657856",
+          "start": 21,
+          "username": "huchenfeng_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966688274073759984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966648144428757023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lonnet_Official: @huchenfeng_ 大部分人都是那个差生，差生在中国社会从小到大都忍受着无形的暴力，中国的教育便是以公平高考之名行偏执的暴力之实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1966688274073759984",
+        "created_at": "2025-09-13T02:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T03:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966688274073759984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1555888810700836865",
+              "start": 3,
+              "username": "Lonnet_Official"
+            },
+            {
+              "end": 33,
+              "id": "1945451513297657856",
+              "start": 21,
+              "username": "huchenfeng_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966688274073759984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966648144428757023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lonnet_Official: @huchenfeng_ 大部分人都是那个差生，差生在中国社会从小到大都忍受着无形的暴力，中国的教育便是以公平高考之名行偏执的暴力之实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555888810700836865",
+        "conversation_id": "1966645489895698855",
+        "created_at": "2025-09-12T23:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T00:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966648144428757023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1945451513297657856",
+              "start": 0,
+              "username": "huchenfeng_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966648144428757023",
+        "in_reply_to_user_id": "1945451513297657856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2005,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966645489895698855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huchenfeng_ 大部分人都是那个差生，差生在中国社会从小到大都忍受着无形的暴力，中国的教育便是以公平高考之名行偏执的暴力之实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」/家长不管党/坐标浙江/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/要一直哦@future080712/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 36,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "future080712"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 255,
+          "like_count": 4171,
+          "listed_count": 7,
+          "media_count": 127,
+          "tweet_count": 1385
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-06T12:09:52.000Z",
+        "description": "Mail：kirasamelonnet@gmail.com 在虚无中寻找自我价值",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/vHyyS3f",
+                "end": 23,
+                "expanded_url": "https://b23.tv/vHyyS3f",
+                "start": 0,
+                "url": "https://t.co/FNGo8KCP2C"
+              }
+            ]
+          }
+        },
+        "id": "1555888810700836865",
+        "location": "China",
+        "name": "Lonnet",
+        "pinned_tweet_id": "1961952208205042047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725707400030859264/C-NT6pZM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 474,
+          "like_count": 3434,
+          "listed_count": 1,
+          "media_count": 711,
+          "tweet_count": 3927
+        },
+        "url": "https://t.co/FNGo8KCP2C",
+        "username": "Lonnet_Official",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T11:52:48.000Z",
+        "description": "著名视频博主 著名娱乐主播 私募基金研究员 慎防假冒账号",
+        "id": "1945451513297657856",
+        "location": "成都",
+        "name": "户晨风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945451740255629312/1aBmYiQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4700,
+          "following_count": 7,
+          "like_count": 10,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 49
+        },
+        "username": "huchenfeng_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1961064125313986574",
+    "created_at": "2025-08-28T14:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T15:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961079078339109045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1929360823001972736",
+          "start": 0,
+          "username": "future080712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961079078339109045",
+    "in_reply_to_user_id": "1929360823001972736",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961076615741403630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@future080712 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1961064125313986574",
+        "created_at": "2025-08-28T14:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T15:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961079078339109045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1929360823001972736",
+              "start": 0,
+              "username": "future080712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961079078339109045",
+        "in_reply_to_user_id": "1929360823001972736",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961076615741403630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@future080712 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929360823001972736",
+        "conversation_id": "1961064125313986574",
+        "created_at": "2025-08-28T14:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T15:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961076615741403630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961076615741403630",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961064125313986574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 我也想 ，这个世界一点都不好😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/含妈量极高/希望成为全能一点的人/我的对象在哪里(伤心)/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1958099553724362948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 237,
+          "like_count": 3623,
+          "listed_count": 6,
+          "media_count": 123,
+          "tweet_count": 1235
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T02:14:26.000Z",
+        "description": "08🍥‖青岛城阳的🍥出来玩呀",
+        "id": "1929360823001972736",
+        "name": "future🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1938499319507701853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946959051402706944/uvqPhuOa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 61,
+          "like_count": 354,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 149
+        },
+        "username": "future080712",
+        "verified": false
+      }
+    ]
+  }
+}

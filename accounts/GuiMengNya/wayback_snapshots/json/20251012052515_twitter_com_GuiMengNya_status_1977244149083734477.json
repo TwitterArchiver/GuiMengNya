@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1977239715486351756",
+    "created_at": "2025-10-12T05:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T06:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977244149083734477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1766858890636120064",
+          "start": 0,
+          "username": "Nuominiang75884"
+        },
+        {
+          "end": 26,
+          "id": "1690570637499154432",
+          "start": 17,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977244149083734477",
+    "in_reply_to_user_id": "1766858890636120064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977244076174196981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nuominiang75884 @saonanaa 惨喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1977239715486351756",
+        "created_at": "2025-10-12T05:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T06:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977244149083734477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1766858890636120064",
+              "start": 0,
+              "username": "Nuominiang75884"
+            },
+            {
+              "end": 26,
+              "id": "1690570637499154432",
+              "start": 17,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977244149083734477",
+        "in_reply_to_user_id": "1766858890636120064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977244076174196981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nuominiang75884 @saonanaa 惨喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "1977239715486351756",
+        "created_at": "2025-10-12T05:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T06:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977244076174196981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saonanaa"
+            },
+            {
+              "end": 21,
+              "id": "1685499489493323776",
+              "start": 10,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977244076174196981",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977243864131158231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saonanaa @GuiMengNya 下次从学校里出来要17号了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 292,
+          "like_count": 4644,
+          "listed_count": 7,
+          "media_count": 139,
+          "tweet_count": 1567
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "等到来年春天，草长莺飞的时候，我们会再次相聚那片金色的原野上 /08.11.23/hrt2023.5.12/摄影📷/精神病学",
+        "id": "1766858890636120064",
+        "location": "美国 洛杉矶 Echo Park Ave大街2236号",
+        "name": "糯米娘🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1975495703230357771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906216622500573184/kaHJHOEs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3783,
+          "following_count": 1469,
+          "like_count": 18284,
+          "listed_count": 4,
+          "media_count": 299,
+          "tweet_count": 2694
+        },
+        "username": "Nuominiang75884",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei｜男的 & 未翻车 & 不是男娘永不女装｜好无聊但什么都不想干｜浙江穷入 & 欢迎来找我玩",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei ～",
+        "pinned_tweet_id": "1975222550444785680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974829533883965440/MJCFXSiI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6299,
+          "following_count": 427,
+          "like_count": 33257,
+          "listed_count": 16,
+          "media_count": 1996,
+          "tweet_count": 18031
+        },
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

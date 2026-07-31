@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987499039982858240",
+        "3_1987499039991193600"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1987499051395526738",
+    "created_at": "2025-11-09T12:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T13:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987499051395526738"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BnaMTI3GrV",
+          "end": 38,
+          "expanded_url": "https://x.com/GuiMengNya/status/1987499051395526738/photo/1",
+          "media_key": "3_1987499039982858240",
+          "start": 15,
+          "url": "https://t.co/BnaMTI3GrV"
+        },
+        {
+          "display_url": "pic.x.com/BnaMTI3GrV",
+          "end": 38,
+          "expanded_url": "https://x.com/GuiMengNya/status/1987499051395526738/photo/1",
+          "media_key": "3_1987499039991193600",
+          "start": 15,
+          "url": "https://t.co/BnaMTI3GrV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987499051395526738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得杭州新丰小吃也很好吃🥺 https://t.co/BnaMTI3GrV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 293,
+        "media_key": "3_1987499039982858240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5UD2L2bsAA362b.jpg",
+        "width": 632
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1987499039991193600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5UD2L4a4AArXan.jpg",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987499039982858240",
+            "3_1987499039991193600"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1987499051395526738",
+        "created_at": "2025-11-09T12:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T13:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987499051395526738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BnaMTI3GrV",
+              "end": 38,
+              "expanded_url": "https://x.com/GuiMengNya/status/1987499051395526738/photo/1",
+              "media_key": "3_1987499039982858240",
+              "start": 15,
+              "url": "https://t.co/BnaMTI3GrV"
+            },
+            {
+              "display_url": "pic.x.com/BnaMTI3GrV",
+              "end": 38,
+              "expanded_url": "https://x.com/GuiMengNya/status/1987499051395526738/photo/1",
+              "media_key": "3_1987499039991193600",
+              "start": 15,
+              "url": "https://t.co/BnaMTI3GrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987499051395526738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得杭州新丰小吃也很好吃🥺 https://t.co/BnaMTI3GrV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/幸福快快降临我身边/ 见证人类多样性",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1977091161212043555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 317,
+          "like_count": 6091,
+          "listed_count": 7,
+          "media_count": 193,
+          "tweet_count": 1841
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

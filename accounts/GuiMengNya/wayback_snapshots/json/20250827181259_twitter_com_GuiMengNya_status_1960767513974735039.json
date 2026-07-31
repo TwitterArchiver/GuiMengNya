@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1960579340095431072",
+    "created_at": "2025-08-27T18:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T19:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960767513974735039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1372184630753853444",
+          "start": 0,
+          "username": "2temisinin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960767513974735039",
+    "in_reply_to_user_id": "1372184630753853444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960579340095431072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2temisinin 我手里头有一套公章）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1960579331337674752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzVgg6Za4AA-ju8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1960579340095431072",
+        "created_at": "2025-08-27T18:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T19:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960767513974735039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1372184630753853444",
+              "start": 0,
+              "username": "2temisinin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960767513974735039",
+        "in_reply_to_user_id": "1372184630753853444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960579340095431072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2temisinin 我手里头有一套公章）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960579331337674752"
+          ]
+        },
+        "author_id": "1372184630753853444",
+        "conversation_id": "1960579340095431072",
+        "created_at": "2025-08-27T05:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T06:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960579340095431072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6zOGfb0qz4",
+              "end": 36,
+              "expanded_url": "https://x.com/2temisinin/status/1960579340095431072/photo/1",
+              "media_key": "3_1960579331337674752",
+              "start": 13,
+              "url": "https://t.co/6zOGfb0qz4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960579340095431072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1952,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以为自己在玩权力的游戏（ https://t.co/6zOGfb0qz4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/含妈量极高/希望成为全能一点的人/我的对象在哪里(伤心)/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1958099553724362948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 237,
+          "like_count": 3614,
+          "listed_count": 6,
+          "media_count": 123,
+          "tweet_count": 1231
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T13:54:56.000Z",
+        "description": "最爱@haku_dabai｜一只黎博利｜HAM BH6RQG｜Wuhan｜Nikon｜Bioscience｜Aerospace",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1372184630753853444",
+        "location": "罗德岛",
+        "name": "绿鸮西泮",
+        "pinned_tweet_id": "1954206496700649679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948030569415315456/Vp5WQ8_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2882,
+          "following_count": 1696,
+          "like_count": 35676,
+          "listed_count": 4,
+          "media_count": 404,
+          "tweet_count": 3469
+        },
+        "username": "2temisinin",
+        "verified": false
+      }
+    ]
+  }
+}

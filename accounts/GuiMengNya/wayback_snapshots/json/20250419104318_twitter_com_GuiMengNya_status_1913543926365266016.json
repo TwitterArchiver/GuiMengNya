@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1913173552263794940",
+    "created_at": "2025-04-19T10:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T11:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913543926365266016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1593799138893873152",
+          "start": 0,
+          "username": "Yujiudu"
+        },
+        {
+          "end": 18,
+          "id": "1690570637499154432",
+          "start": 9,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913543926365266016",
+    "in_reply_to_user_id": "1593799138893873152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913260157645230138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yujiudu @saonanaa 那就送我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1913173552263794940",
+        "created_at": "2025-04-19T10:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T11:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913543926365266016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Yujiudu"
+            },
+            {
+              "end": 18,
+              "id": "1690570637499154432",
+              "start": 9,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913543926365266016",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913260157645230138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yujiudu @saonanaa 那就送我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593799138893873152",
+        "conversation_id": "1913173552263794940",
+        "created_at": "2025-04-18T15:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T16:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913260157645230138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913260157645230138",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913253392694284610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saonanaa 这个其实…我也不是很差钱\n主要是看友情啦awa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "R.I.P./06.11.15/坐标杭州/家长不管党/性别未知mtm/x/f，重度焦虑重度抑郁疑似双向，喜欢机车，不接线下，#INTJ，音游摆烂，不管怎么说都是不折不扣的纯爱党！好妹妹@cyanide110705，是@xiaoyeluo姐姐的猫猫，5.2元包养的小可爱@GriseoQAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 62,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "cyanide110705"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "xiaoyeluo"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "GriseoQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦",
+        "pinned_tweet_id": "1908994587584319596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896591167699169280/G6AHL3FY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 209,
+          "like_count": 3218,
+          "listed_count": 7,
+          "media_count": 103,
+          "tweet_count": 983
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "千江有水映月光  風拂君襟侧挽袖\n最是浮莲胸欲漾  自由心自在天宵",
+        "id": "1593799138893873152",
+        "location": "浙江",
+        "name": "Yujiudu_千江風月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863991979996336128/OY_9Nxz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3194,
+          "following_count": 3021,
+          "like_count": 25806,
+          "listed_count": 6,
+          "media_count": 896,
+          "tweet_count": 5553
+        },
+        "username": "Yujiudu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "我的简介就是我自己",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "1912179262884569254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909077249778950144/qMpk70Sg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2856,
+          "following_count": 339,
+          "like_count": 20607,
+          "listed_count": 15,
+          "media_count": 1200,
+          "tweet_count": 11312
+        },
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2009708427241763114",
+    "created_at": "2026-01-10T09:02:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T10:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009913761105412096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1381867402141442053",
+          "start": 0,
+          "username": "DarkLin68988814"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009913761105412096",
+    "in_reply_to_user_id": "1381867402141442053",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009877734529647086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DarkLin68988814 💦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2009708427241763114",
+        "created_at": "2026-01-10T09:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T10:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009913761105412096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1381867402141442053",
+              "start": 0,
+              "username": "DarkLin68988814"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009913761105412096",
+        "in_reply_to_user_id": "1381867402141442053",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009877734529647086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DarkLin68988814 💦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1381867402141442053",
+        "conversation_id": "2009708427241763114",
+        "created_at": "2026-01-10T06:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T07:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009877734529647086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009877734529647086",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1050,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009708427241763114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 啊 我的关注列表里居然有这么神奇的内容"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4102,
+          "following_count": 459,
+          "like_count": 8135,
+          "listed_count": 16,
+          "media_count": 691,
+          "tweet_count": 2625
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-13T07:10:46.000Z",
+        "description": "Low USDT Life In China👍\nWeb3 生存实录💕",
+        "id": "1381867402141442053",
+        "location": "United States",
+        "name": "奶龙弟弟.NaiLong（互关）（follow back）",
+        "pinned_tweet_id": "2009621408863899659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989918693170802688/H2A3sscx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 1063,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1265
+        },
+        "username": "DarkLin68988814",
+        "verified": true
+      }
+    ]
+  }
+}

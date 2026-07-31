@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1938503505716838794",
+    "created_at": "2025-06-28T04:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T05:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938821778547351937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862018067691413504",
+          "start": 0,
+          "username": "baka8964qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938821778547351937",
+    "in_reply_to_user_id": "1862018067691413504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938503505716838794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baka8964qwq 首先排除最后一张图"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938503498192367617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubyqTWbsAEbLu6.jpg",
+        "width": 1325
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938503498196520962",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubyqTXbEAIcEI1.jpg",
+        "width": 1325
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938503499932962820",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubyqZ1bEAQQV-Y.jpg",
+        "width": 1325
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938503498234253312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubyqTga0AAdU-_.jpg",
+        "width": 1325
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1938503505716838794",
+        "created_at": "2025-06-28T04:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T05:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938821778547351937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862018067691413504",
+              "start": 0,
+              "username": "baka8964qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938821778547351937",
+        "in_reply_to_user_id": "1862018067691413504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938503505716838794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baka8964qwq 首先排除最后一张图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938503498192367617",
+            "3_1938503498196520962",
+            "3_1938503499932962820",
+            "3_1938503498234253312"
+          ]
+        },
+        "author_id": "1862018067691413504",
+        "conversation_id": "1938503505716838794",
+        "created_at": "2025-06-27T07:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T08:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938503505716838794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1qhW50xA6C",
+              "end": 31,
+              "expanded_url": "https://x.com/baka8964qwq/status/1938503505716838794/photo/1",
+              "media_key": "3_1938503498192367617",
+              "start": 8,
+              "url": "https://t.co/1qhW50xA6C"
+            },
+            {
+              "display_url": "pic.x.com/1qhW50xA6C",
+              "end": 31,
+              "expanded_url": "https://x.com/baka8964qwq/status/1938503505716838794/photo/1",
+              "media_key": "3_1938503498196520962",
+              "start": 8,
+              "url": "https://t.co/1qhW50xA6C"
+            },
+            {
+              "display_url": "pic.x.com/1qhW50xA6C",
+              "end": 31,
+              "expanded_url": "https://x.com/baka8964qwq/status/1938503505716838794/photo/1",
+              "media_key": "3_1938503499932962820",
+              "start": 8,
+              "url": "https://t.co/1qhW50xA6C"
+            },
+            {
+              "display_url": "pic.x.com/1qhW50xA6C",
+              "end": 31,
+              "expanded_url": "https://x.com/baka8964qwq/status/1938503505716838794/photo/1",
+              "media_key": "3_1938503498234253312",
+              "start": 8,
+              "url": "https://t.co/1qhW50xA6C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938503505716838794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 13804,
+          "like_count": 160,
+          "quote_count": 2,
+          "reply_count": 45,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "請選擇你的台灣 https://t.co/1qhW50xA6C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/坐标杭州/家长不管党/坐标杭州/精神比你正常就对了/喜欢音游，机车/#INTJ/含妈量极高/好妹妹@shadow110705🩷@cyansoul2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 44,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "shadow110705"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "cyansoul2"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1923775268247969838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 231,
+          "like_count": 3592,
+          "listed_count": 6,
+          "media_count": 117,
+          "tweet_count": 1150
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T06:18:03.000Z",
+        "description": "00後男生【左翼三民主義🇹🇼】【進步主義/社會民主主義🌹】【社會自由主義🗽】【對🏳️‍🌈🏳️‍⚧️友好】【自由泛亞主義🇰🇷🇹🇼🇯🇵】【中立主義⚖️（偏自由派）】【和平主義🌍🌏🌎🇺🇦❤️🇵🇸🤝🇮🇱】【繁體/簡體/English/日本語】 日常號及逃生艙：@Milkqwq666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 126,
+                "username": "Milkqwq666"
+              }
+            ]
+          }
+        },
+        "id": "1862018067691413504",
+        "location": "Australia",
+        "name": "baka（互fo）🇹🇼🇯🇵🇦🇺🇺🇦🌹🚩",
+        "pinned_tweet_id": "1937123300263801058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926493715050213376/BEWaspK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 1116,
+          "like_count": 4472,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1414
+        },
+        "username": "baka8964qwq",
+        "verified": false
+      }
+    ]
+  }
+}

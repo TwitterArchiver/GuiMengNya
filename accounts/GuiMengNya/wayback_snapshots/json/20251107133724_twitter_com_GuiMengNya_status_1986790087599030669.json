@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1986379562939523487",
+    "created_at": "2025-11-07T13:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T14:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986790087599030669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1503833617172254726",
+          "start": 0,
+          "username": "zuoxiajiaodesh1"
+        },
+        {
+          "end": 29,
+          "id": "1972236525191720960",
+          "start": 17,
+          "username": "dao_bei5670"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986790087599030669",
+    "in_reply_to_user_id": "1503833617172254726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986634018000150939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuoxiajiaodesh1 @dao_bei5670 没有的，我只是表述自己的真情实感，怎么会有人加我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1986379562939523487",
+        "created_at": "2025-11-07T13:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T14:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986790087599030669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1503833617172254726",
+              "start": 0,
+              "username": "zuoxiajiaodesh1"
+            },
+            {
+              "end": 29,
+              "id": "1972236525191720960",
+              "start": 17,
+              "username": "dao_bei5670"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986790087599030669",
+        "in_reply_to_user_id": "1503833617172254726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986634018000150939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuoxiajiaodesh1 @dao_bei5670 没有的，我只是表述自己的真情实感，怎么会有人加我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503833617172254726",
+        "conversation_id": "1986379562939523487",
+        "created_at": "2025-11-07T03:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T04:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986634018000150939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            },
+            {
+              "end": 24,
+              "id": "1972236525191720960",
+              "start": 12,
+              "username": "dao_bei5670"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986634018000150939",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986451224905044297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya @dao_bei5670 主播你这么发有人加你吗？有人加我也发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1977091161212043555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 316,
+          "like_count": 5858,
+          "listed_count": 7,
+          "media_count": 171,
+          "tweet_count": 1802
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-15T20:41:14.000Z",
+        "description": "私信不是本人发的，是孩子发着玩的，但请你千万一定一定不要不要不要不要不挂我",
+        "id": "1503833617172254726",
+        "location": "距离你0.4公里",
+        "name": "为什么有人会这么帅呢？简直是本人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803525998450974721/zW7-p543_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 330,
+          "like_count": 1185,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 738
+        },
+        "username": "zuoxiajiaodesh1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T09:47:01.000Z",
+        "description": "軍艦愛好者⚓/熱愛日本二戰軍艦以及二次元艦娘/也是一個女裝愛好者/自由中國萬歲/祝台日友誼長存🇹🇼🇯🇵",
+        "id": "1972236525191720960",
+        "location": "佐世保鎮守府",
+        "name": "北島さん⚓",
+        "pinned_tweet_id": "1982772834704478309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982057878568439808/f1Vl_nCL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 320,
+          "like_count": 3814,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 313
+        },
+        "username": "dao_bei5670",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1977228741706477822",
+    "created_at": "2025-10-12T08:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T09:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977284280343806011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1964550056666943488",
+          "start": 0,
+          "username": "cjyrajsjxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977284280343806011",
+    "in_reply_to_user_id": "1964550056666943488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977283976072229015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cjyrajsjxy 可以的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1977228741706477822",
+        "created_at": "2025-10-12T08:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T09:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977284280343806011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1964550056666943488",
+              "start": 0,
+              "username": "cjyrajsjxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977284280343806011",
+        "in_reply_to_user_id": "1964550056666943488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977283976072229015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cjyrajsjxy 可以的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964550056666943488",
+        "conversation_id": "1977228741706477822",
+        "created_at": "2025-10-12T08:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T09:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977283976072229015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977283976072229015",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977228741706477822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 除了愚昧和普瑞其他的能一起买嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 293,
+          "like_count": 4667,
+          "listed_count": 7,
+          "media_count": 139,
+          "tweet_count": 1573
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-07T04:43:37.000Z",
+        "description": "直fo会回",
+        "id": "1964550056666943488",
+        "location": "西安",
+        "name": "Поздно",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976777446654722048/ND64FwK4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 52,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 133
+        },
+        "username": "cjyrajsjxy",
+        "verified": false
+      }
+    ]
+  }
+}

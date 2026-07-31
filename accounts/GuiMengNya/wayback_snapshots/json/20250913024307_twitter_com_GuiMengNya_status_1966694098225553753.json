@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1966351210669388188",
+    "created_at": "2025-09-13T02:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T03:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966694098225553753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1800187459659239424",
+          "start": 0,
+          "username": "lnbo2761841"
+        },
+        {
+          "end": 23,
+          "id": "1321471835058233345",
+          "start": 13,
+          "username": "enoly_gay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966694098225553753",
+    "in_reply_to_user_id": "1800187459659239424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966665392484733157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnbo2761841 @enoly_gay 你们这种人迟早成为一百五十岁的下一个器官"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1966351210669388188",
+        "created_at": "2025-09-13T02:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T03:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966694098225553753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1800187459659239424",
+              "start": 0,
+              "username": "lnbo2761841"
+            },
+            {
+              "end": 23,
+              "id": "1321471835058233345",
+              "start": 13,
+              "username": "enoly_gay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966694098225553753",
+        "in_reply_to_user_id": "1800187459659239424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966665392484733157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnbo2761841 @enoly_gay 你们这种人迟早成为一百五十岁的下一个器官"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800187459659239424",
+        "conversation_id": "1966351210669388188",
+        "created_at": "2025-09-13T00:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T01:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966665392484733157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1321471835058233345",
+              "start": 0,
+              "username": "enoly_gay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966665392484733157",
+        "in_reply_to_user_id": "1321471835058233345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966351210669388188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enoly_gay 现在的反贼跟下水道 里的老鼠有什么区别，只敢在厕所，晚上的桥底，没人的河边出现。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」/家长不管党/坐标浙江/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/要一直哦@future080712/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 36,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "future080712"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 255,
+          "like_count": 4173,
+          "listed_count": 7,
+          "media_count": 127,
+          "tweet_count": 1387
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T15:25:31.000Z",
+        "description": "GFW: China’s Digital Great Wall​\n万里长城挡匈奴，互联网的长城挡反贼，天佑中华，国泰民安​。",
+        "id": "1800187459659239424",
+        "name": "liam· Rodriguez",
+        "pinned_tweet_id": "1964506930933903425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938200311317098496/wsZ0vFNB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 22,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1068
+        },
+        "username": "lnbo2761841",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-28T15:20:19.000Z",
+        "description": "",
+        "id": "1321471835058233345",
+        "location": "HIROSHIMA",
+        "name": "蒂贝茨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878290071004295168/5F-38hWh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 161,
+          "like_count": 1928,
+          "listed_count": 19,
+          "media_count": 612,
+          "tweet_count": 1560
+        },
+        "username": "enoly_gay",
+        "verified": false
+      }
+    ]
+  }
+}

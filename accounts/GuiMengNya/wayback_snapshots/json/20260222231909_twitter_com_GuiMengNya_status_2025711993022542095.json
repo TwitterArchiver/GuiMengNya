@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025711925959839744"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025711993022542095",
+    "created_at": "2026-02-22T23:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T00:18:55.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025711932121264418",
+      "2025711993022542095"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HRlNIAmnbD",
+          "end": 32,
+          "expanded_url": "https://x.com/GuiMengNya/status/2025711993022542095/photo/1",
+          "media_key": "3_2025711925959839744",
+          "start": 9,
+          "url": "https://t.co/HRlNIAmnbD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025711993022542095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你搁这卡bug呢 https://t.co/HRlNIAmnbD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1777,
+        "media_key": "3_2025711925959839744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBzGQ5Qb0AAkFyI.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025711925959839744"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025711932121264418",
+        "created_at": "2026-02-22T23:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T00:18:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025711932121264418",
+          "2025711993022542095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4kc7HEF2A0",
+              "end": 33,
+              "expanded_url": "https://x.com/GuiMengNya/status/2025711932121264418/photo/1",
+              "media_key": "3_2025711925959839744",
+              "start": 10,
+              "url": "https://t.co/4kc7HEF2A0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025711932121264418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你搁这卡nbug呢 https://t.co/4kc7HEF2A0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025711925959839744"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025711993022542095",
+        "created_at": "2026-02-22T23:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T00:18:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025711932121264418",
+          "2025711993022542095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HRlNIAmnbD",
+              "end": 32,
+              "expanded_url": "https://x.com/GuiMengNya/status/2025711993022542095/photo/1",
+              "media_key": "3_2025711925959839744",
+              "start": 9,
+              "url": "https://t.co/HRlNIAmnbD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025711993022542095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你搁这卡bug呢 https://t.co/HRlNIAmnbD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7282,
+          "following_count": 726,
+          "like_count": 10189,
+          "listed_count": 27,
+          "media_count": 1300,
+          "tweet_count": 3456
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

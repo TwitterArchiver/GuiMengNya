@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1959636003020521483",
+    "created_at": "2025-08-25T08:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T09:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959895488037376172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1595960282345414657",
+          "start": 0,
+          "username": "StillVanderbilt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959895488037376172",
+    "in_reply_to_user_id": "1595960282345414657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959636003020521483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StillVanderbilt xsl傻逼中国，自己做的事情都忘了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_1959635983227600896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzIGi01awAAVe0A.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1959636003020521483",
+        "created_at": "2025-08-25T08:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T09:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959895488037376172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595960282345414657",
+              "start": 0,
+              "username": "StillVanderbilt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959895488037376172",
+        "in_reply_to_user_id": "1595960282345414657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959636003020521483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StillVanderbilt xsl傻逼中国，自己做的事情都忘了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959635983227600896"
+          ]
+        },
+        "author_id": "1595960282345414657",
+        "conversation_id": "1959636003020521483",
+        "created_at": "2025-08-24T15:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T16:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959636003020521483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbIhLH9DKq",
+              "end": 31,
+              "expanded_url": "https://x.com/StillVanderbilt/status/1959636003020521483/photo/1",
+              "media_key": "3_1959635983227600896",
+              "start": 8,
+              "url": "https://t.co/TbIhLH9DKq"
+            },
+            {
+              "display_url": "x.com/rfi_cn/status/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/rfi_cn/status/1959610677771039079",
+              "start": 32,
+              "url": "https://t.co/kR9qA7JQXb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959636003020521483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13651,
+          "like_count": 136,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959610677771039079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心这么虚是为啥 https://t.co/TbIhLH9DKq https://t.co/kR9qA7JQXb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州/精神比你正常就对了/喜欢音游，机车/#INTJ/含妈量极高/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1958099553724362948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 232,
+          "like_count": 3557,
+          "listed_count": 6,
+          "media_count": 121,
+          "tweet_count": 1210
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T01:59:27.000Z",
+        "description": "",
+        "id": "1595960282345414657",
+        "location": "维多利亚娱乐城",
+        "name": "枫糖小彪",
+        "pinned_tweet_id": "1954771845665931352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912201746421583872/k9PtLtie_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3259,
+          "following_count": 540,
+          "like_count": 28093,
+          "listed_count": 16,
+          "media_count": 1183,
+          "tweet_count": 7667
+        },
+        "username": "StillVanderbilt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1991579732585148715",
+    "created_at": "2025-11-20T18:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T19:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991579732585148715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "973118976728453122",
+          "start": 3,
+          "username": "DoesXiStepDown"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991579732585148715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991470961334648843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DoesXiStepDown: 没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1991579732585148715",
+        "created_at": "2025-11-20T18:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T19:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991579732585148715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "973118976728453122",
+              "start": 3,
+              "username": "DoesXiStepDown"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991579732585148715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991470961334648843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DoesXiStepDown: 没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "973118976728453122",
+        "conversation_id": "1991470961334648843",
+        "created_at": "2025-11-20T11:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T12:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991470961334648843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991470961334648843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9571,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1982061018953232844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 332,
+          "like_count": 6728,
+          "listed_count": 8,
+          "media_count": 236,
+          "tweet_count": 1965
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-12T08:50:18.000Z",
+        "description": "",
+        "id": "973118976728453122",
+        "name": "习近平今天下台了吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790711645611667456/wIDwdes__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11796,
+          "following_count": 7,
+          "like_count": 15,
+          "listed_count": 18,
+          "media_count": 2,
+          "tweet_count": 2742
+        },
+        "username": "DoesXiStepDown",
+        "verified": false
+      }
+    ]
+  }
+}

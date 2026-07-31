@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1940103980241363380",
+    "created_at": "2025-07-02T20:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T21:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940502457937023402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1899023817378508801",
+          "start": 0,
+          "username": "Ted_noncommute"
+        },
+        {
+          "end": 26,
+          "id": "1841768354178334721",
+          "start": 16,
+          "username": "jingzi004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940502457937023402",
+    "in_reply_to_user_id": "1899023817378508801",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940103980241363380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_noncommute @jingzi004 👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1940103977032404992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuyiSbpW0AAQMSn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1940103980241363380",
+        "created_at": "2025-07-02T20:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T21:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940502457937023402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1899023817378508801",
+              "start": 0,
+              "username": "Ted_noncommute"
+            },
+            {
+              "end": 26,
+              "id": "1841768354178334721",
+              "start": 16,
+              "username": "jingzi004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940502457937023402",
+        "in_reply_to_user_id": "1899023817378508801",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940103980241363380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_noncommute @jingzi004 👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940103977032404992"
+          ]
+        },
+        "author_id": "1899023817378508801",
+        "conversation_id": "1940103980241363380",
+        "created_at": "2025-07-01T17:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T18:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940103980241363380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AaYK5lKRKD",
+              "end": 38,
+              "expanded_url": "https://x.com/Ted_noncommute/status/1940103980241363380/photo/1",
+              "media_key": "3_1940103977032404992",
+              "start": 15,
+              "url": "https://t.co/AaYK5lKRKD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940103980241363380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 752,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "身材的吸引力还没手里的相机大 https://t.co/AaYK5lKRKD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/坐标杭州/家长不管党/坐标杭州/精神比你正常就对了/喜欢音游，机车/#INTJ/含妈量极高/好妹妹@shadow110705🩷@cyansoul2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 44,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "shadow110705"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "cyansoul2"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934889831643140117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 230,
+          "like_count": 3510,
+          "listed_count": 6,
+          "media_count": 118,
+          "tweet_count": 1153
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T09:06:07.000Z",
+        "description": "域ℍ上的小Ted /🩵🩷🤍🩷🩵/ ℝ上的同构体@ted_yeet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "ted_yeet"
+              }
+            ]
+          }
+        },
+        "id": "1899023817378508801",
+        "name": "非交换Ted",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899024063512584192/6CiAhCGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 74,
+          "like_count": 222,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 114
+        },
+        "username": "Ted_noncommute",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T09:14:54.000Z",
+        "description": "常駐昆山😁是剛用上雌激素沒幾年的亞洲人妖🌝自產自銷人妖藥（雌二醇）糖商🌚減肥、豐胸、泌乳、脫毛、美白、雌墮、互fo、面基找我☝️🤓會轉發好看的",
+        "id": "1841768354178334721",
+        "location": "中國大陸江蘇",
+        "name": "京本京子",
+        "pinned_tweet_id": "1940415467329634773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931314491612090368/iAi39pdD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3085,
+          "following_count": 2941,
+          "like_count": 1016,
+          "listed_count": 3,
+          "media_count": 223,
+          "tweet_count": 4358
+        },
+        "username": "jingzi004",
+        "verified": false
+      }
+    ]
+  }
+}

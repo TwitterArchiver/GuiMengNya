@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1964188420861022240",
+    "created_at": "2025-09-07T01:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T02:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964498268668453318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1316103441182158849",
+          "start": 0,
+          "username": "xsf727"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964498268668453318",
+    "in_reply_to_user_id": "1316103441182158849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964201716959637740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsf727 建议是优胜劣汰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1964188420861022240",
+        "created_at": "2025-09-07T01:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T02:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964498268668453318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1316103441182158849",
+              "start": 0,
+              "username": "xsf727"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964498268668453318",
+        "in_reply_to_user_id": "1316103441182158849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964201716959637740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsf727 建议是优胜劣汰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1316103441182158849",
+        "conversation_id": "1964188420861022240",
+        "created_at": "2025-09-06T05:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964201716959637740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964201716959637740",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964188420861022240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 没办法，林子大了什么鸟都有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/要一直哦@future080712/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "future080712"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 256,
+          "like_count": 4114,
+          "listed_count": 6,
+          "media_count": 127,
+          "tweet_count": 1369
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-13T19:48:17.000Z",
+        "description": "INFP 纯死宅，二次元，厌世b，重度玉玉，双相，宝宝们来互fo，脾气一般情况下很好，话很多，喜欢断风的可以给断风打赏一点，帮助断风更好的生活和看病，真的非常感谢🙏🏻（1000fo抽奖）    🚪30（陪聊天，陪打游戏，要加vx或者q的记得发码）。半清水推，分享日常生活，关注关注b站谢谢啦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/bYErNdA",
+                "end": 23,
+                "expanded_url": "https://b23.tv/bYErNdA",
+                "start": 0,
+                "url": "https://t.co/6a2LJ5Ai8g"
+              }
+            ]
+          }
+        },
+        "id": "1316103441182158849",
+        "location": "地球",
+        "name": "断风（互fo请私信我！关注关注我b站好咩）",
+        "pinned_tweet_id": "1948211208781521292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869954669482782723/lJ9jfA6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 371,
+          "like_count": 930,
+          "listed_count": 3,
+          "media_count": 240,
+          "tweet_count": 4315
+        },
+        "url": "https://t.co/6a2LJ5Ai8g",
+        "username": "xsf727",
+        "verified": false
+      }
+    ]
+  }
+}

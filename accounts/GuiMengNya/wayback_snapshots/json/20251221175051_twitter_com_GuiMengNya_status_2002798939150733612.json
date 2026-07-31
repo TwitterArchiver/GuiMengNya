@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2002738680692420831",
+    "created_at": "2025-12-21T17:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T18:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002798939150733612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1642497509011636225",
+          "start": 0,
+          "username": "wanzi0209"
+        },
+        {
+          "end": 18,
+          "id": "1902568136450424832",
+          "start": 11,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002798939150733612",
+    "in_reply_to_user_id": "1642497509011636225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002750103472500821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanzi0209 @aoim33 贬值"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2002738680692420831",
+        "created_at": "2025-12-21T17:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T18:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002798939150733612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1642497509011636225",
+              "start": 0,
+              "username": "wanzi0209"
+            },
+            {
+              "end": 18,
+              "id": "1902568136450424832",
+              "start": 11,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002798939150733612",
+        "in_reply_to_user_id": "1642497509011636225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002750103472500821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanzi0209 @aoim33 贬值"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642497509011636225",
+        "conversation_id": "2002738680692420831",
+        "created_at": "2025-12-21T14:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T15:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002750103472500821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002750103472500821",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002738680692420831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 什么意思，日元贬值了还是升值了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2623,
+          "following_count": 342,
+          "like_count": 7356,
+          "listed_count": 13,
+          "media_count": 474,
+          "tweet_count": 2305
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-02T12:01:51.000Z",
+        "description": "「沈みゆく世界で、君をみつけた」 エロ/サブ垢:@kazuha1O23",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "kazuha1O23"
+              }
+            ]
+          }
+        },
+        "id": "1642497509011636225",
+        "location": "キヴォトス",
+        "name": "丸子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997806934418989057/hPr6G22M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 80,
+          "like_count": 2731,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 1838
+        },
+        "username": "wanzi0209",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.06 maimai 13,689 / CN EN JP / SUPERNOVA team member / telegram ch ⬇️ / 無言フォロー失礼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 2045,
+          "like_count": 22735,
+          "listed_count": 4,
+          "media_count": 1127,
+          "tweet_count": 5162
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

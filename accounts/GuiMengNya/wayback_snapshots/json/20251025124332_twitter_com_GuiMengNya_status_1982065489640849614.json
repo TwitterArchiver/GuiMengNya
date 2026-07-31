@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1981714609615900840",
+    "created_at": "2025-10-25T12:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T13:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982065489640849614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1016552943774920704",
+          "start": 0,
+          "username": "Akinoyo_"
+        },
+        {
+          "end": 24,
+          "id": "2459061450",
+          "start": 10,
+          "username": "ChnEmbassy_jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982065489640849614",
+    "in_reply_to_user_id": "1016552943774920704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981807418985394308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_ @ChnEmbassy_jp 无论美国还是日本，除了中国哪个国都好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1981714609615900840",
+        "created_at": "2025-10-25T12:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T13:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982065489640849614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1016552943774920704",
+              "start": 0,
+              "username": "Akinoyo_"
+            },
+            {
+              "end": 24,
+              "id": "2459061450",
+              "start": 10,
+              "username": "ChnEmbassy_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982065489640849614",
+        "in_reply_to_user_id": "1016552943774920704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981807418985394308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_ @ChnEmbassy_jp 无论美国还是日本，除了中国哪个国都好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1016552943774920704",
+        "conversation_id": "1981714609615900840",
+        "created_at": "2025-10-24T19:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T20:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981807418985394308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2459061450",
+              "start": 0,
+              "username": "ChnEmbassy_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981807418985394308",
+        "in_reply_to_user_id": "2459061450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2854,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981714609615900840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChnEmbassy_jp 回归的是你国吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 305,
+          "like_count": 5071,
+          "listed_count": 7,
+          "media_count": 145,
+          "tweet_count": 1665
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-10T05:21:23.000Z",
+        "description": "死亡才是歸處/MTF/INFP/Overdose/剩下不知道寫什麼就這樣吧",
+        "id": "1016552943774920704",
+        "location": "天國",
+        "name": "仿生喹硫平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978517410857488384/TtfwoOdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 1448,
+          "like_count": 1839,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1137
+        },
+        "username": "Akinoyo_",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-23T02:45:07.000Z",
+        "description": "中華人民共和国駐日本国大使館の公式Twitterです。 中日関係、国民交流、また中国経済・文化・社会及び大使館行事などを皆様にご紹介させていただきます。大使館HPはこちらへhttps://t.co/z6AjpxEDjk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "china-embassy.or.jp/jpn/",
+                "end": 109,
+                "expanded_url": "http://china-embassy.or.jp/jpn/",
+                "start": 86,
+                "url": "https://t.co/z6AjpxEDjk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china-embassy.or.jp/jpn/",
+                "end": 23,
+                "expanded_url": "http://www.china-embassy.or.jp/jpn/",
+                "start": 0,
+                "url": "https://t.co/jGw04z9RfY"
+              }
+            ]
+          }
+        },
+        "id": "2459061450",
+        "location": "Japan",
+        "name": "中華人民共和国駐日本国大使館",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1246448063079563270/qEePxpv0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120574,
+          "following_count": 809,
+          "like_count": 101,
+          "listed_count": 1393,
+          "media_count": 3997,
+          "tweet_count": 11031
+        },
+        "url": "https://t.co/jGw04z9RfY",
+        "username": "ChnEmbassy_jp",
+        "verified": true
+      }
+    ]
+  }
+}

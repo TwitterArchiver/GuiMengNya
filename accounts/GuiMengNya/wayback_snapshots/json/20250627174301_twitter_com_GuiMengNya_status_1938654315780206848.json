@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1938365392432365943",
+    "created_at": "2025-06-27T17:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T18:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938654315780206848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1117644610396778501",
+          "start": 0,
+          "username": "canderyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938654315780206848",
+    "in_reply_to_user_id": "1117644610396778501",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938365392432365943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canderyy 抽～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1938365389898932224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuZ1DV3WYAA5Mtq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1938365392432365943",
+        "created_at": "2025-06-27T17:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T18:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938654315780206848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1117644610396778501",
+              "start": 0,
+              "username": "canderyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938654315780206848",
+        "in_reply_to_user_id": "1117644610396778501",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938365392432365943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canderyy 抽～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938365389898932224"
+          ]
+        },
+        "author_id": "1117644610396778501",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1938365392432365943",
+        "created_at": "2025-06-26T22:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T23:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938365392432365943"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "HRT"
+            },
+            {
+              "end": 112,
+              "start": 108,
+              "tag": "MTF"
+            },
+            {
+              "end": 119,
+              "start": 113,
+              "tag": "雌二醇凝胶"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "男娘"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7LDrRhjkr",
+              "end": 151,
+              "expanded_url": "https://x.com/canderyy/status/1938365392432365943/photo/1",
+              "media_key": "3_1938365389898932224",
+              "start": 128,
+              "url": "https://t.co/l7LDrRhjkr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938365392432365943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8480,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "啊嘞！100fo了啊，抽个奖吧。\n一等奖：100ml标准配方215mg凝胶一瓶。\n二等奖：同配方分装15ml凝胶3瓶。\n三等奖：同配方分装15ml凝胶1瓶。\n关注，点赞，转发参与抽奖，7月4号16点开奖。\n#HRT #MTF #雌二醇凝胶 #男娘 #药娘 https://t.co/l7LDrRhjkr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/坐标杭州/家长不管党/坐标杭州/精神比你正常就对了/喜欢音游，机车/#INTJ/含妈量极高/好妹妹@shadow110705🩷@cyansoul2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 44,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "shadow110705"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "cyansoul2"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1923775268247969838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 231,
+          "like_count": 3592,
+          "listed_count": 6,
+          "media_count": 117,
+          "tweet_count": 1149
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-15T04:23:34.000Z",
+        "description": "人夫，Bambi音频洗脑，最终还是和老婆成了姐妹，遗憾 https://t.co/x21x9Duhkc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/canderyy",
+                "end": 51,
+                "expanded_url": "https://t.me/canderyy",
+                "start": 28,
+                "url": "https://t.co/x21x9Duhkc"
+              }
+            ]
+          }
+        },
+        "id": "1117644610396778501",
+        "location": "浙江省宁波市",
+        "name": "Shanshan's Vile Pet🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927565455792779264/FJIaGwB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 95,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 161
+        },
+        "username": "canderyy",
+        "verified": false
+      }
+    ]
+  }
+}

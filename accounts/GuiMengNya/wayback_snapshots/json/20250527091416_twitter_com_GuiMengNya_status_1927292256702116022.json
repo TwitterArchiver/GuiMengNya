@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1927244852175004094",
+    "created_at": "2025-05-27T09:14:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T10:14:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927292256702116022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1831984756432760832",
+          "start": 0,
+          "username": "kageto110705"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927292256702116022",
+    "in_reply_to_user_id": "1831984756432760832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927276787018428798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kageto110705 我要看🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1927244852175004094",
+        "created_at": "2025-05-27T09:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T10:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927292256702116022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1831984756432760832",
+              "start": 0,
+              "username": "kageto110705"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927292256702116022",
+        "in_reply_to_user_id": "1831984756432760832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927276787018428798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kageto110705 我要看🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831984756432760832",
+        "conversation_id": "1927244852175004094",
+        "created_at": "2025-05-27T08:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T09:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927276787018428798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927276787018428798",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927244852175004094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 你给我发 我看了之后也不会给你发的因为我没有牛子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/坐标杭州/家长不管党/坐标杭州/精神比你正常就对了/喜欢音游，机车/#INTJ/含妈量极高/好妹妹@kageto0705，是@xiaoyeluo姐姐的猫猫，🩷@Cyansoul2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 44,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "kageto0705"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "xiaoyeluo"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "Cyansoul2"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1923775268247969838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 225,
+          "like_count": 3528,
+          "listed_count": 6,
+          "media_count": 114,
+          "tweet_count": 1127
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T09:16:26.000Z",
+        "description": "泽成│さわなり 无情mtf/梗图/文豪野犬/百合/日本演员转发bot 非二元性别 或许是ftx（？） 掏出姐姐@GuiMengNya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "GuiMengNya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B5%B7yudac…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B5%B7yudachi",
+                "start": 0,
+                "url": "https://t.co/LP2yZYt79R"
+              }
+            ]
+          }
+        },
+        "id": "1831984756432760832",
+        "location": "✨Never Land✨",
+        "name": "カゲト邪恶势力",
+        "pinned_tweet_id": "1927002109985075366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926567607898869760/1RqZxp4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 190,
+          "like_count": 7486,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 914
+        },
+        "url": "https://t.co/LP2yZYt79R",
+        "username": "kageto110705",
+        "verified": false
+      }
+    ]
+  }
+}

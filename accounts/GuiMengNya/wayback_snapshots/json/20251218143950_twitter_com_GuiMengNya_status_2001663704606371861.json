@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001663693629911040"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2001663704606371861",
+    "created_at": "2025-12-18T14:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T15:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001663704606371861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BwhbcD1i0G",
+          "end": 32,
+          "expanded_url": "https://x.com/GuiMengNya/status/2001663704606371861/photo/1",
+          "media_key": "3_2001663693629911040",
+          "start": 9,
+          "url": "https://t.co/BwhbcD1i0G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001663704606371861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这电脑水冷一定好 https://t.co/BwhbcD1i0G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2001663693629911040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8dWhiqbcAAKtb3.jpg",
+        "width": 979
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001663693629911040"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2001663704606371861",
+        "created_at": "2025-12-18T14:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T15:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001663704606371861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BwhbcD1i0G",
+              "end": 32,
+              "expanded_url": "https://x.com/GuiMengNya/status/2001663704606371861/photo/1",
+              "media_key": "3_2001663693629911040",
+              "start": 9,
+              "url": "https://t.co/BwhbcD1i0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001663704606371861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这电脑水冷一定好 https://t.co/BwhbcD1i0G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2467,
+          "following_count": 346,
+          "like_count": 7322,
+          "listed_count": 12,
+          "media_count": 450,
+          "tweet_count": 2271
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

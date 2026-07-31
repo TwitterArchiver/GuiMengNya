@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1993442311645413751",
+    "created_at": "2025-11-26T02:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T03:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993506040198111357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1950700383870828545",
+          "start": 0,
+          "username": "elonmuskmel7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993506040198111357",
+    "in_reply_to_user_id": "1950700383870828545",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993442311645413751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elonmuskmel7 56"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1070,
+        "media_key": "3_1993442302346379264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ohNleXwAABc4f.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1993442311645413751",
+        "created_at": "2025-11-26T02:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T03:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993506040198111357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1950700383870828545",
+              "start": 0,
+              "username": "elonmuskmel7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993506040198111357",
+        "in_reply_to_user_id": "1950700383870828545",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993442311645413751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elonmuskmel7 56"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993442302346379264"
+          ]
+        },
+        "author_id": "1950700383870828545",
+        "conversation_id": "1993442311645413751",
+        "created_at": "2025-11-25T22:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T23:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993442311645413751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2KepFiQmGA",
+              "end": 126,
+              "expanded_url": "https://x.com/elonmuskmel7/status/1993442311645413751/photo/1",
+              "media_key": "3_1993442302346379264",
+              "start": 103,
+              "url": "https://t.co/2KepFiQmGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993442311645413751",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 817060,
+          "like_count": 2404,
+          "quote_count": 81,
+          "reply_count": 7674,
+          "retweet_count": 199
+        },
+        "reply_settings": "everyone",
+        "text": "So far no one has found the number in the Box\n\nWhat number do you see?\n\nOne correct answer wins $7700💸 https://t.co/2KepFiQmGA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 335,
+          "like_count": 6867,
+          "listed_count": 8,
+          "media_count": 264,
+          "tweet_count": 2031
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T23:30:14.000Z",
+        "description": "Commentary Account. No Affiliation with Elon Musk",
+        "id": "1950700383870828545",
+        "name": "Commentary Elon Musk",
+        "pinned_tweet_id": "1969900458748838025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950702933223346176/BhFrj_py_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26125,
+          "following_count": 944,
+          "like_count": 11997,
+          "listed_count": 19,
+          "media_count": 3155,
+          "tweet_count": 12042
+        },
+        "username": "elonmuskmel7",
+        "verified": true
+      }
+    ]
+  }
+}

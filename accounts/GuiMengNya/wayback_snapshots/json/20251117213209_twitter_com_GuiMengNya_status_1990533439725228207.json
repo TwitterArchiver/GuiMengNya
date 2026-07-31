@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1990238585912799734",
+    "created_at": "2025-11-17T21:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T22:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990533439725228207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1057288485629943808",
+          "start": 0,
+          "username": "wuyanzupro"
+        },
+        {
+          "end": 25,
+          "id": "1433214515714281478",
+          "start": 12,
+          "username": "KKei78052055"
+        },
+        {
+          "end": 40,
+          "id": "2459061450",
+          "start": 26,
+          "username": "ChnEmbassy_jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990533439725228207",
+    "in_reply_to_user_id": "1057288485629943808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990325047278629329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuyanzupro @KKei78052055 @ChnEmbassy_jp 中文是用来骂支那🐷的🤣👉🤡😅\n死全家的东西，家里器官都去给习近平换吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1990238585912799734",
+        "created_at": "2025-11-17T21:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T22:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990533439725228207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1057288485629943808",
+              "start": 0,
+              "username": "wuyanzupro"
+            },
+            {
+              "end": 25,
+              "id": "1433214515714281478",
+              "start": 12,
+              "username": "KKei78052055"
+            },
+            {
+              "end": 40,
+              "id": "2459061450",
+              "start": 26,
+              "username": "ChnEmbassy_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990533439725228207",
+        "in_reply_to_user_id": "1057288485629943808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990325047278629329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyanzupro @KKei78052055 @ChnEmbassy_jp 中文是用来骂支那🐷的🤣👉🤡😅\n死全家的东西，家里器官都去给习近平换吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1057288485629943808",
+        "conversation_id": "1990238585912799734",
+        "created_at": "2025-11-17T07:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T08:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990325047278629329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1433214515714281478",
+              "start": 0,
+              "username": "KKei78052055"
+            },
+            {
+              "end": 28,
+              "id": "2459061450",
+              "start": 14,
+              "username": "ChnEmbassy_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990325047278629329",
+        "in_reply_to_user_id": "1433214515714281478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990261730908529020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKei78052055 @ChnEmbassy_jp 你可以自由地发表你的言论，我想和你说的是，能不能不要使用中文来怼中国？🤡🤡🤡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1982061018953232844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 332,
+          "like_count": 6577,
+          "listed_count": 8,
+          "media_count": 230,
+          "tweet_count": 1928
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-30T15:09:53.000Z",
+        "description": "中国一直是发展中国家，就是把世界发展为中国",
+        "id": "1057288485629943808",
+        "location": "Yau Tsim Mong District",
+        "name": "吴彦祖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890685792793608192/V_2uw3yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 1999,
+          "like_count": 6219,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 136
+        },
+        "username": "wuyanzupro",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-01T23:45:57.000Z",
+        "description": "アニメ・漫画・将棋に加えて時事ネタ全般についてつぶやくアカウント。無言フォロー、巻き込みリプは気にしないでOK。アイコンはまかろんＫさん@macaronk1120のイラストです。家庭連合への解散命令反対、福島県の子どもへの甲状腺検査の中止を求めます。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "macaronk1120"
+              }
+            ]
+          }
+        },
+        "id": "1433214515714281478",
+        "name": "K-Kei",
+        "pinned_tweet_id": "1558007172671639553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766075953107890176/drq_682x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 241,
+          "like_count": 735141,
+          "listed_count": 28,
+          "media_count": 3,
+          "tweet_count": 49006
+        },
+        "username": "KKei78052055",
+        "verified": true
+      },
+      {
+        "created_at": "2014-04-23T02:45:07.000Z",
+        "description": "中華人民共和国駐日本国大使館の公式Twitterです。 中日関係、国民交流、また中国経済・文化・社会及び大使館行事などを皆様にご紹介させていただきます。大使館HPはこちらへhttps://t.co/z6AjpxEDjk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "china-embassy.or.jp/jpn/",
+                "end": 109,
+                "expanded_url": "http://china-embassy.or.jp/jpn/",
+                "start": 86,
+                "url": "https://t.co/z6AjpxEDjk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china-embassy.or.jp/jpn/",
+                "end": 23,
+                "expanded_url": "http://www.china-embassy.or.jp/jpn/",
+                "start": 0,
+                "url": "https://t.co/jGw04z9RfY"
+              }
+            ]
+          }
+        },
+        "id": "2459061450",
+        "location": "Japan",
+        "name": "中華人民共和国駐日本国大使館",
+        "pinned_tweet_id": "1990238585912799734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1246448063079563270/qEePxpv0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131651,
+          "following_count": 808,
+          "like_count": 101,
+          "listed_count": 1494,
+          "media_count": 4189,
+          "tweet_count": 11348
+        },
+        "url": "https://t.co/jGw04z9RfY",
+        "username": "ChnEmbassy_jp",
+        "verified": true
+      }
+    ]
+  }
+}

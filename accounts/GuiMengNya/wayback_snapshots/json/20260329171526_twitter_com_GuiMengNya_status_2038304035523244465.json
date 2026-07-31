@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {
+      "title": "港卡办理速通指南：你必须知道的几处要点，看这一篇就够了！"
+    },
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2038304035523244465",
+    "created_at": "2026-03-29T17:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T18:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038304035523244465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2038…",
+          "end": 23,
+          "expanded_url": "http://x.com/i/article/2038297192197410816",
+          "start": 0,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2038297192197410816",
+          "url": "https://t.co/mBptCFKWvt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038304035523244465",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/mBptCFKWvt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 410,
+        "media_key": "3_2038303596614426624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmCUlyaoAAKTXV.jpg",
+        "width": 1024
+      },
+      {
+        "alt_text": "不构成投资建议",
+        "height": 905,
+        "media_key": "3_2038297875806146561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEl9HmHb0AEm9bX.jpg",
+        "width": 632
+      },
+      {
+        "height": 1060,
+        "media_key": "3_2038298512010723329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEl9soKbQAEnTf1.jpg",
+        "width": 1838
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2038298008107065344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEl9PS-boAAGKf7.jpg",
+        "width": 1206
+      },
+      {
+        "height": 721,
+        "media_key": "3_2038298261115863040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEl9eBgbgAA88oV.jpg",
+        "width": 1206
+      },
+      {
+        "height": 659,
+        "media_key": "3_2038298830131834880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEl9_JQaMAAos8t.jpg",
+        "width": 1048
+      },
+      {
+        "height": 1962,
+        "media_key": "3_2038298989515460609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEl-IbAbUAExKzi.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {
+          "title": "港卡办理速通指南：你必须知道的几处要点，看这一篇就够了！"
+        },
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2038304035523244465",
+        "created_at": "2026-03-29T17:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038304035523244465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2038…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2038297192197410816",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2038297192197410816",
+              "url": "https://t.co/mBptCFKWvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038304035523244465",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mBptCFKWvt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9323,
+          "following_count": 696,
+          "like_count": 11078,
+          "listed_count": 29,
+          "media_count": 1873,
+          "tweet_count": 4207
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

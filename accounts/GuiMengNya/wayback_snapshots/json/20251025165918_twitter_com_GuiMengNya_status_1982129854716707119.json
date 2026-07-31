@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1982129854716707119",
+    "created_at": "2025-10-25T16:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T17:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982129854716707119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "归梦’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1DXxy…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1DXxyWLaOjyGM",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1982129855685632000/q91DCr9m?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1982129855685632000/q91DCr9m?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 喝点小酒聊聊天",
+          "unwound_url": "https://twitter.com/i/spaces/1DXxyWLaOjyGM/peek",
+          "url": "https://t.co/sEv1aYtHvF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982129854716707119",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/sEv1aYtHvF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1982129854716707119",
+        "created_at": "2025-10-25T16:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T17:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982129854716707119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "归梦’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1DXxy…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1DXxyWLaOjyGM",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1982129855685632000/q91DCr9m?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1982129855685632000/q91DCr9m?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 喝点小酒聊聊天",
+              "unwound_url": "https://twitter.com/i/spaces/1DXxyWLaOjyGM/peek",
+              "url": "https://t.co/sEv1aYtHvF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982129854716707119",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sEv1aYtHvF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 306,
+          "like_count": 5082,
+          "listed_count": 7,
+          "media_count": 145,
+          "tweet_count": 1667
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      }
+    ]
+  }
+}

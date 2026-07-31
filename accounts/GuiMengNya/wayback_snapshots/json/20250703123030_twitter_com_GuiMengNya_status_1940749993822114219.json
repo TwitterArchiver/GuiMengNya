@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1940504191962861832",
+    "created_at": "2025-07-03T12:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T13:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940749993822114219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1831984756432760832",
+          "start": 0,
+          "username": "shadow110705"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940749993822114219",
+    "in_reply_to_user_id": "1831984756432760832",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940702650963841417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shadow110705 🈷️🈷️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1940504191962861832",
+        "created_at": "2025-07-03T12:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T13:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940749993822114219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1831984756432760832",
+              "start": 0,
+              "username": "shadow110705"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940749993822114219",
+        "in_reply_to_user_id": "1831984756432760832",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940702650963841417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shadow110705 🈷️🈷️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831984756432760832",
+        "conversation_id": "1940504191962861832",
+        "created_at": "2025-07-03T09:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T10:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940702650963841417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940702650963841417",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940504191962861832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/坐标杭州/家长不管党/坐标杭州/精神比你正常就对了/喜欢音游，机车/#INTJ/含妈量极高/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 44,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934889831643140117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 230,
+          "like_count": 3520,
+          "listed_count": 6,
+          "media_count": 118,
+          "tweet_count": 1160
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T09:16:26.000Z",
+        "description": "影子（かげ）/ Shadow｜🇨🇳｜CN⇢EN⇢JA｜18⤵︎｜⚧\nCosplay｜Guitar｜Drawing｜Daily things\nPlural system \n初音ミク大好きです\n文スト・ぼざろ・ボカロ \n日本語は８割翻訳機頼みだけど\n@GuiMengNya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 123,
+                "username": "GuiMengNya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kage110705",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kage110705",
+                "start": 0,
+                "url": "https://t.co/XmEN7yPXmw"
+              }
+            ]
+          }
+        },
+        "id": "1831984756432760832",
+        "location": "0.01km",
+        "name": "Shadow*",
+        "pinned_tweet_id": "1928843044800827492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940034498776674304/Ebo1qxEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 278,
+          "like_count": 8548,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1136
+        },
+        "url": "https://t.co/XmEN7yPXmw",
+        "username": "shadow110705",
+        "verified": false
+      }
+    ]
+  }
+}

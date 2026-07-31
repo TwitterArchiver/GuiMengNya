@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985891519988113408"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "conversation_id": "1985612508166840427",
+    "created_at": "2025-11-05T02:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T03:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985891526921371701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/diIx4kUzEY",
+          "end": 37,
+          "expanded_url": "https://x.com/GuiMengNya/status/1985891526921371701/photo/1",
+          "media_key": "3_1985891519988113408",
+          "start": 14,
+          "url": "https://t.co/diIx4kUzEY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985891526921371701",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985612508166840427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop 试过了没用 https://t.co/diIx4kUzEY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_1985891519988113408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G49N0NNaIAAzct_.jpg",
+        "width": 1038
+      },
+      {
+        "height": 996,
+        "media_key": "3_1985612499811778561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G45QDGDbQAENgf_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985891519988113408"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "1985612508166840427",
+        "created_at": "2025-11-05T02:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T03:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985891526921371701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/diIx4kUzEY",
+              "end": 37,
+              "expanded_url": "https://x.com/GuiMengNya/status/1985891526921371701/photo/1",
+              "media_key": "3_1985891519988113408",
+              "start": 14,
+              "url": "https://t.co/diIx4kUzEY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985891526921371701",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985612508166840427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 试过了没用 https://t.co/diIx4kUzEY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985612499811778561"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985612508166840427",
+        "created_at": "2025-11-04T07:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T08:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985612508166840427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/emRYryr6lN",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/1985612508166840427/photo/1",
+              "media_key": "3_1985612499811778561",
+              "start": 0,
+              "url": "https://t.co/emRYryr6lN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985612508166840427",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 117533,
+          "like_count": 964,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/emRYryr6lN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1977091161212043555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 316,
+          "like_count": 5672,
+          "listed_count": 7,
+          "media_count": 156,
+          "tweet_count": 1756
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88045,
+          "following_count": 650,
+          "like_count": 31481,
+          "listed_count": 264,
+          "media_count": 13181,
+          "tweet_count": 18747
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

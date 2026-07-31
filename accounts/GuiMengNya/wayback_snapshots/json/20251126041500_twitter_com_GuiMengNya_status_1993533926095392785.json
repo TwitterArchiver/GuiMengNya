@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1993311070652711134",
+    "created_at": "2025-11-26T04:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T05:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993533926095392785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1778164425289023489",
+          "start": 0,
+          "username": "thequeenofmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993533926095392785",
+    "in_reply_to_user_id": "1778164425289023489",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993311070652711134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thequeenofmm hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 152,
+        "media_key": "3_1993311068114874368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mp2v3XcAAjfbl.jpg",
+        "width": 466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1993311070652711134",
+        "created_at": "2025-11-26T04:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T05:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993533926095392785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1778164425289023489",
+              "start": 0,
+              "username": "thequeenofmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993533926095392785",
+        "in_reply_to_user_id": "1778164425289023489",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993311070652711134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thequeenofmm hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993311068114874368"
+          ]
+        },
+        "author_id": "1778164425289023489",
+        "conversation_id": "1993311070652711134",
+        "created_at": "2025-11-25T13:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993311070652711134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pPQIcR1dq6",
+              "end": 79,
+              "expanded_url": "https://x.com/thequeenofmm/status/1993311070652711134/photo/1",
+              "media_key": "3_1993311068114874368",
+              "start": 56,
+              "url": "https://t.co/pPQIcR1dq6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993311070652711134",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 329565,
+          "like_count": 3311,
+          "quote_count": 12,
+          "reply_count": 2648,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "Is your account still under 1K 👀 \n\nSay hi we follow you https://t.co/pPQIcR1dq6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 336,
+          "like_count": 6870,
+          "listed_count": 8,
+          "media_count": 265,
+          "tweet_count": 2035
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-10T20:53:44.000Z",
+        "description": "• Marketing Enthusiast ⚡ | Community Builder 🌐\n• DM for Business Inquiries 📩 @HeyElsaAI Ambassador",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 77,
+                "username": "HeyElsaAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Quennnft1",
+                "end": 23,
+                "expanded_url": "http://t.me/Quennnft1",
+                "start": 0,
+                "url": "https://t.co/OobNkEEtDb"
+              }
+            ]
+          }
+        },
+        "id": "1778164425289023489",
+        "name": "Queen",
+        "pinned_tweet_id": "1993383596699402634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860786622410743809/0uKI5iu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54945,
+          "following_count": 19089,
+          "like_count": 91245,
+          "listed_count": 90,
+          "media_count": 1210,
+          "tweet_count": 26770
+        },
+        "url": "https://t.co/OobNkEEtDb",
+        "username": "thequeenofmm",
+        "verified": true
+      }
+    ]
+  }
+}

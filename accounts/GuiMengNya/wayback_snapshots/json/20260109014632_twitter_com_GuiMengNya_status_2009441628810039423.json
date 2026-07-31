@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2009336571187875868",
+    "created_at": "2026-01-09T01:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T02:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009441628810039423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2262312624",
+          "start": 0,
+          "username": "ansin_eth"
+        },
+        {
+          "end": 23,
+          "id": "1520807258619191296",
+          "start": 11,
+          "username": "DaQiang8888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009441628810039423",
+    "in_reply_to_user_id": "2262312624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009411317887848742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ansin_eth @DaQiang8888 互"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2009336571187875868",
+        "created_at": "2026-01-09T01:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T02:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009441628810039423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2262312624",
+              "start": 0,
+              "username": "ansin_eth"
+            },
+            {
+              "end": 23,
+              "id": "1520807258619191296",
+              "start": 11,
+              "username": "DaQiang8888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009441628810039423",
+        "in_reply_to_user_id": "2262312624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009411317887848742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansin_eth @DaQiang8888 互"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2262312624",
+        "conversation_id": "2009336571187875868",
+        "created_at": "2026-01-08T23:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T00:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009411317887848742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1520807258619191296",
+              "start": 0,
+              "username": "DaQiang8888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009411317887848742",
+        "in_reply_to_user_id": "1520807258619191296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009336571187875868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DaQiang8888 互"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3663,
+          "following_count": 342,
+          "like_count": 7679,
+          "listed_count": 15,
+          "media_count": 654,
+          "tweet_count": 2537
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2013-12-26T04:35:54.000Z",
+        "description": "首席 Vibecoder 🌊 以前写 Bug，现在让 AI 写 Bug。 坚定的 All in AI 主义者。 Stack: Cursor + Claude + ☕️",
+        "id": "2262312624",
+        "name": "哈里Hah ( 互关版 )",
+        "pinned_tweet_id": "2008911855520219190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905583397302665220/n97ueQT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 288,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 430
+        },
+        "username": "ansin_eth",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-01T16:48:10.000Z",
+        "description": "撸毛圣手｜空投分享｜回本路上的老韭菜\n记录币圈点滴，分享价值！\nTarget ➡️ 100 #BTC  1000 #ETH",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 46,
+                "tag": "BTC"
+              },
+              {
+                "end": 61,
+                "start": 57,
+                "tag": "ETH"
+              }
+            ]
+          }
+        },
+        "id": "1520807258619191296",
+        "location": "Solana",
+        "name": "大强",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997039597709414403/f3AvH6MA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 1649,
+          "like_count": 66,
+          "listed_count": 3,
+          "media_count": 21,
+          "tweet_count": 335
+        },
+        "username": "DaQiang8888",
+        "verified": true
+      }
+    ]
+  }
+}

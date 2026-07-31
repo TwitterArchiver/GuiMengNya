@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2009583521581633605",
+    "created_at": "2026-01-09T22:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T23:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009755905815163095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1573857759581286400",
+          "start": 0,
+          "username": "pxkitten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009755905815163095",
+    "in_reply_to_user_id": "1573857759581286400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009583521581633605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pxkitten 感觉好好用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1691,
+        "media_key": "3_2009583005938118656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-N5GL-acAAQt7H.jpg",
+        "width": 1931
+      },
+      {
+        "height": 1354,
+        "media_key": "3_2009583298927071232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-N5XPcbEAAFMLC.jpg",
+        "width": 1932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2009583521581633605",
+        "created_at": "2026-01-09T22:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T23:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009755905815163095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1573857759581286400",
+              "start": 0,
+              "username": "pxkitten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009755905815163095",
+        "in_reply_to_user_id": "1573857759581286400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009583521581633605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pxkitten 感觉好好用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009583005938118656",
+            "3_2009583298927071232"
+          ]
+        },
+        "author_id": "1573857759581286400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2009583521581633605",
+        "created_at": "2026-01-09T11:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009583521581633605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sHwnRyho0J",
+              "end": 176,
+              "expanded_url": "https://x.com/pxkitten/status/2009583521581633605/photo/1",
+              "media_key": "3_2009583005938118656",
+              "start": 153,
+              "url": "https://t.co/sHwnRyho0J"
+            },
+            {
+              "display_url": "pic.x.com/sHwnRyho0J",
+              "end": 176,
+              "expanded_url": "https://x.com/pxkitten/status/2009583521581633605/photo/1",
+              "media_key": "3_2009583298927071232",
+              "start": 153,
+              "url": "https://t.co/sHwnRyho0J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009583521581633605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "huggingface.co/spaces/multimo…",
+                "end": 438,
+                "expanded_url": "https://huggingface.co/spaces/multimodalart/qwen-image-multiple-angles-3d-camera",
+                "start": 415,
+                "url": "https://t.co/gCT9aKYhNX"
+              }
+            ]
+          },
+          "text": "以前做换角度，基本都需要抽卡\n同一个人、同一个姿势，你想要 45° 侧前方，模型理解成随便侧一点，甚至脸都变了。\n但我刚看到一个东西，直接在线拖动角度 就可以更换 而且不止动漫角色！ 真人和场景也行！\n\nAzimuth（水平旋转）/ Elevation（俯仰高度）/ Distance（远近），像在 3D 视口里拖相机一样改图角度。你甚至能从 UI 里看到提示词自动变成：front-right quarter view elevated shot medium shot 这种格式 完全不需要自己手写（见图）。\n\n这个 LoRA阿里千问的大模型：fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA\n它不是让模型猜视角，而是把视角离散成一套标准机位：\n4 个仰角 × 8 个方位 × 3 个距离 = 96 个相机姿态（而且强调低机位 -30° 也支持得很好）。\n\n真的很建议尝试！！  \n\nhttps://t.co/gCT9aKYhNX"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 91,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前做换角度，基本都需要抽卡\n同一个人、同一个姿势，你想要 45° 侧前方，模型理解成随便侧一点，甚至脸都变了。\n但我刚看到一个东西，直接在线拖动角度 就可以更换 而且不止动漫角色！ 真人和场景也行！\n\nAzimuth（水平旋转）/ Elevation（俯仰高度）/ Distance（远近），像在 3D https://t.co/sHwnRyho0J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3866,
+          "following_count": 413,
+          "like_count": 7973,
+          "listed_count": 15,
+          "media_count": 680,
+          "tweet_count": 2598
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-25T02:12:07.000Z",
+        "description": "哇!被这么好看的你关注了!✨ \nWow! Followed by someone so amazing!✨\nわぁ!こんな素敵な人にフォローされた! 💕",
+        "id": "1573857759581286400",
+        "location": "中区, 新加坡",
+        "name": "像素小猫",
+        "pinned_tweet_id": "2008403379903750555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006396306387066880/dAidJmR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 347,
+          "like_count": 954,
+          "listed_count": 4,
+          "media_count": 34,
+          "tweet_count": 135
+        },
+        "username": "pxkitten",
+        "verified": true
+      }
+    ]
+  }
+}

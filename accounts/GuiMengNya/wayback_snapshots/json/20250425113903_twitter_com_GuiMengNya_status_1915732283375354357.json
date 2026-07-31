@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1915707900632412652",
+    "created_at": "2025-04-25T11:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T12:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915732283375354357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1831984756432760832",
+          "start": 0,
+          "username": "Cyanide110705"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915732283375354357",
+    "in_reply_to_user_id": "1831984756432760832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915708361427083475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyanide110705 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1915707900632412652",
+        "created_at": "2025-04-25T11:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T12:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915732283375354357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1831984756432760832",
+              "start": 0,
+              "username": "Cyanide110705"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915732283375354357",
+        "in_reply_to_user_id": "1831984756432760832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915708361427083475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyanide110705 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831984756432760832",
+        "conversation_id": "1915707900632412652",
+        "created_at": "2025-04-25T10:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T11:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915708361427083475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915708361427083475",
+        "in_reply_to_user_id": "1831984756432760832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915707900632412652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "圈子。。。好小。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "R.I.P./06.11.15/坐标杭州/家长不管党/「文字形容不了我」/，坐标杭州的一只无证猫猫，重度焦虑重度抑郁疑似双向，喜欢机车，#INTJ，音游摆烂，不管怎么说都是不折不扣的纯爱党！好妹妹@cyanide110705，是@xiaoyeluo姐姐的猫猫，love@cyansoul2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 68,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "cyanide110705"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "xiaoyeluo"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥",
+        "pinned_tweet_id": "1908994587584319596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896591167699169280/G6AHL3FY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 217,
+          "like_count": 3402,
+          "listed_count": 7,
+          "media_count": 108,
+          "tweet_count": 1054
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T09:16:26.000Z",
+        "description": "泽成│さわなり\n☣️ **氰化钠系统·完全体** \n核心污染源：\n泰国热带腐烂指数↑↑↑\n日本签证泡在光遇霞谷的夕阳里\n语言中枢被《摇滚丧尸病毒》感染\n⚰️ **免责声明**：\n本账号是赛博棺材，推文即遗言\n关注=签署《自愿感染协议》\n掏出姐姐@GuiMengNya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "GuiMengNya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B5%B7yudac…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B5%B7yudachi",
+                "start": 0,
+                "url": "https://t.co/LP2yZYtEZp"
+              }
+            ]
+          }
+        },
+        "id": "1831984756432760832",
+        "location": "✨Never Land✨",
+        "name": "NaCN01",
+        "pinned_tweet_id": "1892557234032279641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914251309768941568/qGM8lyNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 78,
+          "like_count": 5822,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 550
+        },
+        "url": "https://t.co/LP2yZYtEZp",
+        "username": "Cyanide110705",
+        "verified": false
+      }
+    ]
+  }
+}

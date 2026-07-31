@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1978445595082641784",
+    "created_at": "2025-10-16T01:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T02:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978631690743382198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597605170502062080",
+          "start": 0,
+          "username": "Ayanami_rin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978631690743382198",
+    "in_reply_to_user_id": "1597605170502062080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978538342967824490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami_rin0 我的选择是坚持发表自己的看法与观点，有人反对的话我们可以理性辩论，有人急眼的话不妨碍我人身攻击，可能是吃的苦与受过的打击还不太够，只能说我这种做法也确实不成熟，或者说是个人习惯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1978445595082641784",
+        "created_at": "2025-10-16T01:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T02:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978631690743382198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597605170502062080",
+              "start": 0,
+              "username": "Ayanami_rin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978631690743382198",
+        "in_reply_to_user_id": "1597605170502062080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978538342967824490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami_rin0 我的选择是坚持发表自己的看法与观点，有人反对的话我们可以理性辩论，有人急眼的话不妨碍我人身攻击，可能是吃的苦与受过的打击还不太够，只能说我这种做法也确实不成熟，或者说是个人习惯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597605170502062080",
+        "conversation_id": "1978445595082641784",
+        "created_at": "2025-10-15T19:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T20:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978538342967824490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978538342967824490",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978445595082641784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 原来我之前这么说还几乎被网暴了，虽然早就正义切割了，但是后来我坚持不对这个圈子发表任何论点看法（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 300,
+          "like_count": 4864,
+          "listed_count": 7,
+          "media_count": 142,
+          "tweet_count": 1629
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-29T14:55:41.000Z",
+        "description": "只管开心,无需正常,#祝自由 ，#啊呀纳米相册 水中寒月如雪， 指尖轻点融解， 断桥是否下过雪🫖#小绫的诗歌日记本 糊满腻子的垃圾场于美丽的新世界🍨喜欢吃杨梅冰粉雪绵豆沙和马桶盖子 #小绫饭店 世界上最幸福的人",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "祝自由"
+              },
+              {
+                "end": 23,
+                "start": 16,
+                "tag": "啊呀纳米相册"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "tag": "小绫的诗歌日记本"
+              },
+              {
+                "end": 96,
+                "start": 91,
+                "tag": "小绫饭店"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ayanami_rin0eat",
+                "end": 23,
+                "expanded_url": "https://t.me/Ayanami_rin0eat",
+                "start": 0,
+                "url": "https://t.co/yZdZaQl6hE"
+              }
+            ]
+          }
+        },
+        "id": "1597605170502062080",
+        "location": "美丽而纯洁无瑕的少女总有一些小秘密，不是吗？",
+        "name": "涟漪aynm💨♿️🍼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978177217856487424/_yDj4ynS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3871,
+          "following_count": 570,
+          "like_count": 8895,
+          "listed_count": 10,
+          "media_count": 1087,
+          "tweet_count": 6422
+        },
+        "url": "https://t.co/yZdZaQl6hE",
+        "username": "Ayanami_rin0",
+        "verified": false
+      }
+    ]
+  }
+}

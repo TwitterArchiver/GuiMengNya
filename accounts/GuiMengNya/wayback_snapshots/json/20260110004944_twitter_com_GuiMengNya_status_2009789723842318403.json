@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2009465054421504310",
+    "created_at": "2026-01-10T00:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T01:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009789723842318403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1521321995795058689",
+          "start": 0,
+          "username": "Ru7Longcrypto"
+        },
+        {
+          "end": 25,
+          "id": "1297343586984321024",
+          "start": 15,
+          "username": "kengdaica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009789723842318403",
+    "in_reply_to_user_id": "1521321995795058689",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009465367056535558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ru7Longcrypto @kengdaica xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1823,
+        "media_key": "3_2009465357204115457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-MOGISa0AEUc9A.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2009465054421504310",
+        "created_at": "2026-01-10T00:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T01:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009789723842318403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1521321995795058689",
+              "start": 0,
+              "username": "Ru7Longcrypto"
+            },
+            {
+              "end": 25,
+              "id": "1297343586984321024",
+              "start": 15,
+              "username": "kengdaica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009789723842318403",
+        "in_reply_to_user_id": "1521321995795058689",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009465367056535558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ru7Longcrypto @kengdaica xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009465357204115457"
+          ]
+        },
+        "author_id": "1521321995795058689",
+        "conversation_id": "2009465054421504310",
+        "created_at": "2026-01-09T03:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T04:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009465367056535558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1297343586984321024",
+              "start": 0,
+              "username": "kengdaica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q54DBIFCOh",
+              "end": 46,
+              "expanded_url": "https://x.com/Ru7Longcrypto/status/2009465367056535558/photo/1",
+              "media_key": "3_2009465357204115457",
+              "start": 23,
+              "url": "https://t.co/q54DBIFCOh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009465367056535558",
+        "in_reply_to_user_id": "1297343586984321024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1693,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009465148743061942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kengdaica 严格意义上说我不是韭菜 https://t.co/q54DBIFCOh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3884,
+          "following_count": 423,
+          "like_count": 7998,
+          "listed_count": 15,
+          "media_count": 680,
+          "tweet_count": 2602
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-03T02:57:20.000Z",
+        "description": "🍩｜Bocchi KOL ｜野生分析师｜📱：ru73345｜🛰️：ivy20001025C ｜🎒｜Alpha圣手｜https://t.co/f7nzEiJDKI｜❗️❗️❗️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "web3.binance.com/referral?ref=F…",
+                "end": 80,
+                "expanded_url": "https://web3.binance.com/referral?ref=FE705S8H",
+                "start": 57,
+                "url": "https://t.co/f7nzEiJDKI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RU7LONGCRYPTO",
+                "end": 23,
+                "expanded_url": "https://t.me/RU7LONGCRYPTO",
+                "start": 0,
+                "url": "https://t.co/m9YMNe4jRm"
+              }
+            ]
+          }
+        },
+        "id": "1521321995795058689",
+        "location": "9527",
+        "name": "Ru7",
+        "pinned_tweet_id": "2009547652745339256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956781382677790720/yETpK58C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39755,
+          "following_count": 4900,
+          "like_count": 40095,
+          "listed_count": 568,
+          "media_count": 2294,
+          "tweet_count": 13747
+        },
+        "url": "https://t.co/m9YMNe4jRm",
+        "username": "Ru7Longcrypto",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-23T01:23:16.000Z",
+        "description": "Support to  @miranetwork @0xMiden @useTria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "miranetwork"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "0xMiden"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "useTria"
+              }
+            ]
+          }
+        },
+        "id": "1297343586984321024",
+        "name": "Keng",
+        "pinned_tweet_id": "2009432876279058851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986120721320550400/3b8yCj9p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6307,
+          "following_count": 6073,
+          "like_count": 161675,
+          "listed_count": 33,
+          "media_count": 3699,
+          "tweet_count": 152952
+        },
+        "username": "kengdaica",
+        "verified": true
+      }
+    ]
+  }
+}

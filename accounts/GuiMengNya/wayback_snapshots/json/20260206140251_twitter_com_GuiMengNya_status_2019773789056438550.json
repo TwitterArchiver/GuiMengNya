@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2019773518536384641",
+    "created_at": "2026-02-06T14:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T15:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019773789056438550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806993387285057537",
+          "start": 0,
+          "username": "CR_Rabbit_Li"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019773789056438550",
+    "in_reply_to_user_id": "1806993387285057537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019773518536384641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CR_Rabbit_Li 可以用千问免单送的券"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2019773518536384641",
+        "created_at": "2026-02-06T14:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T15:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019773789056438550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806993387285057537",
+              "start": 0,
+              "username": "CR_Rabbit_Li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019773789056438550",
+        "in_reply_to_user_id": "1806993387285057537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019773518536384641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CR_Rabbit_Li 可以用千问免单送的券"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806993387285057537",
+        "conversation_id": "2019773518536384641",
+        "created_at": "2026-02-06T14:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T15:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019773518536384641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/guimengnya/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/guimengnya/status/2019692928139161886",
+              "start": 41,
+              "url": "https://t.co/QZASJqcQJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019773518536384641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019692928139161886",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明天下血本试试 平时都是和陈文鼎的😢 去年每天晚上从棠棠练完出来经过百信就来一杯 https://t.co/QZASJqcQJF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6689,
+          "following_count": 716,
+          "like_count": 9842,
+          "listed_count": 20,
+          "media_count": 1096,
+          "tweet_count": 3205
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T10:09:50.000Z",
+        "description": "男｜08｜高三在家自学｜168｜68｜算是直男吧｜轻度极限运动爱好者（很菜）｜Minecraft｜一念逍遥｜文明6｜戴森球｜INT？",
+        "id": "1806993387285057537",
+        "location": "广州",
+        "name": "一只屑兔子🚴🏃",
+        "pinned_tweet_id": "2017940983615529312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015402151824994304/dLXffYYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 96,
+          "like_count": 10609,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1003
+        },
+        "username": "CR_Rabbit_Li",
+        "verified": false
+      }
+    ]
+  }
+}

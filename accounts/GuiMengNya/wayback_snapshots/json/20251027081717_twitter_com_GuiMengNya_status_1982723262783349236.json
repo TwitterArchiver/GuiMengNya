@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1982723262783349236",
+    "created_at": "2025-10-27T08:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T09:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982723262783349236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1340253206417272832",
+          "start": 3,
+          "username": "Shina_Kaede"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982723262783349236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982553462912241742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shina_Kaede: 现实中离得越远的人，反而越容易出现在梦里呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1982723262783349236",
+        "created_at": "2025-10-27T08:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T09:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982723262783349236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1340253206417272832",
+              "start": 3,
+              "username": "Shina_Kaede"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982723262783349236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982553462912241742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shina_Kaede: 现实中离得越远的人，反而越容易出现在梦里呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340253206417272832",
+        "conversation_id": "1982553462912241742",
+        "created_at": "2025-10-26T21:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T22:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982553462912241742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982553462912241742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 384,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现实中离得越远的人，反而越容易出现在梦里呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 305,
+          "like_count": 5153,
+          "listed_count": 7,
+          "media_count": 146,
+          "tweet_count": 1677
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-19T11:10:48.000Z",
+        "description": "随心而动🍁INFJ/🇯🇵/Les🏳️‍🌈/22♍️♎️/理系人文/認知神経心理学/心理言語学/医学/中文/EN/日本語/元声優/雀魂/FF14鸟区/茶道/コーヒー/雑学/和楽器/吹奏楽/弓道/愛と言う感情を知るため旅中✨文学少女育成中(^_ _^)♪ @xiwanzinya💕最可靠的妹妹@piaoyao21",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 126,
+                "username": "xiwanzinya"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "piaoyao21"
+              }
+            ]
+          }
+        },
+        "id": "1340253206417272832",
+        "location": "東京 文京区",
+        "name": "椎名かえで「情欲の魔女」",
+        "pinned_tweet_id": "1464963304502312963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508760383854718977/y9BOK3D4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 3640,
+          "like_count": 17962,
+          "listed_count": 12,
+          "media_count": 589,
+          "tweet_count": 6793
+        },
+        "username": "Shina_Kaede",
+        "verified": true
+      }
+    ]
+  }
+}

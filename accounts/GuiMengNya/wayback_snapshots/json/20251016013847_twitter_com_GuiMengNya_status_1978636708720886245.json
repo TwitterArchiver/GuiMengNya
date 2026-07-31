@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1978625079815688687",
+    "created_at": "2025-10-16T01:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T02:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978636708720886245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1721003883579748352",
+          "start": 0,
+          "username": "tushanhonghong9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978636708720886245",
+    "in_reply_to_user_id": "1721003883579748352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我认同走出规范才有自由，但是就论国内近千年从秦始皇的统治，做的就是打压异端，焚书坑儒，维护社会稳定，到现在也是同理，走出规范不考虑屠龙少年终成恶龙的事情，最终统治者为了达成稳定的统治，依旧可能会做出一定限制，美国为什么到现在也逐渐开始对于 lgbt 的态度有一定转变，我个人认为也是为了维护统治"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978635552976237045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tushanhonghong9 我认同走出规范才有自由，但是就论国内近千年从秦始皇的统治，做的就是打压异端，焚书坑儒，维护社会稳定，到现在也是同理，走出规范不考虑屠龙少年终成恶龙的事情，最终统治者为了达成稳定的统治，依旧可能会做出一定限制，美国为什么到现在也逐渐开始对于 lgbt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1978625079815688687",
+        "created_at": "2025-10-16T01:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T02:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978636708720886245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1721003883579748352",
+              "start": 0,
+              "username": "tushanhonghong9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978636708720886245",
+        "in_reply_to_user_id": "1721003883579748352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我认同走出规范才有自由，但是就论国内近千年从秦始皇的统治，做的就是打压异端，焚书坑儒，维护社会稳定，到现在也是同理，走出规范不考虑屠龙少年终成恶龙的事情，最终统治者为了达成稳定的统治，依旧可能会做出一定限制，美国为什么到现在也逐渐开始对于 lgbt 的态度有一定转变，我个人认为也是为了维护统治"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978635552976237045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tushanhonghong9 我认同走出规范才有自由，但是就论国内近千年从秦始皇的统治，做的就是打压异端，焚书坑儒，维护社会稳定，到现在也是同理，走出规范不考虑屠龙少年终成恶龙的事情，最终统治者为了达成稳定的统治，依旧可能会做出一定限制，美国为什么到现在也逐渐开始对于 lgbt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721003883579748352",
+        "conversation_id": "1978625079815688687",
+        "created_at": "2025-10-16T01:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T02:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978635552976237045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978635552976237045",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978633043528323563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 以“正常的大多数人”的角度看当然是没有的，以保卫现有秩序的角度看当然是不能纠正的\n这种规范作用在人身上而每个人参与其中，这种循环让人无法认识社会的结构，只有走出规范才能得到自由\n想想为什么反抗者会被打压、现代社会能维持统治的前提是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 300,
+          "like_count": 4869,
+          "listed_count": 7,
+          "media_count": 142,
+          "tweet_count": 1631
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-05T03:18:25.000Z",
+        "description": "一场梦要多长，才生发希望？ 最苦相思，最远却是遗忘。/🍥250314/努力思考中...",
+        "id": "1721003883579748352",
+        "location": "涂山",
+        "name": "涂山红红",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721008174629527552/jPpZLMx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 447,
+          "like_count": 22763,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1067
+        },
+        "username": "tushanhonghong9",
+        "verified": false
+      }
+    ]
+  }
+}

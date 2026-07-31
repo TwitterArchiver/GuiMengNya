@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1977180807916847369",
+    "created_at": "2025-10-12T07:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T08:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977273147968962753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1812559263371591680",
+          "start": 0,
+          "username": "huamingyouqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977273147968962753",
+    "in_reply_to_user_id": "1812559263371591680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977255379122671987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huamingyouqi 我也"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 488,
+        "media_key": "3_1977255376757141504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3CfSgnXMAAtEOb.jpg",
+        "width": 482
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1977180807916847369",
+        "created_at": "2025-10-12T07:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T08:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977273147968962753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1812559263371591680",
+              "start": 0,
+              "username": "huamingyouqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977273147968962753",
+        "in_reply_to_user_id": "1812559263371591680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977255379122671987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huamingyouqi 我也"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977255376757141504"
+          ]
+        },
+        "author_id": "1812559263371591680",
+        "conversation_id": "1977180807916847369",
+        "created_at": "2025-10-12T06:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T07:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977255379122671987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OlgMD5VaGe",
+              "end": 41,
+              "expanded_url": "https://x.com/huamingyouqi/status/1977255379122671987/photo/1",
+              "media_key": "3_1977255376757141504",
+              "start": 18,
+              "url": "https://t.co/OlgMD5VaGe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977255379122671987",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977219613458153860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 我容易失眠 https://t.co/OlgMD5VaGe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 293,
+          "like_count": 4659,
+          "listed_count": 7,
+          "media_count": 139,
+          "tweet_count": 1569
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T18:46:40.000Z",
+        "description": "疯疯癫癫的神明 疯疯癫癫的世界 疯疯癫癫的我",
+        "id": "1812559263371591680",
+        "location": "世界尽头",
+        "name": "花名有琦🍥",
+        "pinned_tweet_id": "1965778552596705323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895039845816242176/dsjw8pzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 539,
+          "like_count": 13132,
+          "listed_count": 4,
+          "media_count": 963,
+          "tweet_count": 5946
+        },
+        "username": "huamingyouqi",
+        "verified": false
+      }
+    ]
+  }
+}

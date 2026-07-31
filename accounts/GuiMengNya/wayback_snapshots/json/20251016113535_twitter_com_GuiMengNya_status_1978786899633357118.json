@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1978786899633357118",
+    "created_at": "2025-10-16T11:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T12:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978786899633357118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1702316313472081921",
+          "start": 3,
+          "username": "k49ur473"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/k49ur473/statu…",
+          "end": 37,
+          "expanded_url": "https://x.com/k49ur473/status/1978678572416909551",
+          "start": 14,
+          "url": "https://t.co/FrqgsghTN7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978786899633357118",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978722924098932791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k49ur473: https://t.co/FrqgsghTN7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1978786899633357118",
+        "created_at": "2025-10-16T11:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T12:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978786899633357118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1702316313472081921",
+              "start": 3,
+              "username": "k49ur473"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/k49ur473/statu…",
+              "end": 37,
+              "expanded_url": "https://x.com/k49ur473/status/1978678572416909551",
+              "start": 14,
+              "url": "https://t.co/FrqgsghTN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978786899633357118",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978722924098932791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k49ur473: https://t.co/FrqgsghTN7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702316313472081921",
+        "conversation_id": "1978674757944934738",
+        "created_at": "2025-10-16T07:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T08:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978722924098932791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/k49ur473/statu…",
+              "end": 23,
+              "expanded_url": "https://x.com/k49ur473/status/1978678572416909551",
+              "start": 0,
+              "url": "https://t.co/FrqgsghTN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978722924098932791",
+        "in_reply_to_user_id": "1702316313472081921",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978678572416909551",
+            "type": "quoted"
+          },
+          {
+            "id": "1978674757944934738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/FrqgsghTN7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 299,
+          "like_count": 4916,
+          "listed_count": 7,
+          "media_count": 141,
+          "tweet_count": 1644
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-14T13:40:28.000Z",
+        "description": "中文 /English/日本語 OK！| Rust和Kotlin高度黑子 | 舞萌樱将持有 | GoLang和TypeScript享受者 | 好用的代理：https://t.co/HmIg4t7tjK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miaona.org/#/register?cod…",
+                "end": 100,
+                "expanded_url": "https://miaona.org/#/register?code=amRzwRzt",
+                "start": 77,
+                "url": "https://t.co/HmIg4t7tjK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akich.io",
+                "end": 23,
+                "expanded_url": "https://akich.io/",
+                "start": 0,
+                "url": "https://t.co/fl14H01veE"
+              }
+            ]
+          }
+        },
+        "id": "1702316313472081921",
+        "location": "茨城 鹿嶋市",
+        "name": "AkiChan",
+        "pinned_tweet_id": "1881620432627085501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840336006459052033/J9d3uSO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 179,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/fl14H01veE",
+        "username": "k49ur473",
+        "verified": true
+      }
+    ]
+  }
+}

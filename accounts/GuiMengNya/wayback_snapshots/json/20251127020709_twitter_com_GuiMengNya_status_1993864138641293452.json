@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1993861477556699628",
+    "created_at": "2025-11-27T02:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T03:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993864138641293452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "ShimonaChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993864138641293452",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993861477556699628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShimonaChan 为什么不登外区账号"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 302,
+        "media_key": "3_1993861469252014081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6uecT4a0AEvNV_.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1010,
+        "media_key": "3_1993861469251997696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6uecT4akAAE_CJ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1993861477556699628",
+        "created_at": "2025-11-27T02:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993864138641293452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "ShimonaChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993864138641293452",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993861477556699628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShimonaChan 为什么不登外区账号"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993861469252014081",
+            "3_1993861469251997696"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "1993861477556699628",
+        "created_at": "2025-11-27T01:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T02:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993861477556699628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q7H32rqxlZ",
+              "end": 55,
+              "expanded_url": "https://x.com/ShimonaChan/status/1993861477556699628/photo/1",
+              "media_key": "3_1993861469252014081",
+              "start": 32,
+              "url": "https://t.co/q7H32rqxlZ"
+            },
+            {
+              "display_url": "pic.x.com/q7H32rqxlZ",
+              "end": 55,
+              "expanded_url": "https://x.com/ShimonaChan/status/1993861477556699628/photo/1",
+              "media_key": "3_1993861469251997696",
+              "start": 32,
+              "url": "https://t.co/q7H32rqxlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993861477556699628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你都apple intelligence了怎么还不给我苹果智能 https://t.co/q7H32rqxlZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 335,
+          "like_count": 6889,
+          "listed_count": 8,
+          "media_count": 269,
+          "tweet_count": 2044
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| CN/EN/JP || Shimona or Rophlis || Icon: ©️Acacia || Banner: おにやまけい 様 || Fragments and Threads from the Void… || #まのさば #ヨグソトースの庭 #NeedyGirlOverdose",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "まのさば"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "tag": "ヨグソトースの庭"
+              },
+              {
+                "end": 149,
+                "start": 131,
+                "tag": "NeedyGirlOverdose"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Rophlis",
+        "name": "Shimona@共犯者",
+        "pinned_tweet_id": "1984815386660143332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984795389481140225/l7_mOVqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27925,
+          "following_count": 3545,
+          "like_count": 11523,
+          "listed_count": 30,
+          "media_count": 4381,
+          "tweet_count": 30045
+        },
+        "username": "ShimonaChan",
+        "verified": false
+      }
+    ]
+  }
+}

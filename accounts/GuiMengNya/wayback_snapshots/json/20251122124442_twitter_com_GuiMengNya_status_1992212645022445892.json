@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1992062460640284750",
+    "created_at": "2025-11-22T12:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T13:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992212645022445892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870313420807163904",
+          "start": 0,
+          "username": "IzayoiMarin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992212645022445892",
+    "in_reply_to_user_id": "1870313420807163904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992062460640284750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzayoiMarin 不学就不学"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992062457817546752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6U6QECbQAAGsnh.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1992062460640284750",
+        "created_at": "2025-11-22T12:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T13:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992212645022445892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870313420807163904",
+              "start": 0,
+              "username": "IzayoiMarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992212645022445892",
+        "in_reply_to_user_id": "1870313420807163904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992062460640284750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiMarin 不学就不学"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992062457817546752"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "1992062460640284750",
+        "created_at": "2025-11-22T02:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T03:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992062460640284750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qwsjxZW4g1",
+              "end": 29,
+              "expanded_url": "https://x.com/IzayoiMarin/status/1992062460640284750/photo/1",
+              "media_key": "3_1992062457817546752",
+              "start": 6,
+              "url": "https://t.co/qwsjxZW4g1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992062460640284750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 38731,
+          "like_count": 167,
+          "quote_count": 0,
+          "reply_count": 96,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老子不学了 https://t.co/qwsjxZW4g1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 330,
+          "like_count": 6754,
+          "listed_count": 8,
+          "media_count": 237,
+          "tweet_count": 1974
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "09/高二（上学白天不在）/物化生/生理性别女/互fo/フォロバ99%/🇨🇳人/🇯🇵好き/不是很爱看DM/挂： @soyorin_chihaya @quasoawa @Sirataka287 @satochocolat17 @Baixiaoming2952 @NovaBabelo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 56,
+                "username": "soyorin_chihaya"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "quasoawa"
+              },
+              {
+                "end": 95,
+                "start": 83,
+                "username": "Sirataka287"
+              },
+              {
+                "end": 111,
+                "start": 96,
+                "username": "satochocolat17"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "Baixiaoming2952"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "NovaBabelo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQro7WH"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "ダーリン、頑張って",
+        "name": "まりん（回fo限制版）",
+        "pinned_tweet_id": "1987205969340764453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979839146601426944/LBpfTPIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 1995,
+          "like_count": 29100,
+          "listed_count": 5,
+          "media_count": 1033,
+          "tweet_count": 13262
+        },
+        "url": "https://t.co/BABPQro7WH",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

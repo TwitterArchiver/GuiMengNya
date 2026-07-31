@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2014308040955326944",
+    "created_at": "2026-01-22T12:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T13:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014308573820625028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1484131775051796485",
+          "start": 0,
+          "username": "senkakira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014308573820625028",
+    "in_reply_to_user_id": "1484131775051796485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014308040955326944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senkakira 年少不知爱滋味，为赋新词强说愁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2014308040955326944",
+        "created_at": "2026-01-22T12:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T13:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014308573820625028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1484131775051796485",
+              "start": 0,
+              "username": "senkakira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014308573820625028",
+        "in_reply_to_user_id": "1484131775051796485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014308040955326944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senkakira 年少不知爱滋味，为赋新词强说愁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484131775051796485",
+        "conversation_id": "2014308040955326944",
+        "created_at": "2026-01-22T12:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T13:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014308040955326944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GuiMengNya/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/GuiMengNya/status/2014166926684299362",
+              "start": 41,
+              "url": "https://t.co/STyWCN9gtQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014308040955326944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014166926684299362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "愛是什麼是什麼是什麼是什麼是什麼是什麼是什麼是什麼是什麼是什麼是什麼\n\n我要哭了 https://t.co/STyWCN9gtQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5471,
+          "following_count": 624,
+          "like_count": 9011,
+          "listed_count": 15,
+          "media_count": 895,
+          "tweet_count": 2929
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-20T11:52:52.000Z",
+        "description": "中文⭕台語⭕English🉑日本語🉑\n生活在現實世界，卻常常有不符合常理的生活體驗，自我認知該是真實世界的人物。\n\n✃居所 https://t.co/dp9NdJZIHG\n✃通用 #微醺染香\n✃FanArt/相關繪畫 #染香繪 (可能作為素材使用)\n✃MeMe #毒愛染香\n✃R18 #染色坊",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 90,
+                "tag": "微醺染香"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "染香繪"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "tag": "毒愛染香"
+              },
+              {
+                "end": 146,
+                "start": 142,
+                "tag": "染色坊"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/knightleft",
+                "end": 85,
+                "expanded_url": "http://twitch.tv/knightleft",
+                "start": 62,
+                "url": "https://t.co/dp9NdJZIHG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/senkakira",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/senkakira",
+                "start": 0,
+                "url": "https://t.co/osaBrqf04i"
+              }
+            ]
+          }
+        },
+        "id": "1484131775051796485",
+        "location": "迷失層",
+        "name": "染香★Senka*🔥🌟🎮🎲忙碌年底",
+        "pinned_tweet_id": "2012481410154594570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996849455170310145/Up1z0YYw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 974,
+          "like_count": 11625,
+          "listed_count": 4,
+          "media_count": 1577,
+          "tweet_count": 9928
+        },
+        "url": "https://t.co/osaBrqf04i",
+        "username": "senkakira",
+        "verified": false
+      }
+    ]
+  }
+}

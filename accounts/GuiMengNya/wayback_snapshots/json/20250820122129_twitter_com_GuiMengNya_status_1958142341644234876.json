@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1957618736674009286",
+    "created_at": "2025-08-20T12:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T13:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958142341644234876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799712296375287808",
+          "start": 0,
+          "username": "Clarrycy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958142341644234876",
+    "in_reply_to_user_id": "1799712296375287808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957618736674009286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Clarrycy 太优雅了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 758,
+        "media_key": "3_1957618731737346048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyrb3Vba8AACHkU.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1957618736674009286",
+        "created_at": "2025-08-20T12:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T13:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958142341644234876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799712296375287808",
+              "start": 0,
+              "username": "Clarrycy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958142341644234876",
+        "in_reply_to_user_id": "1799712296375287808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957618736674009286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Clarrycy 太优雅了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957618731737346048"
+          ]
+        },
+        "author_id": "1799712296375287808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1957618736674009286",
+        "created_at": "2025-08-19T01:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T02:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957618736674009286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QJaRSoHU9L",
+              "end": 29,
+              "expanded_url": "https://x.com/Clarrycy/status/1957618736674009286/photo/1",
+              "media_key": "3_1957618731737346048",
+              "start": 6,
+              "url": "https://t.co/QJaRSoHU9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957618736674009286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 88134,
+          "like_count": 912,
+          "quote_count": 11,
+          "reply_count": 81,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "我写代码： https://t.co/QJaRSoHU9L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州/精神比你正常就对了/喜欢音游，机车/#INTJ/含妈量极高/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1958099553724362948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 234,
+          "like_count": 3604,
+          "listed_count": 6,
+          "media_count": 121,
+          "tweet_count": 1196
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T07:57:14.000Z",
+        "description": "喜报：如果在说话之前加上“喜报”两个字，那这段话看起来就真的像是喜报一样！🥳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "clarrycy.com",
+                "end": 23,
+                "expanded_url": "http://clarrycy.com",
+                "start": 0,
+                "url": "https://t.co/ay5RA3Hauq"
+              }
+            ]
+          }
+        },
+        "id": "1799712296375287808",
+        "location": "小狗窝",
+        "name": "Clarrycy (探索中)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944668298601213952/wtnlXoUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2950,
+          "following_count": 676,
+          "like_count": 90171,
+          "listed_count": 18,
+          "media_count": 2461,
+          "tweet_count": 17360
+        },
+        "url": "https://t.co/ay5RA3Hauq",
+        "username": "Clarrycy",
+        "verified": true
+      }
+    ]
+  }
+}

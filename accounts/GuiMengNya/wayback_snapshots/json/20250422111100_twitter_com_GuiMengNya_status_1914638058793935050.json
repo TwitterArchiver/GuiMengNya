@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1914457405938934208",
+    "created_at": "2025-04-22T11:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T12:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914638058793935050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1516283801600552960",
+          "start": 0,
+          "username": "Awake_3A21_2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914638058793935050",
+    "in_reply_to_user_id": "1516283801600552960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914635775339024795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Awake_3A21_2025 没有诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1914457405938934208",
+        "created_at": "2025-04-22T11:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T12:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914638058793935050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1516283801600552960",
+              "start": 0,
+              "username": "Awake_3A21_2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914638058793935050",
+        "in_reply_to_user_id": "1516283801600552960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914635775339024795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Awake_3A21_2025 没有诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516283801600552960",
+        "conversation_id": "1914457405938934208",
+        "created_at": "2025-04-22T11:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T12:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914635775339024795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914635775339024795",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914457405938934208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 佬附近有能刷万代卡的太鼓机台吗😭我这的刷卡坏了😭我卡都买了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "R.I.P./06.11.15/坐标杭州/家长不管党/性别未知mtm/x/f，重度焦虑重度抑郁疑似双向，喜欢机车，不接线下，#INTJ，音游摆烂，不管怎么说都是不折不扣的纯爱党！好妹妹@cyanide110705，是@xiaoyeluo姐姐的猫猫，5.2元包养的小可爱@GriseoQAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 62,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "cyanide110705"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "xiaoyeluo"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "GriseoQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦",
+        "pinned_tweet_id": "1908994587584319596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896591167699169280/G6AHL3FY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 211,
+          "like_count": 3308,
+          "listed_count": 7,
+          "media_count": 106,
+          "tweet_count": 1013
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T05:13:33.000Z",
+        "description": "某人疑似不存在的自设的具象化｜摄影垃圾佬 ｜太鼓又菜又爱玩 ｜PJSK苦手 ｜别的没什么你需要知道的了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/FoehnRevolt2024",
+                "end": 23,
+                "expanded_url": "http://t.me/FoehnRevolt2024",
+                "start": 0,
+                "url": "https://t.co/QsCrT3EAzX"
+              }
+            ]
+          }
+        },
+        "id": "1516283801600552960",
+        "location": "沃克网运行主机",
+        "name": "Awake_3A21 - Mainframe",
+        "pinned_tweet_id": "1906545906318753996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902274101496180739/kM3fDQWt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 945,
+          "like_count": 21339,
+          "listed_count": 2,
+          "media_count": 808,
+          "tweet_count": 11090
+        },
+        "url": "https://t.co/QsCrT3EAzX",
+        "username": "Awake_3A21_2025",
+        "verified": false
+      }
+    ]
+  }
+}

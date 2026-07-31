@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010149342448103426"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "conversation_id": "2009758737410793670",
+    "created_at": "2026-01-11T00:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T01:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010149348177588447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "967772103918284802",
+          "start": 0,
+          "username": "Meta8Mate"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/29lyJJiBr5",
+          "end": 46,
+          "expanded_url": "https://x.com/GuiMengNya/status/2010149348177588447/photo/1",
+          "media_key": "3_2010149342448103426",
+          "start": 23,
+          "url": "https://t.co/29lyJJiBr5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010149348177588447",
+    "in_reply_to_user_id": "967772103918284802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009758737410793670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meta8Mate 单手操作和盲打都很方便 https://t.co/29lyJJiBr5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010149342448103426",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-V8LT4asAI3wFV.jpg",
+        "width": 1014
+      },
+      {
+        "height": 1641,
+        "media_key": "3_2009758732016832512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-QY6yoaUAAINiV.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010149342448103426"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "2009758737410793670",
+        "created_at": "2026-01-11T00:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T01:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010149348177588447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "967772103918284802",
+              "start": 0,
+              "username": "Meta8Mate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/29lyJJiBr5",
+              "end": 46,
+              "expanded_url": "https://x.com/GuiMengNya/status/2010149348177588447/photo/1",
+              "media_key": "3_2010149342448103426",
+              "start": 23,
+              "url": "https://t.co/29lyJJiBr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010149348177588447",
+        "in_reply_to_user_id": "967772103918284802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009758737410793670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meta8Mate 单手操作和盲打都很方便 https://t.co/29lyJJiBr5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009758732016832512"
+          ]
+        },
+        "author_id": "967772103918284802",
+        "conversation_id": "2009758737410793670",
+        "created_at": "2026-01-09T22:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T23:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009758737410793670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7XI0VQ3XJJ",
+              "end": 143,
+              "expanded_url": "https://x.com/Meta8Mate/status/2009758737410793670/photo/1",
+              "media_key": "3_2009758732016832512",
+              "start": 120,
+              "url": "https://t.co/7XI0VQ3XJJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009758737410793670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7476,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 75,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现一个问题，现在还有多少人会用九宫格输入法？是不是都在用全键盘？\n\n上次遇到个零零后，他看到我的输入法很诧异的问：这是什么输入法？以为我是外国人…\n\n记得以前上学的时候可以盲打九宫格，发短信和别人聊天。\n\n完了，是不是暴露年龄了…🤣 https://t.co/7XI0VQ3XJJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4522,
+          "following_count": 492,
+          "like_count": 8291,
+          "listed_count": 16,
+          "media_count": 713,
+          "tweet_count": 2663
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-25T14:43:44.000Z",
+        "description": "猫本8年穿越牛熊Trader,杰尼社区创始人\n微信Jieni177\nQ群217346456\n电报群https://t.co/pbirntl05Z\n商务联系TG@Edward1886\n近3亿用户的共同选择，出入金安全，启程Web3，就在币安：\n币安20%返佣https://t.co/DkcY3NrsDo  码JN188\n#Binance",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 168,
+                "start": 160,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Jienibaby",
+                "end": 72,
+                "expanded_url": "http://t.me/Jienibaby",
+                "start": 49,
+                "url": "https://t.co/pbirntl05Z"
+              },
+              {
+                "display_url": "bit.ly/BNB188",
+                "end": 151,
+                "expanded_url": "http://bit.ly/BNB188",
+                "start": 128,
+                "url": "https://t.co/DkcY3NrsDo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Meta588",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Meta588",
+                "start": 0,
+                "url": "https://t.co/7FkLwYc0CA"
+              }
+            ]
+          }
+        },
+        "id": "967772103918284802",
+        "location": "Melbourne, Victoria",
+        "name": "机灵的杰尼君🔶BNB",
+        "pinned_tweet_id": "1966494498768220630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530002268334223360/lwFqoY3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102656,
+          "following_count": 2973,
+          "like_count": 1653,
+          "listed_count": 1276,
+          "media_count": 10858,
+          "tweet_count": 31140
+        },
+        "url": "https://t.co/7FkLwYc0CA",
+        "username": "Meta8Mate",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1873757557971673474",
+    "created_at": "2025-12-01T06:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T07:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995381543456710919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1822130523059490816",
+          "start": 0,
+          "username": "Girl_in_HuaXi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995381543456710919",
+    "in_reply_to_user_id": "1822130523059490816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873757557971673474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Girl_in_HuaXi 中国人口太多了，医保只会给社会造成更大的负担，支持自费看病 0 医保，有钱人活下去享受优质医疗资源，没钱的的听天由命"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_1873757555945816064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgDskc1awAAS72j.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1873757557971673474",
+        "created_at": "2025-12-01T06:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T07:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995381543456710919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1822130523059490816",
+              "start": 0,
+              "username": "Girl_in_HuaXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995381543456710919",
+        "in_reply_to_user_id": "1822130523059490816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873757557971673474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Girl_in_HuaXi 中国人口太多了，医保只会给社会造成更大的负担，支持自费看病 0 医保，有钱人活下去享受优质医疗资源，没钱的的听天由命"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873757555945816064"
+          ]
+        },
+        "author_id": "1822130523059490816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1873757557971673474",
+        "created_at": "2024-12-30T15:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T16:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873757557971673474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ivNe430kZZ",
+              "end": 164,
+              "expanded_url": "https://x.com/Girl_in_HuaXi/status/1873757557971673474/photo/1",
+              "media_key": "3_1873757555945816064",
+              "start": 141,
+              "url": "https://t.co/ivNe430kZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873757557971673474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 486677,
+          "like_count": 900,
+          "quote_count": 9,
+          "reply_count": 191,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "我为何坚定地支持共产党，拥护习近平？（十二）\n偶然翻到一个患尿毒症的大哥2021年发在朋友圈的他看病的发票，他家交的是农村居民基本医疗保险，因为尿毒症属于特殊病种，即使他在三甲医院看病，报销比例也达到了90%。很多人在攻击中国的医保，可是世界上又有几个国家有性价比这么高的医保呢？ https://t.co/ivNe430kZZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1635,
+          "following_count": 338,
+          "like_count": 6967,
+          "listed_count": 9,
+          "media_count": 290,
+          "tweet_count": 2082
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-10T04:39:22.000Z",
+        "description": "爱生活、爱分享的女孩，欢迎互 fo～",
+        "id": "1822130523059490816",
+        "location": "Hong Kong",
+        "name": "姜是姜子牙的姜",
+        "pinned_tweet_id": "1994231691804581949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825469312129273856/VCJMMvTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7697,
+          "following_count": 4721,
+          "like_count": 39031,
+          "listed_count": 39,
+          "media_count": 2169,
+          "tweet_count": 11904
+        },
+        "username": "Girl_in_HuaXi",
+        "verified": false
+      }
+    ]
+  }
+}

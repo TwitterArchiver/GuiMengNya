@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1990393153027743925",
+    "created_at": "2025-11-17T21:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T22:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990531445115531729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239457591417171973",
+          "start": 0,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990531445115531729",
+    "in_reply_to_user_id": "1239457591417171973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990393153027743925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GFWfrog 都去堵桥去😏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1990393148019822592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59MBccX0AA7PQc.jpg",
+        "width": 461
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1990393153027743925",
+        "created_at": "2025-11-17T21:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T22:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990531445115531729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239457591417171973",
+              "start": 0,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990531445115531729",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990393153027743925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GFWfrog 都去堵桥去😏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990393148019822592"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "conversation_id": "1990393153027743925",
+        "created_at": "2025-11-17T12:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T13:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990393153027743925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uwWRC3zCjB",
+              "end": 44,
+              "expanded_url": "https://x.com/GFWfrog/status/1990393153027743925/photo/1",
+              "media_key": "3_1990393148019822592",
+              "start": 21,
+              "url": "https://t.co/uwWRC3zCjB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990393153027743925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 31519,
+          "like_count": 234,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "好消息，咱妈这又赢了！\n\n🕶️ 匿名投稿 https://t.co/uwWRC3zCjB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1982061018953232844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 332,
+          "like_count": 6573,
+          "listed_count": 8,
+          "media_count": 230,
+          "tweet_count": 1927
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "是墙国蛙蛤蛤不是强国娃哈哈🐸\n欢迎私信投稿\n\nTg群：https://t.co/BbAyHfnObj\n频道：https://t.co/Evu48wmwfT\n\n#大自爆运动 ：党政机关、国企、互联网大厂……无论在哪工作，欢迎一切有关审查机器与极权系统运作的投稿，用真实击败独裁！\n\n邮箱：gfwfrog@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "大自爆运动"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 50,
+                "expanded_url": "https://t.me/SpeedUpCN",
+                "start": 27,
+                "url": "https://t.co/BbAyHfnObj"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 77,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 54,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85idW"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙蛤蛤🐸（大自爆运动💣习近乎脑残粉🐻）",
+        "pinned_tweet_id": "1989502783440261463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976883150937579520/e0qViSb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250885,
+          "following_count": 1938,
+          "like_count": 100866,
+          "listed_count": 856,
+          "media_count": 5722,
+          "tweet_count": 10258
+        },
+        "url": "https://t.co/B3cyU85idW",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

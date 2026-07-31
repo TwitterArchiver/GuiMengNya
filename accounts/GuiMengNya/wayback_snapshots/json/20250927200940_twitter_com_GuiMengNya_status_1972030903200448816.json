@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1971990884049998102",
+    "created_at": "2025-09-27T20:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T21:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972030903200448816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1735288034180882432",
+          "start": 0,
+          "username": "GMDLsama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972030903200448816",
+    "in_reply_to_user_id": "1735288034180882432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972029927324258493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GMDLsama 正经工作比别人下海赚的多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1971990884049998102",
+        "created_at": "2025-09-27T20:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T21:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972030903200448816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1735288034180882432",
+              "start": 0,
+              "username": "GMDLsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972030903200448816",
+        "in_reply_to_user_id": "1735288034180882432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972029927324258493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GMDLsama 正经工作比别人下海赚的多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735288034180882432",
+        "conversation_id": "1971990884049998102",
+        "created_at": "2025-09-27T20:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T21:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972029927324258493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972029927324258493",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972029781890965782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 事已至此，下海吧✧٩(ˊωˋ*)و✧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中",
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1966904981568852417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 256,
+          "like_count": 4256,
+          "listed_count": 7,
+          "media_count": 129,
+          "tweet_count": 1421
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-14T13:18:13.000Z",
+        "description": "男娘头子？",
+        "id": "1735288034180882432",
+        "name": "li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900160513235181569/LJpUWp9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 120,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 310
+        },
+        "username": "GMDLsama",
+        "verified": false
+      }
+    ]
+  }
+}

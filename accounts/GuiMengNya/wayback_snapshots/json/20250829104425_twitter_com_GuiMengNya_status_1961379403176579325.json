@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1961247436149604721",
+    "created_at": "2025-08-29T10:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T11:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961379403176579325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1591044696788566016",
+          "start": 0,
+          "username": "MASONDO_TW"
+        },
+        {
+          "end": 27,
+          "id": "1260553941714186241",
+          "start": 12,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961379403176579325",
+    "in_reply_to_user_id": "1591044696788566016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961258372239691843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MASONDO_TW @whyyoutouzhele 没这么健康"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1961258163627581440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzfJ6JvbYAAxjoj.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1961247436149604721",
+        "created_at": "2025-08-29T10:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T11:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961379403176579325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1591044696788566016",
+              "start": 0,
+              "username": "MASONDO_TW"
+            },
+            {
+              "end": 27,
+              "id": "1260553941714186241",
+              "start": 12,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961379403176579325",
+        "in_reply_to_user_id": "1591044696788566016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961258372239691843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MASONDO_TW @whyyoutouzhele 没这么健康"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961258163627581440"
+          ]
+        },
+        "author_id": "1591044696788566016",
+        "conversation_id": "1961247436149604721",
+        "created_at": "2025-08-29T02:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T03:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961258372239691843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ikLMdv45dM",
+              "end": 52,
+              "expanded_url": "https://x.com/MASONDO_TW/status/1961258372239691843/photo/1",
+              "media_key": "3_1961258163627581440",
+              "start": 29,
+              "url": "https://t.co/ikLMdv45dM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961258372239691843",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6078,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961247436149604721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 🇯🇵如果維尼住在日本🇯🇵 https://t.co/ikLMdv45dM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/我的对象在哪里(伤心)/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1958099553724362948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 244,
+          "like_count": 3689,
+          "listed_count": 6,
+          "media_count": 123,
+          "tweet_count": 1254
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T12:27:07.000Z",
+        "description": "YouTube ：有夠梅森DO。對於閱讀有興趣，特別喜歡站在書店把書看完。 有國際政治，比較政治，政治思想相關學術基礎，但不自限，理解自己的渺小，這樣才有動力去探索無限的可能，並適度敬畏。「🇹🇼不多送點民主給🇨🇳，🇨🇳就會多送點獨裁來🇹🇼」，反對中國共產黨，基於「科學及理性」，而非「偏見與仇恨」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@MASONDO-TW",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@MASONDO-TW",
+                "start": 0,
+                "url": "https://t.co/N55Wun05BY"
+              }
+            ]
+          }
+        },
+        "id": "1591044696788566016",
+        "location": "Taiwan 台灣",
+        "name": "梅森DO",
+        "pinned_tweet_id": "1905437566012366919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591045117502423040/FMqe_bbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7502,
+          "following_count": 240,
+          "like_count": 8390,
+          "listed_count": 46,
+          "media_count": 4470,
+          "tweet_count": 6452
+        },
+        "url": "https://t.co/N55Wun05BY",
+        "username": "MASONDO_TW",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086536,
+          "following_count": 982,
+          "like_count": 7999,
+          "listed_count": 8289,
+          "media_count": 34084,
+          "tweet_count": 40850
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

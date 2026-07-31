@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1986030549090336921",
+    "created_at": "2025-11-05T11:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T12:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986030549090336921"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1986030549090336921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "游戏玩的没别人好\n钱赚的没别人多\n技术也没别人高\n人脉也没有\n社交能力也没有\n长得也丑\n岁数还一大把了\n感觉没活着的必要了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1986030549090336921",
+        "created_at": "2025-11-05T11:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T12:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986030549090336921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986030549090336921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "游戏玩的没别人好\n钱赚的没别人多\n技术也没别人高\n人脉也没有\n社交能力也没有\n长得也丑\n岁数还一大把了\n感觉没活着的必要了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1977091161212043555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 316,
+          "like_count": 5690,
+          "listed_count": 7,
+          "media_count": 157,
+          "tweet_count": 1759
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

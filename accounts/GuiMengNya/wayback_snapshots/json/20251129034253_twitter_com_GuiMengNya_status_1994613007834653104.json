@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994331231287431169",
+        "3_1994331231287480320",
+        "3_1994331231300009984"
+      ],
+      "media_source_tweet_id": [
+        "1994331296659902812",
+        "1994331296659902812",
+        "1994331296659902812"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "conversation_id": "1994613007834653104",
+    "created_at": "2025-11-29T03:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T04:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994613007834653104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1153970326604144640",
+          "start": 3,
+          "username": "Ruters0615"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cxp6MRH7Yr",
+          "end": 47,
+          "expanded_url": "https://x.com/Ruters0615/status/1994331296659902812/photo/1",
+          "media_key": "3_1994331231287431169",
+          "start": 24,
+          "url": "https://t.co/cxp6MRH7Yr"
+        },
+        {
+          "display_url": "pic.x.com/cxp6MRH7Yr",
+          "end": 47,
+          "expanded_url": "https://x.com/Ruters0615/status/1994331296659902812/photo/1",
+          "media_key": "3_1994331231287480320",
+          "start": 24,
+          "url": "https://t.co/cxp6MRH7Yr"
+        },
+        {
+          "display_url": "pic.x.com/cxp6MRH7Yr",
+          "end": 47,
+          "expanded_url": "https://x.com/Ruters0615/status/1994331296659902812/photo/1",
+          "media_key": "3_1994331231300009984",
+          "start": 24,
+          "url": "https://t.co/cxp6MRH7Yr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994613007834653104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994331296659902812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ruters0615: 新皮肤：习作平 https://t.co/cxp6MRH7Yr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1994331231287431169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61JsD1a0AE-Jew.jpg",
+        "width": 472
+      },
+      {
+        "height": 984,
+        "media_key": "3_1994331231287480320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61JsD1bkAAS6Z_.jpg",
+        "width": 472
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1994331231300009984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61JsD4awAAUABa.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994331231287431169",
+            "3_1994331231287480320",
+            "3_1994331231300009984"
+          ],
+          "media_source_tweet_id": [
+            "1994331296659902812",
+            "1994331296659902812",
+            "1994331296659902812"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "1994613007834653104",
+        "created_at": "2025-11-29T03:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T04:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994613007834653104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1153970326604144640",
+              "start": 3,
+              "username": "Ruters0615"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxp6MRH7Yr",
+              "end": 47,
+              "expanded_url": "https://x.com/Ruters0615/status/1994331296659902812/photo/1",
+              "media_key": "3_1994331231287431169",
+              "start": 24,
+              "url": "https://t.co/cxp6MRH7Yr"
+            },
+            {
+              "display_url": "pic.x.com/cxp6MRH7Yr",
+              "end": 47,
+              "expanded_url": "https://x.com/Ruters0615/status/1994331296659902812/photo/1",
+              "media_key": "3_1994331231287480320",
+              "start": 24,
+              "url": "https://t.co/cxp6MRH7Yr"
+            },
+            {
+              "display_url": "pic.x.com/cxp6MRH7Yr",
+              "end": 47,
+              "expanded_url": "https://x.com/Ruters0615/status/1994331296659902812/photo/1",
+              "media_key": "3_1994331231300009984",
+              "start": 24,
+              "url": "https://t.co/cxp6MRH7Yr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994613007834653104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994331296659902812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ruters0615: 新皮肤：习作平 https://t.co/cxp6MRH7Yr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994331231287431169",
+            "3_1994331231287480320",
+            "3_1994331231300009984"
+          ]
+        },
+        "author_id": "1153970326604144640",
+        "conversation_id": "1994331296659902812",
+        "created_at": "2025-11-28T09:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T10:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994331296659902812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxp6MRH7Yr",
+              "end": 31,
+              "expanded_url": "https://x.com/Ruters0615/status/1994331296659902812/photo/1",
+              "media_key": "3_1994331231287431169",
+              "start": 8,
+              "url": "https://t.co/cxp6MRH7Yr"
+            },
+            {
+              "display_url": "pic.x.com/cxp6MRH7Yr",
+              "end": 31,
+              "expanded_url": "https://x.com/Ruters0615/status/1994331296659902812/photo/1",
+              "media_key": "3_1994331231287480320",
+              "start": 8,
+              "url": "https://t.co/cxp6MRH7Yr"
+            },
+            {
+              "display_url": "pic.x.com/cxp6MRH7Yr",
+              "end": 31,
+              "expanded_url": "https://x.com/Ruters0615/status/1994331296659902812/photo/1",
+              "media_key": "3_1994331231300009984",
+              "start": 8,
+              "url": "https://t.co/cxp6MRH7Yr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994331296659902812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 77776,
+          "like_count": 709,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "新皮肤：习作平 https://t.co/cxp6MRH7Yr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 338,
+          "like_count": 6933,
+          "listed_count": 8,
+          "media_count": 278,
+          "tweet_count": 2067
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T10:09:00.000Z",
+        "description": "官方X账户，国安部最高通缉，专注于乳包反共鬼畜作品，投稿请私信or邮箱投稿：Ruters0615@gmail.com\nTelegram：https://t.co/p6qoFVZxgy\nYouTube：小反旗&小池塘（被国安橄榄过三回啊三回）\nRumble / Spotify：Ruters乳透社",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruters0615",
+                "end": 91,
+                "expanded_url": "http://t.me/Ruters0615",
+                "start": 68,
+                "url": "https://t.co/p6qoFVZxgy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RutersXiaoFan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@RutersXiaoFanQi",
+                "start": 0,
+                "url": "https://t.co/fxNkDBFEkL"
+              }
+            ]
+          }
+        },
+        "id": "1153970326604144640",
+        "location": "IP属地：梁家河",
+        "name": "Ruters乳透社",
+        "pinned_tweet_id": "1984884324806828349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520784344280748032/gHq_Pfaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294312,
+          "following_count": 2385,
+          "like_count": 2343,
+          "listed_count": 915,
+          "media_count": 2281,
+          "tweet_count": 3031
+        },
+        "url": "https://t.co/fxNkDBFEkL",
+        "username": "Ruters0615",
+        "verified": true
+      }
+    ]
+  }
+}

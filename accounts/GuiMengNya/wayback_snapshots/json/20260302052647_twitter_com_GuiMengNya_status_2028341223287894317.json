@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2028301105646739725",
+    "created_at": "2026-03-02T05:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028341223287894317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "62045827",
+          "start": 0,
+          "username": "myosuke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028341223287894317",
+    "in_reply_to_user_id": "62045827",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028301105646739725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myosuke もう誰に頼んでも無駄だ🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2028301105646739725",
+        "created_at": "2026-03-02T05:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028341223287894317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "62045827",
+              "start": 0,
+              "username": "myosuke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028341223287894317",
+        "in_reply_to_user_id": "62045827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028301105646739725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myosuke もう誰に頼んでも無駄だ🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "62045827",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2028301105646739725",
+        "created_at": "2026-03-02T02:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T03:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028301105646739725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028301105646739725",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 26201,
+          "like_count": 1100,
+          "quote_count": 13,
+          "reply_count": 6,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "📝破壊リスト\n\n☑︎ CHUNITHM\n☑︎ maimai\n□ オンゲキ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7912,
+          "following_count": 701,
+          "like_count": 10391,
+          "listed_count": 28,
+          "media_count": 1422,
+          "tweet_count": 3615
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-01T14:42:34.000Z",
+        "description": "Hardcore Producer\n歪んだ激しい曲を作る⚠\n\n┊動画→https://t.co/sS20MNMyG1\n┊日常→ @dj_myosuke\n┊🌚→ @joe__fight\n┊HARDCORE TANO*C所属\n┊曲提供→チュウニズム/Arcaea/太鼓の達人/WACCA等\n┊音デカ探究",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "dj_myosuke"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "joe__fight"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/djmyosuke",
+                "end": 58,
+                "expanded_url": "https://www.youtube.com/djmyosuke",
+                "start": 35,
+                "url": "https://t.co/sS20MNMyG1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myosuke.com",
+                "end": 23,
+                "expanded_url": "https://myosuke.com",
+                "start": 0,
+                "url": "https://t.co/dLiTXiBKJE"
+              }
+            ]
+          }
+        },
+        "id": "62045827",
+        "location": "ご依頼→myosuke.666 at gmail.com",
+        "name": "DJ Myosuke",
+        "pinned_tweet_id": "2028077942413365649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973316678076481536/NCF8CbU4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62403,
+          "following_count": 730,
+          "like_count": 10963,
+          "listed_count": 363,
+          "media_count": 7739,
+          "tweet_count": 47843
+        },
+        "url": "https://t.co/dLiTXiBKJE",
+        "username": "myosuke",
+        "verified": true
+      }
+    ]
+  }
+}

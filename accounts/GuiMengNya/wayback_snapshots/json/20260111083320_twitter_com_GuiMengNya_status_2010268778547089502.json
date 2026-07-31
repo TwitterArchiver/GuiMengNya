@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2010262477410644063",
+    "created_at": "2026-01-11T08:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T09:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010268778547089502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1877340124544925696",
+          "start": 0,
+          "username": "GeeEgg447"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010268778547089502",
+    "in_reply_to_user_id": "1877340124544925696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 91,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010263477206880695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeeEgg447 不小可以返厂售后"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2010262477410644063",
+        "created_at": "2026-01-11T08:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T09:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010268778547089502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1877340124544925696",
+              "start": 0,
+              "username": "GeeEgg447"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010268778547089502",
+        "in_reply_to_user_id": "1877340124544925696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010263477206880695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeeEgg447 不小可以返厂售后"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877340124544925696",
+        "conversation_id": "2010262477410644063",
+        "created_at": "2026-01-11T08:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T09:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010263477206880695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010263477206880695",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010262477410644063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 不小保褪吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4867,
+          "following_count": 533,
+          "like_count": 8414,
+          "listed_count": 16,
+          "media_count": 729,
+          "tweet_count": 2693
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-09T13:02:41.000Z",
+        "description": "混沌善良/中国退堂鼓技艺传承人/记录生活/😾保持敬畏",
+        "id": "1877340124544925696",
+        "location": "不周山",
+        "name": "诸葛笨蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894232204194070528/JzBgySI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 442,
+          "like_count": 1528,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 314
+        },
+        "username": "GeeEgg447",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983108080247480320"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1983108088568971580",
+    "created_at": "2025-10-28T09:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T10:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983108088568971580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vkiS7KPBnT",
+          "end": 33,
+          "expanded_url": "https://x.com/GuiMengNya/status/1983108088568971580/photo/1",
+          "media_key": "3_1983108080247480320",
+          "start": 10,
+          "url": "https://t.co/vkiS7KPBnT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983108088568971580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么没人陪我喝😭 https://t.co/vkiS7KPBnT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_1983108080247480320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VqSsJboAAWPBH.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983108080247480320"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1983108088568971580",
+        "created_at": "2025-10-28T09:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T10:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983108088568971580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vkiS7KPBnT",
+              "end": 33,
+              "expanded_url": "https://x.com/GuiMengNya/status/1983108088568971580/photo/1",
+              "media_key": "3_1983108080247480320",
+              "start": 10,
+              "url": "https://t.co/vkiS7KPBnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983108088568971580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么没人陪我喝😭 https://t.co/vkiS7KPBnT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 304,
+          "like_count": 5226,
+          "listed_count": 7,
+          "media_count": 147,
+          "tweet_count": 1690
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

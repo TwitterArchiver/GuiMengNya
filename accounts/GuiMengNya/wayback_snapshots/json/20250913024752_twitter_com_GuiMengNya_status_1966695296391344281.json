@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1966276228803072140",
+    "created_at": "2025-09-13T02:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T03:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966695296391344281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2215812295",
+          "start": 0,
+          "username": "NikolaTesla2010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966695296391344281",
+    "in_reply_to_user_id": "2215812295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966276228803072140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikolaTesla2010 好美的国家"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966276217243578376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0mdzUMaMAgvBM5.jpg",
+        "width": 1368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1966276228803072140",
+        "created_at": "2025-09-13T02:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T03:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966695296391344281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2215812295",
+              "start": 0,
+              "username": "NikolaTesla2010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966695296391344281",
+        "in_reply_to_user_id": "2215812295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966276228803072140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikolaTesla2010 好美的国家"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966276217243578376"
+          ]
+        },
+        "author_id": "2215812295",
+        "conversation_id": "1966276228803072140",
+        "created_at": "2025-09-11T23:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T00:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966276228803072140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yDnGV0RDkh",
+              "end": 26,
+              "expanded_url": "https://x.com/NikolaTesla2010/status/1966276228803072140/photo/1",
+              "media_key": "3_1966276217243578376",
+              "start": 3,
+              "url": "https://t.co/yDnGV0RDkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966276228803072140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 51497,
+          "like_count": 232,
+          "quote_count": 4,
+          "reply_count": 125,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "台灣 https://t.co/yDnGV0RDkh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」/家长不管党/坐标浙江/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/要一直哦@future080712/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 36,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "future080712"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 255,
+          "like_count": 4176,
+          "listed_count": 7,
+          "media_count": 127,
+          "tweet_count": 1389
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-26T14:23:23.000Z",
+        "description": "呈現最真實，沒有濾鏡的寶島，讓世界看見台灣😁",
+        "id": "2215812295",
+        "location": "中國台灣省",
+        "name": "Tesla",
+        "pinned_tweet_id": "1966644739899625558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884785853194776576/U7JbZj26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10817,
+          "following_count": 2996,
+          "like_count": 76232,
+          "listed_count": 46,
+          "media_count": 8628,
+          "tweet_count": 20395
+        },
+        "username": "NikolaTesla2010",
+        "verified": true
+      }
+    ]
+  }
+}

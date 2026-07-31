@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1961691881051754840",
+    "created_at": "2025-08-30T15:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T16:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961807873505386589"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "AACAB",
+          "probability": 0.48,
+          "start": 9,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820060114021457920",
+          "start": 0,
+          "username": "lzukuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961807873505386589",
+    "in_reply_to_user_id": "1820060114021457920",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961691881051754840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzukuku AACAB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1614,
+        "media_key": "3_1961691871476158464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzlUXRYbkAAnF_g.jpg",
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1961691881051754840",
+        "created_at": "2025-08-30T15:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961807873505386589"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "AACAB",
+              "probability": 0.48,
+              "start": 9,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820060114021457920",
+              "start": 0,
+              "username": "lzukuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961807873505386589",
+        "in_reply_to_user_id": "1820060114021457920",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961691881051754840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzukuku AACAB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961691871476158464"
+          ]
+        },
+        "author_id": "1820060114021457920",
+        "conversation_id": "1961691881051754840",
+        "created_at": "2025-08-30T07:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T08:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961691881051754840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PfcnKurk09",
+              "end": 23,
+              "expanded_url": "https://x.com/lzukuku/status/1961691881051754840/photo/1",
+              "media_key": "3_1961691871476158464",
+              "start": 0,
+              "url": "https://t.co/PfcnKurk09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961691881051754840",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 63996,
+          "like_count": 506,
+          "quote_count": 14,
+          "reply_count": 37,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PfcnKurk09"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/家长不管党/坐标杭州与宁波/精神比你正常就对了/喜欢音游，机车/#INTJ/小梦不开心/希望成为全能一点的人/我的对象在哪里(伤心)/好妹妹@shadow110705",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "shadow110705"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1958099553724362948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 251,
+          "like_count": 3785,
+          "listed_count": 6,
+          "media_count": 125,
+          "tweet_count": 1294
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T11:32:20.000Z",
+        "description": "客服小祥，随时待命！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65498414",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/65498414",
+                "start": 0,
+                "url": "https://t.co/DMVUKzCZrI"
+              }
+            ]
+          }
+        },
+        "id": "1820060114021457920",
+        "location": "你头顶",
+        "name": "阿mi（重生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961494469112729600/OA06opHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 40,
+          "like_count": 1128,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/DMVUKzCZrI",
+        "username": "lzukuku",
+        "verified": false
+      }
+    ]
+  }
+}

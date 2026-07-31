@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1914316772855169349",
+    "created_at": "2025-04-22T09:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T10:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914619603826958565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1438495556368670720",
+          "start": 0,
+          "username": "JYWQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914619603826958565",
+    "in_reply_to_user_id": "1438495556368670720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914576749725102408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JYWQWQ 合理嘟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1914316772855169349",
+        "created_at": "2025-04-22T09:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T10:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914619603826958565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1438495556368670720",
+              "start": 0,
+              "username": "JYWQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914619603826958565",
+        "in_reply_to_user_id": "1438495556368670720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914576749725102408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JYWQWQ 合理嘟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438495556368670720",
+        "conversation_id": "1914316772855169349",
+        "created_at": "2025-04-22T07:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T08:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914576749725102408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914576749725102408",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914316772855169349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 嗯？这合理？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "R.I.P./06.11.15/坐标杭州/家长不管党/性别未知mtm/x/f，重度焦虑重度抑郁疑似双向，喜欢机车，不接线下，#INTJ，音游摆烂，不管怎么说都是不折不扣的纯爱党！好妹妹@cyanide110705，是@xiaoyeluo姐姐的猫猫，5.2元包养的小可爱@GriseoQAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 62,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "cyanide110705"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "xiaoyeluo"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "GriseoQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦",
+        "pinned_tweet_id": "1908994587584319596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896591167699169280/G6AHL3FY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 210,
+          "like_count": 3287,
+          "listed_count": 7,
+          "media_count": 106,
+          "tweet_count": 1007
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-16T13:30:54.000Z",
+        "description": "含糖🍥小男娘~（第一次吃糖2024年11月到2025年1月，然后就是2025年3/15）QWQ",
+        "id": "1438495556368670720",
+        "location": "江西南昌",
+        "name": "QAQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871462288219398144/Z01htcnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 238,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 84
+        },
+        "username": "JYWQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

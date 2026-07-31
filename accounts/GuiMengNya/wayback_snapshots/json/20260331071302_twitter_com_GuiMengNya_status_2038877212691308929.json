@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2038877212691308929",
+    "created_at": "2026-03-31T07:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T08:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038877212691308929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/longdechen12/s…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/longdechen12/status/2038578702729216332",
+          "start": 41,
+          "url": "https://t.co/i6w7icmvOJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038877212691308929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038578702729216332",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉小红薯上那些爱装逼的以后人手一个🤣🤣🤣有这精力和时间真不如去摇几杯奶茶赚钱去 https://t.co/i6w7icmvOJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2038877212691308929",
+        "created_at": "2026-03-31T07:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T08:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038877212691308929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/longdechen12/s…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/longdechen12/status/2038578702729216332",
+              "start": 41,
+              "url": "https://t.co/i6w7icmvOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038877212691308929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038578702729216332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉小红薯上那些爱装逼的以后人手一个🤣🤣🤣有这精力和时间真不如去摇几杯奶茶赚钱去 https://t.co/i6w7icmvOJ"
+      },
+      {
+        "article": {
+          "title": "免费、官方、5 分钟——这个资质你现在就值得拥有。"
+        },
+        "attachments": {},
+        "author_id": "2035979603198763008",
+        "conversation_id": "2038578702729216332",
+        "created_at": "2026-03-30T11:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038578702729216332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2038…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2038572217940824064",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2038572217940824064",
+              "url": "https://t.co/NEZukQZUdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038578702729216332",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 19530,
+          "like_count": 77,
+          "quote_count": 19,
+          "reply_count": 22,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NEZukQZUdI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9346,
+          "following_count": 696,
+          "like_count": 11098,
+          "listed_count": 29,
+          "media_count": 1897,
+          "tweet_count": 4238
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T07:27:55.000Z",
+        "description": "02 年｜INFP｜摩羯座 国家工信部 AI 智能体官方导师  我不教你用 AI，我帮你找到在 AI 时代属于你的位置。",
+        "id": "2035979603198763008",
+        "location": "湖南长沙",
+        "name": "观自",
+        "pinned_tweet_id": "2036816359343222971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035982151884443648/4Y5VVEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3739,
+          "following_count": 54,
+          "like_count": 171,
+          "listed_count": 20,
+          "media_count": 7,
+          "tweet_count": 255
+        },
+        "username": "longdechen12",
+        "verified": true
+      }
+    ]
+  }
+}

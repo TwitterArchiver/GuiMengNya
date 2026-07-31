@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2030173753632772483",
+    "created_at": "2026-03-07T23:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T00:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030420274760253641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1999099178342051840",
+          "start": 0,
+          "username": "kokokawayi_awa"
+        },
+        {
+          "end": 24,
+          "id": "1568748618760482816",
+          "start": 16,
+          "username": "tene1la"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030420274760253641",
+    "in_reply_to_user_id": "1999099178342051840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030276401312813103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokokawayi_awa @tene1la 有的有的，中信visa白金卡和广发lucky运通卡我记得都是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2030173753632772483",
+        "created_at": "2026-03-07T23:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T00:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030420274760253641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1999099178342051840",
+              "start": 0,
+              "username": "kokokawayi_awa"
+            },
+            {
+              "end": 24,
+              "id": "1568748618760482816",
+              "start": 16,
+              "username": "tene1la"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030420274760253641",
+        "in_reply_to_user_id": "1999099178342051840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030276401312813103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokokawayi_awa @tene1la 有的有的，中信visa白金卡和广发lucky运通卡我记得都是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999099178342051840",
+        "conversation_id": "2030173753632772483",
+        "created_at": "2026-03-07T13:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030276401312813103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1568748618760482816",
+              "start": 0,
+              "username": "tene1la"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030276401312813103",
+        "in_reply_to_user_id": "1568748618760482816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030272749080576077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tene1la 完了\n我到现在还没遇到过限制到这种程度的卡（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8296,
+          "following_count": 697,
+          "like_count": 10493,
+          "listed_count": 28,
+          "media_count": 1499,
+          "tweet_count": 3711
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T12:49:45.000Z",
+        "description": "应该是只猫，养了两只猫和两只荷兰猪的那种。喜欢出去玩和买谷子以及手办，钱包表示很好（\n上一世@SarkazWisadel \n私信我都会互fo！\n魅魔姐姐（是主人！）@daisuki07483937 | 闺蜜@sutanghentian | 兔兔妈妈@miya051223 | 杂鱼🌰 @Lingmeiya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 46,
+                "username": "SarkazWisadel"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "daisuki07483937"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "sutanghentian"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "username": "miya051223"
+              },
+              {
+                "end": 152,
+                "start": 142,
+                "username": "Lingmeiya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kokodayo.us",
+                "end": 23,
+                "expanded_url": "http://kokodayo.us",
+                "start": 0,
+                "url": "https://t.co/DGRP1lRnXD"
+              }
+            ]
+          }
+        },
+        "id": "1999099178342051840",
+        "location": "🛫 Mörön, Mongolia",
+        "name": "Kokodayo（复活赛进行中）来互fo！",
+        "pinned_tweet_id": "2007097060974268924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999104053524176897/uAijM8oN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 184,
+          "like_count": 932,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/DGRP1lRnXD",
+        "username": "kokokawayi_awa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-10T23:50:00.000Z",
+        "description": "",
+        "id": "1568748618760482816",
+        "name": "离子芥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004329389744705537/MIE4kvtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 592,
+          "like_count": 70761,
+          "listed_count": 2,
+          "media_count": 440,
+          "tweet_count": 5101
+        },
+        "username": "tene1la",
+        "verified": false
+      }
+    ]
+  }
+}

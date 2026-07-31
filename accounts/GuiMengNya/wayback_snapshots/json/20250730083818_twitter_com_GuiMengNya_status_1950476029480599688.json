@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950475989152387073"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "conversation_id": "1950476029480599688",
+    "created_at": "2025-07-30T08:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T09:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950476029480599688"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 17,
+          "tag": "我的X周年纪念日"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Oj2LvqY2J",
+          "end": 50,
+          "expanded_url": "https://x.com/GuiMengNya/status/1950476029480599688/photo/1",
+          "media_key": "3_1950475989152387073",
+          "start": 27,
+          "url": "https://t.co/9Oj2LvqY2J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950476029480599688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/9Oj2LvqY2J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1950475989152387073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxF7k_xbUAEFR6x.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950475989152387073"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "1950476029480599688",
+        "created_at": "2025-07-30T08:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T09:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950476029480599688"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "我的X周年纪念日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Oj2LvqY2J",
+              "end": 50,
+              "expanded_url": "https://x.com/GuiMengNya/status/1950476029480599688/photo/1",
+              "media_key": "3_1950475989152387073",
+              "start": 27,
+              "url": "https://t.co/9Oj2LvqY2J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950476029480599688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/9Oj2LvqY2J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「文字形容不了我」/坐标杭州/家长不管党/坐标杭州/精神比你正常就对了/喜欢音游，机车/#INTJ/含妈量极高/好妹妹@shadow110705，@cyansoul02❤️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 44,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "shadow110705"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "cyansoul02"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934889831643140117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 233,
+          "like_count": 3561,
+          "listed_count": 6,
+          "media_count": 121,
+          "tweet_count": 1181
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      }
+    ]
+  }
+}

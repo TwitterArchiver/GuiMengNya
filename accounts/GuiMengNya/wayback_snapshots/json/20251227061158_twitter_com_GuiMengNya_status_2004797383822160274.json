@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2004756625219871173",
+    "created_at": "2025-12-27T06:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T07:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004797383822160274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004797383822160274",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004756625219871173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI \\o/"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2004726739344461824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9I4WRJakAAME4I.jpg",
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2004756625219871173",
+        "created_at": "2025-12-27T06:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T07:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004797383822160274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004797383822160274",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004756625219871173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI \\o/"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004726739344461824"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2004756625219871173",
+        "created_at": "2025-12-27T03:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T04:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004756625219871173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d0QuXs5TaS",
+              "end": 31,
+              "expanded_url": "https://x.com/BI3BXI/status/2004756625219871173/photo/1",
+              "media_key": "3_2004726739344461824",
+              "start": 8,
+              "url": "https://t.co/d0QuXs5TaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004756625219871173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 15242,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "神奇的外包项目 https://t.co/d0QuXs5TaS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3081,
+          "following_count": 344,
+          "like_count": 7454,
+          "listed_count": 14,
+          "media_count": 532,
+          "tweet_count": 2378
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "DE BI3BXI｜AI/ML在读｜实习律师｜前世 @ryq59｜里垢@TabeWang｜Powered by @tonghua245 @mimilinkeyi @atheistsophist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 26,
+                "username": "ryq59"
+              },
+              {
+                "end": 44,
+                "start": 35,
+                "username": "TabeWang"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "tonghua245"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "mimilinkeyi"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "atheistsophist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "铨（互fo寻回中）",
+        "pinned_tweet_id": "2003700112711909554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4619,
+          "following_count": 3021,
+          "like_count": 28344,
+          "listed_count": 15,
+          "media_count": 895,
+          "tweet_count": 4824
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

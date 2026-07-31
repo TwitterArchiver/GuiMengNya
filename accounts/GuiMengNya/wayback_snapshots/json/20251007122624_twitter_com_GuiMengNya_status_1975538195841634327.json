@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1975252576531804428",
+    "created_at": "2025-10-07T12:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T13:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975538195841634327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1702316313472081921",
+          "start": 0,
+          "username": "k49ur473"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975538195841634327",
+    "in_reply_to_user_id": "1702316313472081921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975537960499225056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k49ur473 霓虹✌️关注了我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1975252576531804428",
+        "created_at": "2025-10-07T12:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T13:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975538195841634327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1702316313472081921",
+              "start": 0,
+              "username": "k49ur473"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975538195841634327",
+        "in_reply_to_user_id": "1702316313472081921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975537960499225056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k49ur473 霓虹✌️关注了我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702316313472081921",
+        "conversation_id": "1975252576531804428",
+        "created_at": "2025-10-07T12:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T13:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975537960499225056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975537960499225056",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975252576531804428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya ok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 275,
+          "like_count": 4426,
+          "listed_count": 7,
+          "media_count": 137,
+          "tweet_count": 1498
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-14T13:40:28.000Z",
+        "description": "中文 /English/日本語 OK！| Rust和Kotlin高度黑子 | 舞萌樱将持有 | GoLang和TypeScript享受者 | 好用的代理：https://t.co/HmIg4t7tjK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miaona.org/#/register?cod…",
+                "end": 100,
+                "expanded_url": "https://miaona.org/#/register?code=amRzwRzt",
+                "start": 77,
+                "url": "https://t.co/HmIg4t7tjK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akich.io",
+                "end": 23,
+                "expanded_url": "https://akich.io/",
+                "start": 0,
+                "url": "https://t.co/fl14H01veE"
+              }
+            ]
+          }
+        },
+        "id": "1702316313472081921",
+        "location": "茨城 鹿嶋市",
+        "name": "AkiChan",
+        "pinned_tweet_id": "1881620432627085501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840336006459052033/J9d3uSO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 175,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 331
+        },
+        "url": "https://t.co/fl14H01veE",
+        "username": "k49ur473",
+        "verified": true
+      }
+    ]
+  }
+}

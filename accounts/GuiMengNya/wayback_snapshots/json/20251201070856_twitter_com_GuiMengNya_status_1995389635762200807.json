@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1995175802124566596",
+    "created_at": "2025-12-01T07:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T08:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995389635762200807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552288261900357634",
+          "start": 0,
+          "username": "sunkist_856"
+        },
+        {
+          "end": 23,
+          "id": "1739671779033874432",
+          "start": 13,
+          "username": "yannis799"
+        },
+        {
+          "end": 40,
+          "id": "770656559844036608",
+          "start": 24,
+          "username": "mdsiraj46679310"
+        },
+        {
+          "end": 56,
+          "id": "1260553941714186241",
+          "start": 41,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995389635762200807",
+    "in_reply_to_user_id": "1552288261900357634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995308942378090949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunkist_856 @yannis799 @mdsiraj46679310 @whyyoutouzhele 你应该先给你全家上坟烧香\n然后给习近平舔鸡巴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1995175802124566596",
+        "created_at": "2025-12-01T07:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T08:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995389635762200807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552288261900357634",
+              "start": 0,
+              "username": "sunkist_856"
+            },
+            {
+              "end": 23,
+              "id": "1739671779033874432",
+              "start": 13,
+              "username": "yannis799"
+            },
+            {
+              "end": 40,
+              "id": "770656559844036608",
+              "start": 24,
+              "username": "mdsiraj46679310"
+            },
+            {
+              "end": 56,
+              "id": "1260553941714186241",
+              "start": 41,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995389635762200807",
+        "in_reply_to_user_id": "1552288261900357634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995308942378090949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunkist_856 @yannis799 @mdsiraj46679310 @whyyoutouzhele 你应该先给你全家上坟烧香\n然后给习近平舔鸡巴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552288261900357634",
+        "conversation_id": "1995175802124566596",
+        "created_at": "2025-12-01T01:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T02:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995308942378090949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1739671779033874432",
+              "start": 0,
+              "username": "yannis799"
+            },
+            {
+              "end": 27,
+              "id": "770656559844036608",
+              "start": 11,
+              "username": "mdsiraj46679310"
+            },
+            {
+              "end": 43,
+              "id": "1260553941714186241",
+              "start": 28,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995308942378090949",
+        "in_reply_to_user_id": "1739671779033874432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 302,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995304104604880985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yannis799 @mdsiraj46679310 @whyyoutouzhele 你应该让自己心智成熟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 339,
+          "like_count": 6969,
+          "listed_count": 9,
+          "media_count": 291,
+          "tweet_count": 2084
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T13:42:47.000Z",
+        "description": "",
+        "id": "1552288261900357634",
+        "name": "Sunkist_856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1552291657998929920/y7-vY6ym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 92,
+          "like_count": 844,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 2957
+        },
+        "username": "sunkist_856",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T15:37:52.000Z",
+        "description": "17年入圈的老韭菜，见过2U的BNB,80U的ETH,3000U的BTC，都没买；经历过312,519，熬走了李林，熬走了SBF，熬走了CZ，还没翻身。",
+        "id": "1739671779033874432",
+        "name": "electronic-club||electron||arc20",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741385714158473216/9DK2MsmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 609,
+          "like_count": 156,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 727
+        },
+        "username": "yannis799",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-30T16:16:56.000Z",
+        "description": "人生不过三万天 烂事趁早就翻篇",
+        "id": "770656559844036608",
+        "location": "16.5km",
+        "name": "清清",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984629840176443392/6FjqY6pc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 2,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 20
+        },
+        "username": "mdsiraj46679310",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1991824796930187302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148545,
+          "following_count": 982,
+          "like_count": 8386,
+          "listed_count": 8419,
+          "media_count": 37884,
+          "tweet_count": 44766
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

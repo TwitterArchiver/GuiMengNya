@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042173754567262208"
+      ],
+      "media_source_tweet_id": [
+        "2042173767494107338"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "conversation_id": "2042653309094257083",
+    "created_at": "2026-04-10T17:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T18:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042653309094257083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1666329123223121922",
+          "start": 3,
+          "username": "chuanxiduo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/esuVfv8h1b",
+          "end": 130,
+          "expanded_url": "https://x.com/chuanxiduo/status/2042173767494107338/photo/1",
+          "media_key": "3_2042173754567262208",
+          "start": 107,
+          "url": "https://t.co/esuVfv8h1b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042653309094257083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 567
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042173767494107338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chuanxiduo: 嗯嗯，我宣布 3 件事\n第一☝️，马上十万fo了，会准备十万抽奖\n第二✋，十万fo抽奖没有原\n第三🫵，点赞+转发+评论 本推文即可参与 ，但前提是你是我粉丝🤡\n\n奖品吗让我想想…… https://t.co/esuVfv8h1b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2042173754567262208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdCNbqbgAAvmsr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042173754567262208"
+          ],
+          "media_source_tweet_id": [
+            "2042173767494107338"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "2042653309094257083",
+        "created_at": "2026-04-10T17:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042653309094257083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1666329123223121922",
+              "start": 3,
+              "username": "chuanxiduo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/esuVfv8h1b",
+              "end": 130,
+              "expanded_url": "https://x.com/chuanxiduo/status/2042173767494107338/photo/1",
+              "media_key": "3_2042173754567262208",
+              "start": 107,
+              "url": "https://t.co/esuVfv8h1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042653309094257083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 567
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042173767494107338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chuanxiduo: 嗯嗯，我宣布 3 件事\n第一☝️，马上十万fo了，会准备十万抽奖\n第二✋，十万fo抽奖没有原\n第三🫵，点赞+转发+评论 本推文即可参与 ，但前提是你是我粉丝🤡\n\n奖品吗让我想想…… https://t.co/esuVfv8h1b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042173754567262208"
+          ]
+        },
+        "author_id": "1666329123223121922",
+        "conversation_id": "2042173767494107338",
+        "created_at": "2026-04-09T09:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042173767494107338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/esuVfv8h1b",
+              "end": 114,
+              "expanded_url": "https://x.com/chuanxiduo/status/2042173767494107338/photo/1",
+              "media_key": "3_2042173754567262208",
+              "start": 91,
+              "url": "https://t.co/esuVfv8h1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042173767494107338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 77096,
+          "like_count": 1372,
+          "quote_count": 10,
+          "reply_count": 657,
+          "retweet_count": 567
+        },
+        "reply_settings": "everyone",
+        "text": "嗯嗯，我宣布 3 件事\n第一☝️，马上十万fo了，会准备十万抽奖\n第二✋，十万fo抽奖没有原\n第三🫵，点赞+转发+评论 本推文即可参与 ，但前提是你是我粉丝🤡\n\n奖品吗让我想想…… https://t.co/esuVfv8h1b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9571,
+          "following_count": 694,
+          "like_count": 11276,
+          "listed_count": 27,
+          "media_count": 2017,
+          "tweet_count": 4371
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-07T06:20:03.000Z",
+        "description": "日常清水推，偶尔抽象，碎碎念～喜欢收藏各种好看的衣服和鞋子，不定期po汉服/cos自拍\n暗黑人格💌@duoxichuan\n谢谢关注我的小世界！祝您天天开心~~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "duoxichuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiduochuanss",
+                "end": 23,
+                "expanded_url": "http://t.me/xiduochuanss",
+                "start": 0,
+                "url": "https://t.co/kXKI71lrLW"
+              }
+            ]
+          }
+        },
+        "id": "1666329123223121922",
+        "location": "粉丝频道:",
+        "name": "喜多川💕",
+        "pinned_tweet_id": "2025094696788525442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763576092928192512/M8JQsMgP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100067,
+          "following_count": 1298,
+          "like_count": 7876,
+          "listed_count": 303,
+          "media_count": 448,
+          "tweet_count": 1510
+        },
+        "url": "https://t.co/kXKI71lrLW",
+        "username": "chuanxiduo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2022614364289982840",
+    "created_at": "2026-02-14T13:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T14:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022669719023816994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1674333652711362560",
+          "start": 0,
+          "username": "LaiOwencom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022669719023816994",
+    "in_reply_to_user_id": "1674333652711362560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022667485020065943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaiOwencom 好用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2022614364289982840",
+        "created_at": "2026-02-14T13:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T14:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022669719023816994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674333652711362560",
+              "start": 0,
+              "username": "LaiOwencom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022669719023816994",
+        "in_reply_to_user_id": "1674333652711362560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022667485020065943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaiOwencom 好用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674333652711362560",
+        "conversation_id": "2022614364289982840",
+        "created_at": "2026-02-14T13:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T14:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022667485020065943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022667485020065943",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022614364289982840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 奶牌，翁翁响的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6952,
+          "following_count": 720,
+          "like_count": 9909,
+          "listed_count": 21,
+          "media_count": 1157,
+          "tweet_count": 3284
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-29T08:27:13.000Z",
+        "description": "互联网运营牛马\n努力学习提升AI项目",
+        "id": "1674333652711362560",
+        "location": "广州",
+        "name": "来一下",
+        "pinned_tweet_id": "2020689122680349085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003838805204148224/lWUorNMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 856,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1608
+        },
+        "username": "LaiOwencom",
+        "verified": true
+      }
+    ]
+  }
+}

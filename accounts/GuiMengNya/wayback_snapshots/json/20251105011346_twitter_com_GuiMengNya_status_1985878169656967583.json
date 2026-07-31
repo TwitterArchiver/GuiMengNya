@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "1985878169656967583",
+    "created_at": "2025-11-05T01:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T02:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985878169656967583"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cldeop/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/cldeop/status/1985861532568445129",
+          "start": 5,
+          "url": "https://t.co/CTBIVYku0a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985878169656967583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985861532568445129",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是穷入 https://t.co/CTBIVYku0a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1337,
+        "media_key": "3_1985861524221804546",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G48yiORbQAItyxk.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1985878169656967583",
+        "created_at": "2025-11-05T01:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T02:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985878169656967583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cldeop/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/cldeop/status/1985861532568445129",
+              "start": 5,
+              "url": "https://t.co/CTBIVYku0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985878169656967583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985861532568445129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是穷入 https://t.co/CTBIVYku0a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985861524221804546"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1985861532568445129",
+        "created_at": "2025-11-05T00:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T01:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985861532568445129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8cvO7EsEC5",
+              "end": 38,
+              "expanded_url": "https://x.com/Cldeop/status/1985861532568445129/photo/1",
+              "media_key": "3_1985861524221804546",
+              "start": 15,
+              "url": "https://t.co/8cvO7EsEC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985861532568445129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1837,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我的经济情况be like： https://t.co/8cvO7EsEC5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1977091161212043555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 316,
+          "like_count": 5672,
+          "listed_count": 7,
+          "media_count": 155,
+          "tweet_count": 1755
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88023,
+          "following_count": 650,
+          "like_count": 31481,
+          "listed_count": 264,
+          "media_count": 13181,
+          "tweet_count": 18747
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

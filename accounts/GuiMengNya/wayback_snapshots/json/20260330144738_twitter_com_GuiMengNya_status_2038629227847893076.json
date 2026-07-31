@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2038614448886391159",
+    "created_at": "2026-03-30T14:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038629227847893076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3151608288",
+          "start": 0,
+          "username": "app_sail"
+        },
+        {
+          "end": 22,
+          "id": "915935545",
+          "start": 10,
+          "username": "Web3_DadGOD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038629227847893076",
+    "in_reply_to_user_id": "3151608288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038627386942759367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@app_sail @Web3_DadGOD 标注虚拟商品不退不换，买家不可能退货成功的，走客服走小法庭都没用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2038614448886391159",
+        "created_at": "2026-03-30T14:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038629227847893076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3151608288",
+              "start": 0,
+              "username": "app_sail"
+            },
+            {
+              "end": 22,
+              "id": "915935545",
+              "start": 10,
+              "username": "Web3_DadGOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038629227847893076",
+        "in_reply_to_user_id": "3151608288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038627386942759367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@app_sail @Web3_DadGOD 标注虚拟商品不退不换，买家不可能退货成功的，走客服走小法庭都没用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3151608288",
+        "conversation_id": "2038614448886391159",
+        "created_at": "2026-03-30T14:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038627386942759367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "915935545",
+              "start": 0,
+              "username": "Web3_DadGOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038627386942759367",
+        "in_reply_to_user_id": "915935545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038625085427499488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Web3_DadGOD 是有这个漏洞哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9337,
+          "following_count": 696,
+          "like_count": 11089,
+          "listed_count": 29,
+          "media_count": 1884,
+          "tweet_count": 4219
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2015-04-12T15:43:33.000Z",
+        "description": "Build https://t.co/DHyfA0YYy2 \nX BoostClub 400w+ 社区 #XBC Partner \n#独立开发者 #Payments \nDiscord：https://t.co/WORiSVot55 \n🏂 🏄 🛹 Lover of boards & freedom",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 52,
+                "tag": "XBC"
+              },
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "独立开发者"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "tag": "Payments"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "3min.top",
+                "end": 29,
+                "expanded_url": "https://3min.top",
+                "start": 6,
+                "url": "https://t.co/DHyfA0YYy2"
+              },
+              {
+                "display_url": "discord.gg/hn3SZZJxEt",
+                "end": 115,
+                "expanded_url": "https://discord.gg/hn3SZZJxEt",
+                "start": 92,
+                "url": "https://t.co/WORiSVot55"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x-boostclub.notion.site",
+                "end": 23,
+                "expanded_url": "https://x-boostclub.notion.site/",
+                "start": 0,
+                "url": "https://t.co/ADhVYv2fQx"
+              }
+            ]
+          }
+        },
+        "id": "3151608288",
+        "name": "AppSail",
+        "pinned_tweet_id": "2037437653071835440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004066300289753088/5qO6kRP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22136,
+          "following_count": 1677,
+          "like_count": 10940,
+          "listed_count": 182,
+          "media_count": 455,
+          "tweet_count": 8221
+        },
+        "url": "https://t.co/ADhVYv2fQx",
+        "username": "app_sail",
+        "verified": true
+      },
+      {
+        "created_at": "2012-10-31T01:58:59.000Z",
+        "description": "👶 人类幼崽永续合约持有者 | 💻 Web3世界打金奶爸 | #BTC 坚定持有者",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "BTC"
+              }
+            ]
+          }
+        },
+        "id": "915935545",
+        "location": "Us, France",
+        "name": "链上奶爸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961841272521666560/2J5C66S__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 655,
+          "like_count": 6448,
+          "listed_count": 6,
+          "media_count": 370,
+          "tweet_count": 8660
+        },
+        "username": "Web3_DadGOD",
+        "verified": true
+      }
+    ]
+  }
+}
