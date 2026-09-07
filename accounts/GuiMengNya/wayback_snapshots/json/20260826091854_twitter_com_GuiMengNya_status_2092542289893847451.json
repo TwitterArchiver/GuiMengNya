@@ -1,0 +1,685 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092542281366818816"
+      ]
+    },
+    "author_id": "1685499489493323776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cell phones",
+          "id": "848920700073123840",
+          "name": "Cell Phones"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2092542289893847451",
+    "created_at": "2026-08-26T09:18:54.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T10:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092542289893847451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xaRAp6cSgL",
+          "end": 29,
+          "expanded_url": "https://x.com/GuiMengNya/status/2092542289893847451/photo/1",
+          "media_key": "3_2092542281366818816",
+          "start": 6,
+          "url": "https://t.co/xaRAp6cSgL"
+        },
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/hsn8086/status/2092259288417001578",
+          "start": 30,
+          "url": "https://t.co/TRUk8i6yGs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092542289893847451",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092542281366818816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092259288417001578",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这严肃下单 https://t.co/xaRAp6cSgL https://t.co/TRUk8i6yGs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1351,
+        "media_key": "3_2092542281366818816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo0Hj5a0AAnUUL.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2027,
+        "media_key": "3_2092259199921360896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkyqDVbEAAh2U4.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092542281366818816"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2092542289893847451",
+        "created_at": "2026-08-26T09:18:54.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092542289893847451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xaRAp6cSgL",
+              "end": 29,
+              "expanded_url": "https://x.com/GuiMengNya/status/2092542289893847451/photo/1",
+              "media_key": "3_2092542281366818816",
+              "start": 6,
+              "url": "https://t.co/xaRAp6cSgL"
+            },
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/hsn8086/status/2092259288417001578",
+              "start": 30,
+              "url": "https://t.co/TRUk8i6yGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092542289893847451",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092542281366818816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092259288417001578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这严肃下单 https://t.co/xaRAp6cSgL https://t.co/TRUk8i6yGs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092259199921360896"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2092259288417001578",
+        "created_at": "2026-08-25T14:34:21.000Z",
+        "display_text_range": [
+          0,
+          192
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092259288417001578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sexcDtiRYV",
+              "end": 216,
+              "expanded_url": "https://x.com/hsn8086/status/2092259288417001578/photo/1",
+              "media_key": "3_2092259199921360896",
+              "start": 193,
+              "url": "https://t.co/sexcDtiRYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092259288417001578",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092259199921360896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "快讯 | Apple 发布新款抛光布, 售价 69 元.\n\nApple 今日发布新款抛光布, 由上一代的 145 元降至 69 元, 降幅约 52%。\n\n官网介绍称, 这款抛光布质地柔软、不易造成磨损，可安全有效地清洁各款 Apple 显示屏，包括纳米纹理屏。\n\n现已支持:\n\niPhone\niPhone Air\niPhone 17（17、17e、17 Pro、17 Pro Max）\niPhone 16（16、16 Plus、16e、16 Pro、16 Pro Max）\niPhone 15（15、15 Plus、15 Pro、15 Pro Max）\niPhone 14（14、14 Plus、14 Pro、14 Pro Max）\niPhone 13（13 mini、13、13 Pro、13 Pro Max）\niPhone 12（12 mini、12、12 Pro、12 Pro Max）\niPhone 11（11、11 Pro、11 Pro Max）\niPhone X（X、XR、XS、XS Max）\niPhone 8（含 Plus）\niPhone 7（含 Plus）\niPhone 6s（含 Plus）\niPhone 6（含 Plus）\niPhone 5（5、5c、5s）\niPhone SE（第 1–3 代）\n\niPad\n13 英寸 iPad Pro（M4、M5）\n12.9 英寸 iPad Pro（第 1–6 代）\n11 英寸 iPad Pro（M4、M5）\n11 英寸 iPad Pro（第 1–4 代）\n10.5 英寸 iPad Pro\n9.7 英寸 iPad Pro\n11/13 英寸 iPad Air（M2、M3、M4）\niPad Air（第一代、第 3–5 代）\niPad Air 2\niPad（A16）\niPad（第 5–10 代）\niPad mini（A17 Pro）\niPad mini（第 1–6 代）\n\nMac\nMacBook Neo\nMacBook Air（13/15 英寸，M2–M5 芯片）\nMacBook Air（M1 芯片）\nMacBook Air（视网膜显示屏，13 英寸，2018–2020 年机型）\nMacBook（视网膜显示屏，12 英寸，2015 年初–2017 年机型）\nMacBook Pro（14/16 英寸，M5 Pro 或 M5 Max 芯片）\nMacBook Pro（14 英寸，M5 芯片）\nMacBook Pro（14/16 英寸，2021、2023、2024 年机型）\nMacBook Pro（16 英寸，2019 年机型）\nMacBook Pro（13 英寸，2020 年机型、M1 2020、M2 2022）\niMac（24 英寸，M1/M3/M4 芯片）\niMac（4K 视网膜显示屏，21.5 英寸，2019 年机型）\niMac（5K 视网膜显示屏，27 英寸，2014 年末–2015、2019–2020 年机型）\niMac Pro（2017 年机型）\n\nApple Watch\nApple Watch Ultra（1–3）\nApple Watch SE（1–3）\nApple Watch Series（第 1–11 代）\nApple Watch（第一代）\n\n显示器\nStudio Display（2022、2026）\nStudio Display XDR\nPro Display XDR"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 15396,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 54,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "快讯 | Apple 发布新款抛光布, 售价 69 元.\n\nApple 今日发布新款抛光布, 由上一代的 145 元降至 69 元, 降幅约 52%。\n\n官网介绍称, 这款抛光布质地柔软、不易造成磨损，可安全有效地清洁各款 Apple 显示屏，包括纳米纹理屏。\n\n现已支持:\n\niPhone\niPhone Air\niPhone 17（17、17e、17 Pro、17 Pro Max） https://t.co/sexcDtiRYV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边/故里蓝鸢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "is_identity_verified": true,
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "most_recent_tweet_id": "2092542289893847451",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1685499489493323776/1755691960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10778,
+          "following_count": 688,
+          "like_count": 11464,
+          "listed_count": 29,
+          "media_count": 2611,
+          "tweet_count": 5023
+        },
+        "url": "",
+        "username": "GuiMengNya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2092321395095335368",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1433678976564662273/1680328005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121642,
+          "following_count": 1124,
+          "like_count": 52029,
+          "listed_count": 296,
+          "media_count": 24643,
+          "tweet_count": 35310
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

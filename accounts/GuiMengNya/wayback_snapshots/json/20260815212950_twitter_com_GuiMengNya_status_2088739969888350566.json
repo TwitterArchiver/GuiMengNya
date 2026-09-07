@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2088545179678720407",
+    "created_at": "2026-08-15T21:29:50.000Z",
+    "display_text_range": [
+      26,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T22:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088739969888350566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1472171328652595206",
+          "start": 0,
+          "username": "Ha50707076"
+        },
+        {
+          "end": 25,
+          "id": "2021228300304261120",
+          "start": 12,
+          "username": "Jin111026Jin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088739969888350566",
+    "in_reply_to_user_id": "1472171328652595206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088647302483423233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ha50707076 @Jin111026Jin 一直都能绑啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2088545179678720407",
+        "created_at": "2026-08-15T21:29:50.000Z",
+        "display_text_range": [
+          26,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T22:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088739969888350566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1472171328652595206",
+              "start": 0,
+              "username": "Ha50707076"
+            },
+            {
+              "end": 25,
+              "id": "2021228300304261120",
+              "start": 12,
+              "username": "Jin111026Jin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088739969888350566",
+        "in_reply_to_user_id": "1472171328652595206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088647302483423233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ha50707076 @Jin111026Jin 一直都能绑啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472171328652595206",
+        "conversation_id": "2088545179678720407",
+        "created_at": "2026-08-15T15:21:36.000Z",
+        "display_text_range": [
+          14,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088647302483423233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2021228300304261120",
+              "start": 0,
+              "username": "Jin111026Jin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088647302483423233",
+        "in_reply_to_user_id": "2021228300304261120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 332,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088545179678720407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jin111026Jin bitget 还不是绑定微信和支付宝。。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边/故里蓝鸢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "is_identity_verified": true,
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "most_recent_tweet_id": "2088739969888350566",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1685499489493323776/1755691960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10674,
+          "following_count": 685,
+          "like_count": 11439,
+          "listed_count": 29,
+          "media_count": 2569,
+          "tweet_count": 4975
+        },
+        "url": "",
+        "username": "GuiMengNya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-18T11:46:21.000Z",
+        "description": "！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nextme.one/goodbeys",
+                "end": 23,
+                "expanded_url": "https://nextme.one/goodbeys",
+                "start": 0,
+                "url": "https://t.co/gQNqEKtB7j"
+              }
+            ]
+          }
+        },
+        "id": "1472171328652595206",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088648833635090727",
+        "name": "showb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029283009434927105/p5ZlFEp5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 2024,
+          "like_count": 1160,
+          "listed_count": 4,
+          "media_count": 440,
+          "tweet_count": 5083
+        },
+        "url": "https://t.co/gQNqEKtB7j",
+        "username": "Ha50707076",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-10T14:22:47.000Z",
+        "description": "前大厂CFO | 专职宏观/加密交易员 📈\n用财务合规视角 & 多元思维模型，带你打破信息差。\n专注全球资产配置、出入金安全、AI自动化交易 💻\n👇 获取我的合规出入金与全球基建指南",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Jin111026Jin",
+                "end": 23,
+                "expanded_url": "https://t.me/Jin111026Jin",
+                "start": 0,
+                "url": "https://t.co/EzZBGessgB"
+              }
+            ]
+          }
+        },
+        "id": "2021228300304261120",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088640493316170195",
+        "name": "Julian",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2021228300304261120/1786523286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084206103446077440/rmZTVzkn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 41,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 267
+        },
+        "url": "https://t.co/EzZBGessgB",
+        "username": "Jin111026Jin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

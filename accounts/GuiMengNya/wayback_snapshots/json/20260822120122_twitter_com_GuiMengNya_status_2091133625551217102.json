@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2090966628553134354",
+    "created_at": "2026-08-22T12:01:22.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T13:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091133625551217102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1954166134204510209",
+          "start": 0,
+          "username": "ymm162577814299"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091133625551217102",
+    "in_reply_to_user_id": "1954166134204510209",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091132979758375324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ymm162577814299 牛来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2090966628553134354",
+        "created_at": "2026-08-22T12:01:22.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091133625551217102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1954166134204510209",
+              "start": 0,
+              "username": "ymm162577814299"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091133625551217102",
+        "in_reply_to_user_id": "1954166134204510209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091132979758375324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ymm162577814299 牛来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954166134204510209",
+        "conversation_id": "2090966628553134354",
+        "created_at": "2026-08-22T11:58:48.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091132979758375324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091132979758375324",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090966628553134354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边/故里蓝鸢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "is_identity_verified": true,
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "most_recent_tweet_id": "2091133625551217102",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1685499489493323776/1755691960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10721,
+          "following_count": 685,
+          "like_count": 11450,
+          "listed_count": 29,
+          "media_count": 2594,
+          "tweet_count": 5002
+        },
+        "url": "",
+        "username": "GuiMengNya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-09T13:01:37.000Z",
+        "description": "开心生活，无憾人生",
+        "id": "1954166134204510209",
+        "is_identity_verified": false,
+        "location": "中国台湾",
+        "most_recent_tweet_id": "2091133212953379156",
+        "name": "ymm",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954166134204510209/1755272380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956379826732027904/SFHn91GQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 77,
+          "like_count": 1715,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "ymm162577814299",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

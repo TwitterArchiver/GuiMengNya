@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1685499489493323776",
+    "conversation_id": "2091103089331949728",
+    "created_at": "2026-08-23T03:43:59.000Z",
+    "display_text_range": [
+      9,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T04:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091370841707774197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1962302660541079552",
+          "start": 0,
+          "username": "yuerQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091370841707774197",
+    "in_reply_to_user_id": "1962302660541079552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091103089331949728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuerQwQ 我就说地球ol策划不玩自己做的游戏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1452,
+        "media_key": "3_2090869756563963904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRC9zeaQAAOsGQ.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "2091103089331949728",
+        "created_at": "2026-08-23T03:43:59.000Z",
+        "display_text_range": [
+          9,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T04:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091370841707774197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091370841707774197",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091103089331949728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 我就说地球ol策划不玩自己做的游戏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090869756563963904"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2091103089331949728",
+        "created_at": "2026-08-22T10:00:01.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091103089331949728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1B3DTJW31",
+              "end": 33,
+              "expanded_url": "https://x.com/yuerQwQ/status/2091103089331949728/photo/1",
+              "media_key": "3_2090869756563963904",
+              "start": 10,
+              "url": "https://t.co/C1B3DTJW31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091103089331949728",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090869756563963904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 103057,
+          "like_count": 561,
+          "quote_count": 0,
+          "reply_count": 69,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "暗改了，爆率下调了 https://t.co/C1B3DTJW31"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边/故里蓝鸢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "is_identity_verified": true,
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "most_recent_tweet_id": "2091370841707774197",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1685499489493323776/1755691960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10755,
+          "following_count": 684,
+          "like_count": 11453,
+          "listed_count": 29,
+          "media_count": 2598,
+          "tweet_count": 5007
+        },
+        "url": "",
+        "username": "GuiMengNya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "18岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨180身高体重108丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi丨或许我只剩她了：@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "picxis63594"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "is_identity_verified": false,
+        "location": "最后的思绪",
+        "most_recent_tweet_id": "2091344674531536915",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962302660541079552/1756803789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3427,
+          "following_count": 1592,
+          "like_count": 17353,
+          "listed_count": 4,
+          "media_count": 1400,
+          "tweet_count": 5153
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
